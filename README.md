@@ -8,7 +8,7 @@
 
 ### About Me
 - 👌 I think a lot about how to improve existing codes.
-- 📚 Core knowledge base in Javascript, Typescript, PHP and C.
+- 📚 Core knowledge base in Javascript, Typescript, PHP and C/C++.
 - ❇️ I consider myself a Fullstack developer.
 - 🏕️ Run for inspiration in different places.
 
