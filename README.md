@@ -7,6 +7,10 @@
 </div>
 
 ### About Me
+- 👌 I think a lot about how to improve existing codes.
+- 📚 Core knowledge base in Javascript, Typescript, PHP and C.
+- ❇️ I consider myself a Fullstack developer.
+- 🏕️ Run for inspiration in different places.
 
 ### Another Networks
 [![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~humba01)
