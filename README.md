@@ -2,7 +2,7 @@
   
   ![humba01-image-profile-nick](https://user-images.githubusercontent.com/59739253/189773056-8380ad1c-8517-4adf-8063-671884a2eb4e.png)
 
-  [![Humba01's GitHub stats](https://github-readme-stats.vercel.app/api?username=Humba01&show_icons=true&theme=midnight-purple&count_private=true&border_radius=0&bg_color=DEG,991aff,0000ff&title_color=ffffff&icon_color=00ac99&border_color=777777&hide=stars,prs)](https://github.com/Humba01)
+  [![Humba01's GitHub stats](https://github-readme-stats.vercel.app/api?username=Humba01&show_icons=true&theme=midnight-purple&count_private=true&border_radius=0&bg_color=DEG,991aff,0000ff&title_color=ffffff&icon_color=00ac99&border_color=777777&hide=stars,prs&custom_title=Humba01+Stats)](https://github.com/Humba01)
 
 </div>
 
