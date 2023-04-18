@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![humba01-github-profile-nickname](https://user-images.githubusercontent.com/59739253/211623512-f3bad864-9f98-44c8-91a2-7a2e783dc82c.png)
+  ![humba01-github-profile-nickname](https://user-images.githubusercontent.com/59739253/232824805-c81720f6-1699-4dbf-b62f-923408925aa9.png)
 
 </div>
 
@@ -36,7 +36,7 @@
 ![CSS3](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![HTML5](https://img.shields.io/badge/xhtml-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![XHTML](https://img.shields.io/badge/xhtml-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=oracle&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![JSON](https://img.shields.io/badge/json-%23E34F26.svg?style=for-the-badge&logo=json&logoColor=white)
