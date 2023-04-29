@@ -9,8 +9,8 @@
 - 📚 Core knowledge base in Javascript, Typescript, PHP and C/C++.
 - ❇️ I consider myself a Fullstack developer.
 - 🏕️ Run for inspiration in different places.
-
-### Another Networks
+<!-- 
+ ### Another Networks
 [![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~humba01)
 [![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Humba01)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/Humba01Dev)
@@ -57,3 +57,4 @@
 ![Jasmine](https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white)
 ![Mocha](https://img.shields.io/badge/mocha-ff0033.svg?style=for-the-badge&logo=mocha&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+ -->
