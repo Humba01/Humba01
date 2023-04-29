@@ -13,6 +13,16 @@
   
   ---
   
+  ![Outras Redes  Another Networks](https://user-images.githubusercontent.com/59739253/235328132-aca437fc-165c-4427-9f6e-fe4020db755e.png)
+  
+  [![Vector](https://user-images.githubusercontent.com/59739253/235328148-97ba410f-54ea-4f2e-800f-e248039cb7b4.png)](https://www.npmjs.com/~humba01)
+  [![Vector-2](https://user-images.githubusercontent.com/59739253/235328152-21cec55c-a22d-45b6-a352-59c55f829648.png)](https://gitlab.com/Humba01)
+  [![Vector-1](https://user-images.githubusercontent.com/59739253/235328157-590a6249-0ae0-4440-a273-780c31bc2dc9.png)](https://twitter.com/Humba01D)
+  [![Vector-3](https://user-images.githubusercontent.com/59739253/235328161-f24f6e4d-8908-4471-b8b6-efe0ad981793.png)](https://www.reddit.com/user/Humba01Dev)
+  [![Vector-4](https://user-images.githubusercontent.com/59739253/235328163-a2b311aa-40c4-41d0-9c57-9f2482e6704d.png)](http://mailto:humbandroid@gmail.com)
+  
+  ---
+  
   ![Linguagens com mais experiência  Languages ​​with more experience](https://user-images.githubusercontent.com/59739253/235323242-ac8a8a01-ef12-4a75-b63d-16c3fb450053.png)
 
   ![html](https://user-images.githubusercontent.com/59739253/235323260-1f8b3e62-4ebe-4a4c-84d7-d43065a6dfda.png)
@@ -23,19 +33,11 @@
   ![c   c++](https://user-images.githubusercontent.com/59739253/235323295-0c3e52d4-88b5-43a5-9901-d618f7bb4284.png)
   ![python](https://user-images.githubusercontent.com/59739253/235323299-8df0c904-efe4-4caf-9bc1-07a12b4c6cef.png)
   ![java](https://user-images.githubusercontent.com/59739253/235323300-2998ee99-b160-4bbd-9637-36edc81c3b96.png)
-
   
 </div>
 
   
   <!-- 
- ### Another Networks
-[![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~humba01)
-[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Humba01)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/Humba01Dev)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Humba01D)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](http://mailto:humbandroid@gmail.com)
-
 ### Most Used IDEs
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
