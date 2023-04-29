@@ -2,7 +2,7 @@
   
   ![humba01-github-profile-nickname](https://user-images.githubusercontent.com/59739253/232824805-c81720f6-1699-4dbf-b62f-923408925aa9.png)
 
-  ## About Me
+  ## Sobre Mim [_About Me_]
   
   👌 **Eu penso frequentemente sobre como pode se melhorar os códigos existentes.** <br> [_I think a lot about how to improve existing codes._] <br><br>
   📚 **Base de conhecimento em HTML, CSS, Javascript, Typescript, PHP e C/C++.** <br> [_Base knowledge in HTML, CSS, Javascript, Typescript, PHP and C/C++._] <br><br>
