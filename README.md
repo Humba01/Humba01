@@ -2,14 +2,17 @@
   
   ![humba01-github-profile-nickname](https://user-images.githubusercontent.com/59739253/232824805-c81720f6-1699-4dbf-b62f-923408925aa9.png)
 
+  ## About Me
+  
+  👌 **Eu penso frequentemente sobre como pode se melhorar os códigos existentes.** <br> [_I think a lot about how to improve existing codes._] <br><br>
+  📚 **Base de conhecimento em HTML, CSS, Javascript, Typescript, PHP e C/C++.** <br> [_Base knowledge in HTML, CSS, Javascript, Typescript, PHP and C/C++._] <br><br>
+  ❇️ **Eu me considero um desenvolvedor Fullstack.** <br> [_I consider myself a Fullstack developer._] <br><br>
+  🏕️ **Sempre em busca de inspiração em lugares distintos para encontrar novas ideias.** <br> [_Always looking for inspiration in different places to find new ideas._]
+  
 </div>
 
-### About Me
-- 👌 I think a lot about how to improve existing codes.
-- 📚 Core knowledge base in HTML, CSS, Javascript, Typescript, PHP and C/C++.
-- ❇️ I consider myself a Fullstack developer.
-- 🏕️ Run for inspiration in different places.
-<!-- 
+  
+  <!-- 
  ### Another Networks
 [![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~humba01)
 [![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Humba01)
