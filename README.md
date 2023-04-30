@@ -2,7 +2,7 @@
   
   ![humba01-github-profile-nickname](https://user-images.githubusercontent.com/59739253/232824805-c81720f6-1699-4dbf-b62f-923408925aa9.png)
 
-  ---
+  <br><br> ![Subtract](https://user-images.githubusercontent.com/59739253/235328997-00f421ee-7c2e-4dfb-9ad7-8089850b61cc.png) <br><br>
 
   ![Sobre Mim  About Me](https://user-images.githubusercontent.com/59739253/235323128-3f8d61e9-cc1a-4c4a-891f-831d142b615a.png)
   
@@ -11,7 +11,7 @@
   ❇️ **Eu me considero um desenvolvedor Fullstack.** <br> [_I consider myself a Fullstack developer._] <br><br>
   🏕️ **Sempre em busca de inspiração em lugares distintos para encontrar novas ideias.** <br> [_Always looking for inspiration in different places to find new ideas._]
   
-  ---
+  <br><br> ![Subtract](https://user-images.githubusercontent.com/59739253/235328997-00f421ee-7c2e-4dfb-9ad7-8089850b61cc.png) <br><br>
   
   ![Outras Redes  Another Networks](https://user-images.githubusercontent.com/59739253/235328132-aca437fc-165c-4427-9f6e-fe4020db755e.png)
   
@@ -21,8 +21,8 @@
   [![Vector-3](https://user-images.githubusercontent.com/59739253/235328161-f24f6e4d-8908-4471-b8b6-efe0ad981793.png)](https://www.reddit.com/user/Humba01Dev)
   [![Vector-4](https://user-images.githubusercontent.com/59739253/235328163-a2b311aa-40c4-41d0-9c57-9f2482e6704d.png)](http://mailto:humbandroid@gmail.com)
   
-  ---
-  
+  <br><br> ![Subtract](https://user-images.githubusercontent.com/59739253/235328997-00f421ee-7c2e-4dfb-9ad7-8089850b61cc.png) <br><br>
+ 
   ![Linguagens com mais experiência  Languages ​​with more experience](https://user-images.githubusercontent.com/59739253/235323242-ac8a8a01-ef12-4a75-b63d-16c3fb450053.png)
 
   ![html](https://user-images.githubusercontent.com/59739253/235323260-1f8b3e62-4ebe-4a4c-84d7-d43065a6dfda.png)
