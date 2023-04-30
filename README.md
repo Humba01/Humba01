@@ -34,6 +34,6 @@
   ![python](https://user-images.githubusercontent.com/59739253/235323299-8df0c904-efe4-4caf-9bc1-07a12b4c6cef.png)
   ![java](https://user-images.githubusercontent.com/59739253/235323300-2998ee99-b160-4bbd-9637-36edc81c3b96.png)
   
-  ![Rectangle 11](https://user-images.githubusercontent.com/59739253/235329636-13dfb7e6-e39f-47ef-9fa7-cf14342773bb.png) 
+   <br><br> ![Rectangle 11](https://user-images.githubusercontent.com/59739253/235329636-13dfb7e6-e39f-47ef-9fa7-cf14342773bb.png) 
   
 </div>
