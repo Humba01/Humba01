@@ -17,7 +17,6 @@
   
   [![Vector](https://user-images.githubusercontent.com/59739253/235328148-97ba410f-54ea-4f2e-800f-e248039cb7b4.png)](https://www.npmjs.com/~humba01)
   [![Vector-2](https://user-images.githubusercontent.com/59739253/235328152-21cec55c-a22d-45b6-a352-59c55f829648.png)](https://gitlab.com/Humba01)
-  [![Vector-1](https://user-images.githubusercontent.com/59739253/235328157-590a6249-0ae0-4440-a273-780c31bc2dc9.png)](https://twitter.com/Humba01D)
   [![Vector-3](https://user-images.githubusercontent.com/59739253/235328161-f24f6e4d-8908-4471-b8b6-efe0ad981793.png)](https://www.reddit.com/user/Humba01Dev)
   [![Vector-4](https://user-images.githubusercontent.com/59739253/235328163-a2b311aa-40c4-41d0-9c57-9f2482e6704d.png)](http://mailto:humbandroid@gmail.com)
   
