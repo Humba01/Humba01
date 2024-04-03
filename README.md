@@ -37,6 +37,12 @@
   ![javascript](https://github.com/Humba01/Humba01/assets/59739253/494c5d90-f7bb-4b05-9504-3b114d588a45)
   ![typescript](https://github.com/Humba01/Humba01/assets/59739253/e308c8ef-4bf3-4538-94b6-fcea9ec21301)
   ![c-e-cpp](https://github.com/Humba01/Humba01/assets/59739253/58828e2d-8f8e-466e-b10f-9a0924961db3)
-  ![java](https://github.com/Humba01/Humba01/assets/59739253/adbe9b4b-d207-46d3-91f3-fa7ccb5f0eab)
+  ![java](https://github.com/Humba01/Humba01/assets/59739253/adbe9b4b-d207-46d3-91f3-fa7ccb5f0eab)<br>
+  ![php](https://github.com/Humba01/Humba01/assets/59739253/855f68d5-3a1f-4312-87c9-733dab702522)
+  ![python](https://github.com/Humba01/Humba01/assets/59739253/00d033a9-3fbe-4df1-9b5f-a25bbb3692db)
+  ![xml](https://github.com/Humba01/Humba01/assets/59739253/0c144e53-2d62-4cf9-bd50-4be6ce8bf5fc)
+  ![git](https://github.com/Humba01/Humba01/assets/59739253/264db5bf-bc7c-477b-8dd3-9c395a619163)
+
+
   
 </div>
