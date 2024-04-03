@@ -43,6 +43,42 @@
   ![xml](https://github.com/Humba01/Humba01/assets/59739253/0c144e53-2d62-4cf9-bd50-4be6ce8bf5fc)
   ![git](https://github.com/Humba01/Humba01/assets/59739253/264db5bf-bc7c-477b-8dd3-9c395a619163)
 
+</div><br>
 
-  
-</div>
+## Outras Ferramentas, Frameworks, Habilidades
+
+**Bootstrap** <br>
+**```Nível de conhecimento: [▤▤▤▤▤]```** <br><br>
+
+**JasmineJS** <br>
+**```Nível de conhecimento: [▤▤▤▢▢]```** <br><br>
+
+**React** <br>
+**```Nível de conhecimento: [▤▤▢▢▢]```** <br><br>
+
+**PostegreSQL** <br>
+**```Nível de conhecimento: [▤▤▤▢▢]```** <br><br>
+
+**MySQL** <br>
+**```Nível de conhecimento: [▤▤▢▢▢]```** <br><br>
+
+**SVG** <br>
+**```Nível de conhecimento: [▤▤▤▤▢]```** <br><br>
+
+**YAML** <br>
+**```Nível de conhecimento: [▤▤▤▢▢]```** <br><br>
+
+**Lua Language** <br>
+**```Nível de conhecimento: [▤▢▢▢▢]```** <br><br>
+
+**Kotlin** <br>
+**```Nível de conhecimento: [▤▢▢▢▢]```** <br><br>
+
+**Dart and Flutter** <br>
+**```Nível de conhecimento: [▤▤▢▢▢]```** <br><br>
+
+**Bash/Pwsh** <br>
+**```Nível de conhecimento: [▤▤▢▢▢]```** <br><br>
+
+**Sass/Compass/LESS** <br>
+**```Nível de conhecimento: [▤▤▤▢▢]```** <br><br>
