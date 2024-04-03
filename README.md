@@ -22,9 +22,9 @@
 
   <div style="display: flex; justify-content: space-between; width: 80%;">
     
-  ![npm_link](https://github.com/Humba01/Humba01/assets/59739253/ace3b978-8787-4e9e-b99e-d7bcf0b8c4f1)
-  ![reddit_link](https://github.com/Humba01/Humba01/assets/59739253/5eec367c-17e6-4b03-b77c-83661bf58076)
-  ![gitlab_link](https://github.com/Humba01/Humba01/assets/59739253/c2798f28-7d97-4766-a691-6d75a955e1f1)
+  [![npm_link](https://github.com/Humba01/Humba01/assets/59739253/ace3b978-8787-4e9e-b99e-d7bcf0b8c4f1)](https://www.npmjs.com/~humba01)
+  [![reddit_link](https://github.com/Humba01/Humba01/assets/59739253/5eec367c-17e6-4b03-b77c-83661bf58076)](https://gitlab.com/Humba01)
+  [![gitlab_link](https://github.com/Humba01/Humba01/assets/59739253/c2798f28-7d97-4766-a691-6d75a955e1f1)](https://www.reddit.com/user/Humba01Dev)
 
   </div>
 
