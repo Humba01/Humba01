@@ -12,7 +12,7 @@
   ![Sobre Mim  About Me](https://user-images.githubusercontent.com/59739253/235323128-3f8d61e9-cc1a-4c4a-891f-831d142b615a.png)
   
   👌 **Eu penso frequentemente sobre como pode se melhorar os códigos existentes.** <br> [_I think a lot about how to improve existing codes._] <br><br>
-  📚 **Base de conhecimento em HTML, CSS, Javascript, Typescript, PHP e C/C++.** <br> [_Base knowledge in HTML, CSS, Javascript, Typescript, PHP and C/C++._] <br><br>
+  📚 **Base principal de conhecimento em HTML, CSS, Javascript, Typescript, PHP e C/C++.** <br> [_Main base knowledge in HTML, CSS, Javascript, Typescript, PHP and C/C++._] <br><br>
   ❇️ **Eu me considero um desenvolvedor Fullstack.** <br> [_I consider myself a Fullstack developer._] <br><br>
   🏕️ **Sempre em busca de inspiração em lugares distintos para encontrar novas ideias.** <br> [_Always looking for inspiration in different places to find new ideas._]
   
