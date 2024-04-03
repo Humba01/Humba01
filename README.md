@@ -29,4 +29,14 @@
   </div>
 
   <br> ![section_model](https://github.com/Humba01/Humba01/assets/59739253/7e904f44-9dff-439c-96fe-7a10082597af) <br>
+
+  ![Plataformas Conhecidas](https://github.com/Humba01/Humba01/assets/59739253/3b3aa972-7d73-4039-b37b-687a040dde7d)
+
+  ![html](https://github.com/Humba01/Humba01/assets/59739253/0d19182f-04ff-4ef2-a801-38bb7e13c3cb)
+  ![css](https://github.com/Humba01/Humba01/assets/59739253/05c75c30-39a1-4238-8540-66983056968f)
+  ![javascript](https://github.com/Humba01/Humba01/assets/59739253/494c5d90-f7bb-4b05-9504-3b114d588a45)
+  ![typescript](https://github.com/Humba01/Humba01/assets/59739253/e308c8ef-4bf3-4538-94b6-fcea9ec21301)
+  ![c-e-cpp](https://github.com/Humba01/Humba01/assets/59739253/58828e2d-8f8e-466e-b10f-9a0924961db3)
+  ![java](https://github.com/Humba01/Humba01/assets/59739253/adbe9b4b-d207-46d3-91f3-fa7ccb5f0eab)
+  
 </div>
