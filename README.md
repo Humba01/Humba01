@@ -82,3 +82,9 @@
 
 **Sass/Compass/LESS** <br>
 **```Nível de conhecimento: [▤▤▤▢▢]```** <br><br>
+
+**Grunt/Gulp/Webpack** <br>
+**```Nível de conhecimento: [▤▤▤▢▢]```** <br><br>
+
+**Composer** <br>
+**```Nível de conhecimento: [▤▤▤▢▢]```** <br><br>
