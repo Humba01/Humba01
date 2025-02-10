@@ -37,6 +37,12 @@
   ![css](./assets/css-card-knownledge.svg)
   ![javascript](./assets/js-card-knownledge.svg)
   ![typescript](./assets/ts-card-knownledge.svg)
+  ![react](./assets/react-card-knownledge.svg)
   ![php](./assets/php-card-knownledge.svg)
+  ![python](./assets/python-card-knownledge.svg)
+  ![ansic](./assets/ansic-card-knownledge.svg)
+  ![cpp](./assets/cpp-card-knownledge.svg)
+  ![java](./assets/java-card-knownledge.svg)
+  ![git](./assets/git-card-knownledge.svg)
 
 </div><br>
