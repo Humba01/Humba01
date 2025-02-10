@@ -12,7 +12,7 @@
    ![Sobre Mim](./assets/sobre-mim-card-header.svg)
   
   👌 **Eu penso frequentemente sobre como pode se melhorar os códigos existentes.** <br> [_I think a lot about how to improve existing codes._] <br><br>
-  📚 **Base principal de conhecimento em HTML, CSS, Javascript, Typescript.** <br> [_Main base knowledge in HTML, CSS, Javascript, Typescript._] <br><br>
+  📚 **Base principal de conhecimento em HTML, CSS, Javascript e Typescript.** <br> [_Main base knowledge in HTML, CSS, Javascript and Typescript._] <br><br>
   🏕️ **Sempre em busca de inspiração em lugares distintos para encontrar novas ideias.** <br> [_Always looking for inspiration in different places to find new ideas._]
   
   <br> ![section_model](./assets/humba01-readme-divisor.svg) <br>
