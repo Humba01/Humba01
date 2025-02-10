@@ -44,5 +44,6 @@
   ![cpp](./assets/cpp-card-knownledge.svg)
   ![java](./assets/java-card-knownledge.svg)
   ![git](./assets/git-card-knownledge.svg)
+  ![sql](./assets/sql-card-knownledge.svg)
 
 </div><br>
