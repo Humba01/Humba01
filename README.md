@@ -33,8 +33,10 @@
 
   ![Conhecimentos](./assets/conhecimentos-card-header.svg)
 
-  Coming Soon Information...
-
+  ![html](./assets/html-card-knownledge.svg)
+  ![css](./assets/css-card-knownledge.svg)
+  ![javascript](./assets/js-card-knownledge.svg)
+  ![typescript](./assets/ts-card-knownledge.svg)
+  ![php](./assets/php-card-knownledge.svg)
 
 </div><br>
-
