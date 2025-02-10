@@ -3,9 +3,12 @@
   ![humba01-github-profile-nickname](./assets/Humba01.svg)
 
   <br><br> 
-  ![Humba01's Stats](https://github-readme-stats.vercel.app/api?username=Humba01&theme=nord&show_icons=true&hide_border=false&count_private=true)<br>
-  ![Humba01's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Humba01&theme=nord&hide_border=false)<br>
-  ![Humba01's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Humba01&theme=nord&show_icons=true&hide_border=false&layout=compact)
+
+  ![Humba01's Stats](https://github-readme-stats.vercel.app/api?username=Humba01&theme=material-palenight&show_icons=true&hide_border=false&count_private=true)<br>
+
+  ![Humba01's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Humba01&theme=material-palenight&hide_border=false)<br>
+
+  ![Humba01's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Humba01&theme=material-palenight&show_icons=true&hide_border=false&layout=compact)
 
   <br> ![section_model](./assets/humba01-readme-divisor.svg) <br>
 
