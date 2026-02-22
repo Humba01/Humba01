@@ -51,13 +51,32 @@ Sou um estudante de Ciência da Computação, apaixonado por tecnologia e desenv
 
 ![Conexões-Title](./assets/Conexões-container.svg)
 
-<img src="./assets/Linkedin.svg" width="110" padding="1rem" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/Reddit.svg" width="110" padding="1rem" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/GitLab.svg" width="110" padding="1rem" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/ORCID.svg" width="110" padding="1rem" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/Website.svg" width="110" padding="1rem" />&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
-<img src="./assets/Email.svg" width="110" padding="1rem" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/X-Twitter.svg" width="110" padding="1rem" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/Instagram.svg" width="110" padding="1rem" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./assets/Bluesky.svg" width="110" padding="1rem" />&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/humberto-bravo-00100010i/">
+    <img src="./assets/Linkedin.svg" width="110" padding="1rem" />
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.reddit.com/user/Humba01Dev">
+    <img src="./assets/Reddit.svg" width="110" padding="1rem" />
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://gitlab.com/Humba01">
+    <img src="./assets/GitLab.svg" width="110" padding="1rem" />
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://orcid.org/0009-0004-2474-1855">
+    <img src="./assets/ORCID.svg" width="110" padding="1rem" />
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.humbanew.com.br">
+    <img src="./assets/Website.svg" width="110" padding="1rem" />
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<br><br>
+<a href="mailto:development@humbanew.com.br">
+    <img src="./assets/Email.svg" width="110" padding="1rem" />
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://x.com/Humba01_">
+    <img src="./assets/X-Twitter.svg" width="110" padding="1rem" />
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://bsky.app/profile/humba01.bsky.social">
+    <img src="./assets/Bluesky.svg" width="110" padding="1rem" />
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://cursos.alura.com.br/user/humba01">
+    <img src="./assets/Alura.svg" width="110" padding="1rem" />
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
