@@ -1,6 +1,20 @@
 <div align="center">
 
-![Humba01-Header-Profile](./assets/Humba01-Github.svg)
+![Humba01-Header-Profile](./assets/Humba01-Github.svg)<br>
+![Destaques](./assets/Destaques.svg)
+...
+
+![Sobre-Mim](./assets/Sobre-Mim.svg)
+...
+
+![Meus-Conhecimentos](./assets/Meus-Conhecimentos.svg)
+...
+
+![Em-Aprendizado](./assets/Em-Aprendizado.svg)
+...
+
+![Conexões](./assets/Conexões.svg)
+...
 
 </div>
 
