@@ -2,7 +2,9 @@
 
 ![Humba01-Header-Profile](./assets/Humba01-Github.svg)<br>
 ![Destaques](./assets/Destaques.svg)
-...
+
+![Humba01's-Stats](https://github-readme-stats.vercel.app/api?username=Humba01&show_icons=true&theme=radical)
+![Humba01's-Steak](https://github-readme-stats.vercel.app/api/top-langs/?username=Humba01&layout=compact&theme=radical)
 
 ![Sobre-Mim](./assets/Sobre-Mim.svg)
 ...
