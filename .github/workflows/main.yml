@@ -34,7 +34,7 @@ jobs:
     #  color_background:  Color of the background (for gif only)
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#c07eec&color_dots=#0e21a0,#4d2fb2,#b153d7,#f375c2,#f7374f
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#b153d7&color_dots=#190626,#1d062d,#27093b,#300b49,#3a0d57
           
           
       # push the content of <build_dir> to a branch
