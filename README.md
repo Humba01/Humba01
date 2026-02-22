@@ -3,7 +3,7 @@
 ![Humba01-Header-Profile](./assets/Humba01-Github.svg)<br>
 
 ![Destaques-Title](./assets/Destaques-container.svg)
-[![Humba01's GitHub stats 1](https://github-readme-stats-fast.vercel.app/api/?username=Humba01&theme=dracula&locale=pt-br)](https://github.com/pranesh-2005/github-readme-stats-fast)<br>
+[![Humba01's GitHub stats 1](https://github-readme-stats-fast.vercel.app/api/?username=Humba01&theme=dracula&locale=pt-br)](https://github.com/pranesh-2005/github-readme-stats-fast)<br><br><br>
 [![Humba01's GitHub stats 2](https://github-readme-stats-fast.vercel.app/api/streak/?username=Humba01&theme=dracula&locale=pt-br)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 <picture>
