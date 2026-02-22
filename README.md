@@ -1,11 +1,6 @@
-<div align="left">
+<div align="center">
 
 ![Humba01-Header-Profile](./assets/Humba01-Github.svg)
-
-![Destaques](./assets/Destaques.svg)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Humba01&show_icons=true&theme=radical)
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Humba01&theme=radical)
 
 </div>
 
