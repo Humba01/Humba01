@@ -1,12 +1,12 @@
 <div align="center">
 
 ![Humba01-Header-Profile](./assets/Humba01-Github.svg)<br>
-<!-- ![Destaques](./assets/Destaques.svg)
 
-![Humba01's GitHub stats](https://github-readme-stats.vercel.app/api?username=Humba01&show_icons=true&theme=tokyonight)
-![Humba01's-Steak](https://github-readme-stats.vercel.app/api/top-langs/?username=Humba01&layout=compact&theme=tokyonight)
+![Destaques-Title](./assets/Destaques-container.svg)
+[![Humba01's GitHub stats 1](https://github-readme-stats-fast.vercel.app/api/?username=Humba01&theme=dracula&locale=pt-br)](https://github.com/pranesh-2005/github-readme-stats-fast)<br>
+[![Humba01's GitHub stats 2](https://github-readme-stats-fast.vercel.app/api/streak/?username=Humba01&theme=dracula&locale=pt-br)](https://github.com/pranesh-2005/github-readme-stats-fast)<br><br>
 
-![Sobre-Mim](./assets/Sobre-Mim.svg)
+![Sobre-Mim-Title](./assets/Sobre-Mim-container.svg)
 
 <div align="justify">
 
@@ -23,29 +23,41 @@ Sou um estudante de Ciência da Computação, apaixonado por tecnologia e desenv
 
 </div><br><br>
 
-![Meus-Conhecimentos](./assets/Meus-Conhecimentos.svg)
+![Meus-Conhecimentos-Title](./assets/Meus-Conhecimentos-container.svg)
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="32" height="32" padding="1rem" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="32" height="32" padding="1rem" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/less/less-plain-wordmark.svg" width="32" height="32" padding="1rem" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="32" height="32" padding="1rem" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="32" height="32" padding="1rem" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" width="32" height="32" padding="1rem" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="32" height="32" padding="1rem" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-plain.svg" width="32" height="32" padding="1rem" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="32" height="32" padding="1rem" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" width="32" height="32" padding="1rem" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="32" height="32" padding="1rem" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain-wordmark.svg" width="32" height="32" padding="1rem" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" width="32" height="32" padding="1rem" />
-<br><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="36" height="36" padding="1rem" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="36" height="36" padding="1rem" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/less/less-plain-wordmark.svg" width="36" height="36" padding="1rem" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="36" height="36" padding="1rem" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="36" height="36" padding="1rem" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="36" height="36" padding="1rem" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="36" height="36" padding="1rem" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="36" height="36" padding="1rem" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="36" height="36" padding="1rem" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="36" height="36" padding="1rem" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="36" height="36" padding="1rem" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="36" height="36" padding="1rem" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="36" height="36" padding="1rem" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="36" height="36" padding="1rem" />&nbsp;&nbsp;&nbsp;&nbsp;
 
-![Em-Aprendizado](./assets/Em-Aprendizado.svg)
+![Em-Aprendizado-Title](./assets/Em-Aprendizado-container.svg)
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original-wordmark.svg" width="32" height="32" padding="1rem" />
-<br><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="36" height="36" padding="1rem" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="36" height="36" padding="1rem" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="36" height="36" padding="1rem" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" width="36" height="36" padding="1rem" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/julia/julia-original.svg" width="36" height="36" padding="1rem" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elixir/elixir-original.svg" width="36" height="36" padding="1rem" />&nbsp;&nbsp;&nbsp;&nbsp;
 
-![Conexões](./assets/Conexões.svg)
-... -->
+![Conexões-Title](./assets/Conexões-container.svg)
 
+<img src="./assets/Linkedin.svg" width="110" padding="1rem" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./assets/Reddit.svg" width="110" padding="1rem" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./assets/GitLab.svg" width="110" padding="1rem" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./assets/ORCID.svg" width="110" padding="1rem" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./assets/Website.svg" width="110" padding="1rem" />&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
+<img src="./assets/Email.svg" width="110" padding="1rem" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./assets/X-Twitter.svg" width="110" padding="1rem" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./assets/Instagram.svg" width="110" padding="1rem" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./assets/Bluesky.svg" width="110" padding="1rem" />&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
