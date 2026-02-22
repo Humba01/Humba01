@@ -1,7 +1,7 @@
 <div align="center">
 
 ![Humba01-Header-Profile](./assets/Humba01-Github.svg)<br>
-![Destaques](./assets/Destaques.svg)
+<!-- ![Destaques](./assets/Destaques.svg)
 
 ![Humba01's GitHub stats](https://github-readme-stats.vercel.app/api?username=Humba01&show_icons=true&theme=tokyonight)
 ![Humba01's-Steak](https://github-readme-stats.vercel.app/api/top-langs/?username=Humba01&layout=compact&theme=tokyonight)
@@ -46,6 +46,6 @@ Sou um estudante de Ciência da Computação, apaixonado por tecnologia e desenv
 <br><br>
 
 ![Conexões](./assets/Conexões.svg)
-...
+... -->
 
 </div>
