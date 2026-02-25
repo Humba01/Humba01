@@ -16,7 +16,7 @@
 
 <div align="justify">
 
-Sou um estudante de Ciência da Computação, apaixonado por tecnologia e desenvolvimento de software. Tenho experiência em diversas linguagens de programação, como Java, Python, ANSI C/C++ e JavaScript/Typescript. Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades para me tornar um desenvolvedor mais completo. Além disso, sou um entusiasta de inteligência artificial e estou interessado em explorar as possibilidades que essa área oferece.
+Sou um estudante de Ciência da Computação, apaixonado por tecnologia e desenvolvimento de software. Tenho experiência em diversas linguagens de programação, como Java, PHP, ANSI C/C++ e JavaScript/Typescript. Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades para me tornar um desenvolvedor mais completo. Além disso, sou um entusiasta de inteligência artificial e estou interessado em explorar as possibilidades que essa área oferece.
 
 - 🔭 Atualmente estou trabalhando em projetos pessoais, acadêmicos e freelancer.
 - 🌱 Atualmente estou aprendendo a linguagem Kotlin.
