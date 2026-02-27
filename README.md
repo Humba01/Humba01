@@ -49,11 +49,12 @@ Sou um estudante de Ciência da Computação, apaixonado por tecnologia e desenv
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="36" height="36" padding="1rem" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="36" height="36" padding="1rem" />&nbsp;&nbsp;&nbsp;&nbsp;
-# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="36" height="36" padding="1rem" />&nbsp;&nbsp;&nbsp;&nbsp;
-# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="36" height="36" padding="1rem" />&nbsp;&nbsp;&nbsp;&nbsp;
-# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" width="36" height="36" padding="1rem" />&nbsp;&nbsp;&nbsp;&nbsp;
-# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/julia/julia-original.svg" width="36" height="36" padding="1rem" />&nbsp;&nbsp;&nbsp;&nbsp;
-# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elixir/elixir-original.svg" width="36" height="36" padding="1rem" />&nbsp;&nbsp;&nbsp;&nbsp;
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="36" height="36" padding="1rem" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="36" height="36" padding="1rem" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" width="36" height="36" padding="1rem" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/julia/julia-original.svg" width="36" height="36" padding="1rem" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elixir/elixir-original.svg" width="36" height="36" padding="1rem" />&nbsp;&nbsp;&nbsp;&nbsp;
+-->
 
 ![Conexões-Title](./assets/Conexões-container.svg)
 
