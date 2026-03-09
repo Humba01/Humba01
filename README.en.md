@@ -6,7 +6,7 @@
 
 ## Languages:
 
--   [Portuguese (Brazil)](README.md)
+-   [Portuguese](README.md)
 -   [English](README.en.md)
 -   [Spanish](README.es.md)
 -   [Italian](README.it.md)
