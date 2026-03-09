@@ -5,7 +5,7 @@
 <div align="left">
 
 ## Idiomas:
-- [Português (Brasil)](README.md)
+- [Português](README.md)
 - [Inglês](README.en.md)
 - [Espanhol](README.es.md)
 - [Italiano](README.it.md)
