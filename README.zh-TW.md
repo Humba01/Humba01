@@ -4,17 +4,17 @@
 
 <div align="left">
 
-## Idiomas:
+## 語言：
 
--   ![Português (Brasil)](./README.md)
--   ![Inglês](./README.en.md)
--   ![Espanhol](./README.es.md)
--   ![Italiano](./README.it.md)
--   ![Francês](./README.fr.md)
--   ![Alemão](./README.de.md)
--   ![Japonês](./README.ja.md)
--   ![Chinês (Simplificado)](./README.zh-CN.md)
--   ![Chinês (Tradicional)](./README.zh-TW.md)
+-   [葡萄牙語](README.md)
+-   [英語](README.en.md)
+-   [西班牙語](README.es.md)
+-   [義大利語](README.it.md)
+-   [法語](README.fr.md)
+-   [德文](README.de.md)
+-   [日本人](README.ja.md)
+-   [中文（簡體）](README.zh-CN.md)
+-   [中文（繁體）](README.zh-TW.md)
     </div><br>
 
 ![Destaques-Title](./assets/Destaques-container.svg)[![Humba01's GitHub stats 1](https://github-readme-stats-fast.vercel.app/api/?username=Humba01&theme=dracula&locale=pt-br)](https://github.com/pranesh-2005/github-readme-stats-fast)<br><br><br>[![Humba01's GitHub stats 2](https://github-readme-stats-fast.vercel.app/api/streak/?username=Humba01&theme=dracula&locale=pt-br)](https://github.com/pranesh-2005/github-readme-stats-fast)
@@ -35,7 +35,7 @@
 -   🌱 我目前正在學習 Kotlin 語言。
 -   👯 我嘗試在我受聘的個人和團隊專案上進行合作。
 -   🤔 我正在尋求軟體故障排除的協助。
--   💬 問我有關技術和人工智慧領域的問題。
+-   💬 Pergunte-me sobre a área de tecnologia e Inteligência Artificial.
 -   📫 如何聯絡我：透過電子郵件[development@humbanew.com.br](mailto:development@humbanew.com.br).
 -   😄 代名詞：he/him - ele/dele
 -   ⚡ 有趣的事實：我非常專注於在空閒時間建立瘋狂的專案。
