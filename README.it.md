@@ -2,6 +2,21 @@
 
 ![Humba01-Header-Profile](./assets/Humba01-Github.svg)<br>
 
+<div align="left">
+
+## Lingue:
+
+-   ![Português (Brasil)](./README.md)
+-   ![Inglês](./README.en.md)
+-   ![Espanhol](./README.es.md)
+-   ![Italiano](./README.it.md)
+-   ![Francês](./README.fr.md)
+-   ![Alemão](./README.de.md)
+-   ![Japonês](./README.ja.md)
+-   ![Chinês (Simplificado)](./README.zh-CN.md)
+-   ![Chinês (Tradicional)](./README.zh-TW.md)
+    </div><br>
+
 ![Destaques-Title](./assets/Destaques-container.svg)[![Humba01's GitHub stats 1](https://github-readme-stats-fast.vercel.app/api/?username=Humba01&theme=dracula&locale=pt-br)](https://github.com/pranesh-2005/github-readme-stats-fast)<br><br><br>[![Humba01's GitHub stats 2](https://github-readme-stats-fast.vercel.app/api/streak/?username=Humba01&theme=dracula&locale=pt-br)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 <picture>
@@ -22,7 +37,7 @@ Sono uno studente di Informatica, appassionato di tecnologia e sviluppo software
 -   🤔 Cerco aiuto per la risoluzione dei problemi del software.
 -   💬 Chiedimi informazioni sull'area della tecnologia e dell'intelligenza artificiale.
 -   📫 Come raggiungermi: via email[development@humbanew.com.br](mailto:development@humbanew.com.br).
--   😄 Pronouns: he/him - ele/dele
+-   😄 Pronomi: lui/lui - ele/dele
 -   ⚡ Fatto curioso: nel mio tempo libero sono molto concentrato sulla realizzazione di progetti folli.
 
 </div><br><br>
