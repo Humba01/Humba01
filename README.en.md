@@ -6,15 +6,15 @@
 
 ## Languages:
 
--   ![Português (Brasil)](./README.md)
--   ![Inglês](./README.en.md)
--   ![Espanhol](./README.es.md)
--   ![Italiano](./README.it.md)
--   ![Francês](./README.fr.md)
--   ![Alemão](./README.de.md)
--   ![Japonês](./README.ja.md)
--   ![Chinês (Simplificado)](./README.zh-CN.md)
--   ![Chinês (Tradicional)](./README.zh-TW.md)
+-   [Portuguese (Brazil)](README.md)
+-   [English](README.en.md)
+-   [Spanish](README.es.md)
+-   [Italian](README.it.md)
+-   [French](README.fr.md)
+-   [German](README.de.md)
+-   [Japanese](README.ja.md)
+-   [Chinese (Simplified)](README.zh-CN.md)
+-   [Chinese (Traditional)](README.zh-TW.md)
     </div><br>
 
 ![Destaques-Title](./assets/Destaques-container.svg)[![Humba01's GitHub stats 1](https://github-readme-stats-fast.vercel.app/api/?username=Humba01&theme=dracula&locale=pt-br)](https://github.com/pranesh-2005/github-readme-stats-fast)<br><br><br>[![Humba01's GitHub stats 2](https://github-readme-stats-fast.vercel.app/api/streak/?username=Humba01&theme=dracula&locale=pt-br)](https://github.com/pranesh-2005/github-readme-stats-fast)
