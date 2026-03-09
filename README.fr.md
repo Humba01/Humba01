@@ -6,7 +6,7 @@
 
 ## Langues :
 
--   [Portugais (Brésil)](README.md)
+-   [portugais](README.md)
 -   [Anglais](README.en.md)
 -   [Espagnol](README.es.md)
 -   [italien](README.it.md)
