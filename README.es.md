@@ -2,6 +2,21 @@
 
 ![Humba01-Header-Profile](./assets/Humba01-Github.svg)<br>
 
+<div align="left">
+
+## Idiomas:
+
+-   ![Português (Brasil)](./README.md)
+-   ![Inglês](./README.en.md)
+-   ![Espanhol](./README.es.md)
+-   ![Italiano](./README.it.md)
+-   ![Francês](./README.fr.md)
+-   ![Alemão](./README.de.md)
+-   ![Japonês](./README.ja.md)
+-   ![Chinês (Simplificado)](./README.zh-CN.md)
+-   ![Chinês (Tradicional)](./README.zh-TW.md)
+    </div><br>
+
 ![Destaques-Title](./assets/Destaques-container.svg)[![Humba01's GitHub stats 1](https://github-readme-stats-fast.vercel.app/api/?username=Humba01&theme=dracula&locale=pt-br)](https://github.com/pranesh-2005/github-readme-stats-fast)<br><br><br>[![Humba01's GitHub stats 2](https://github-readme-stats-fast.vercel.app/api/streak/?username=Humba01&theme=dracula&locale=pt-br)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 <picture>
@@ -18,7 +33,7 @@ Soy estudiante de Informática, apasionado por la tecnología y el desarrollo de
 
 -   🔭 Actualmente estoy trabajando en proyectos personales, académicos y freelance.
 -   🌱 Actualmente estoy aprendiendo el lenguaje Kotlin.
--   👯 Procuro colaborar em projetos pessoais e de equipes que for contratado.
+-   👯 Intento colaborar en proyectos personales y de equipo que me contratan.
 -   🤔 Estoy buscando ayuda con la resolución de problemas de software.
 -   💬 Consultame sobre el área de tecnología e Inteligencia Artificial.
 -   📫 Cómo comunicarse conmigo: por correo electrónico[development@humbanew.com.br](mailto:development@humbanew.com.br).
