@@ -6,9 +6,9 @@
 
 ## Sprachen:
 
--   [Portugiesisch (Brasilien)](README.md)
+-   [Portugiesisch](README.md)
 -   [Englisch](README.en.md)
--   [Spanisch](README.es.md)
+-   [Espanhol](README.es.md)
 -   [Italienisch](README.it.md)
 -   [Französisch](README.fr.md)
 -   [Deutsch](README.de.md)
