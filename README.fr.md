@@ -6,7 +6,7 @@
 
 ![Idiomas-Title](./assets/Idiomas-container.svg)
 
-   [portugais](README.md) [Anglais](README.en.md) [Espagnol](README.es.md) [italien](README.it.md) [Français](README.fr.md) [Allemand](README.de.md) [japonais](README.ja.md) [Chinois (simplifié)](README.zh-CN.md) [Chinois (traditionnel)](README.zh-TW.md) [coréen](README.ko.md) [Russo](README.ru.md) [arabe](README.ar.md) [Hollande](README.nl.md) [Non](README.hi.md) [Hebraico](README.he.md)
+   [portugais](README.md) [Anglais](README.en.md) [Espagnol](README.es.md) [italien](README.it.md) [Français](README.fr.md) [Allemand](README.de.md) [japonais](README.ja.md) [Chinois (simplifié)](README.zh-CN.md) [Chinois (traditionnel)](README.zh-TW.md) [coréen](README.ko.md) [Russe](README.ru.md) [arabe](README.ar.md) [Hollande](README.nl.md) [Non](README.hi.md) [grec](README.el.md)
 
 </div><br>
 
