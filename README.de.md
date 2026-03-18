@@ -4,7 +4,7 @@
 
 ![Idiomas-Title](./assets/Idiomas-container.svg)
 
-   [Portugiesisch](README.md) [Englisch](README.en.md) [Spanisch](README.es.md) [Italienisch](README.it.md) [Französisch](README.fr.md) [Deutsch](README.de.md) <br>[japanisch](README.ja.md) [Chinesisch (vereinfacht)](README.zh-CN.md) [Chinesisch (traditionell)](README.zh-TW.md) [Koreanisch](README.ko.md) [Russo](README.ru.md) [Arabisch](README.ar.md)<br> [Holland](README.nl.md) [Nein](README.hi.md) [hebräisch](README.iw.md) [griechisch](README.el.md)<br>
+   [Portugiesisch](README.md) [Englisch](README.en.md) [Spanisch](README.es.md) [Italienisch](README.it.md) [Französisch](README.fr.md) [Deutsch](README.de.md) <br>[japanisch](README.ja.md) [Chinesisch (vereinfacht)](README.zh-CN.md) [Chinesisch (traditionell)](README.zh-TW.md) [Koreanisch](README.ko.md) [Russo](README.ru.md) [Arabisch](README.ar.md)<br> [Holland](README.nl.md) [Nein](README.hi.md) [Hebraico](README.iw.md) [griechisch](README.el.md)<br>
 
 ![Destaques-Title](./assets/Destaques-container.svg)[![Humba01's GitHub stats 1](https://github-readme-stats-fast.vercel.app/api/?username=Humba01&theme=dracula&locale=pt-br)](https://github.com/pranesh-2005/github-readme-stats-fast)<br><br><br>[![Humba01's GitHub stats 2](https://github-readme-stats-fast.vercel.app/api/streak/?username=Humba01&theme=dracula&locale=pt-br)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
@@ -21,7 +21,7 @@
 Ich studiere Informatik und habe eine Leidenschaft für Technologie und Softwareentwicklung. Ich habe Erfahrung in mehreren Programmiersprachen, wie Java, PHP, ANSI C/C++ und JavaScript/Typescript. Ich bin immer auf der Suche nach neuen Technologien und verbessere meine Fähigkeiten, um ein umfassenderer Entwickler zu werden. Darüber hinaus bin ich ein Enthusiast der künstlichen Intelligenz und daran interessiert, die Möglichkeiten zu erkunden, die dieser Bereich bietet.
 
 -   🔭 Ich arbeite derzeit an persönlichen, akademischen und freiberuflichen Projekten.
--   🌱 Ich lerne gerade die Kotlin-Sprache.
+-   🌱 Atualmente estou aprendendo a linguagem Kotlin.
 -   👯 Ich versuche, an persönlichen und Teamprojekten mitzuarbeiten, mit denen ich beauftragt werde.
 -   🤔 Ich suche Hilfe bei der Fehlerbehebung in der Software.
 -   💬 Fragen Sie mich nach dem Bereich Technologie und Künstliche Intelligenz.
