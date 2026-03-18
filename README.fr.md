@@ -4,9 +4,9 @@
 
 <div align="left">
 
-## Langues :
+![Idiomas-Title](./assets/Idiomas-container.svg)
 
-[portugais](README.md) [Anglais](README.en.md) [Espagnol](README.es.md) [italien](README.it.md) [Français](README.fr.md) [Allemand](README.de.md) [japonais](README.ja.md) [Chinois (simplifié)](README.zh-CN.md) [Chinois (traditionnel)](README.zh-TW.md)
+   [portugais](README.md) [Anglais](README.en.md) [Espagnol](README.es.md) [italien](README.it.md) [Français](README.fr.md) [Allemand](README.de.md) [japonais](README.ja.md) [Chinois (simplifié)](README.zh-CN.md) [Chinois (traditionnel)](README.zh-TW.md) [coréen](README.ko.md) [Russe](README.ru.md) [arabe](README.ar.md) [Hollande](README.nl.md) [Non](README.hi.md) [hébreu](README.he.md)
 
 </div><br>
 
@@ -24,9 +24,9 @@
 
 Je suis étudiant en informatique, passionné par la technologie et le développement de logiciels. J'ai de l'expérience dans plusieurs langages de programmation, tels que Java, PHP, ANSI C/C++ et JavaScript/Typescript. Je cherche toujours à apprendre de nouvelles technologies et à améliorer mes compétences pour devenir un développeur plus complet. De plus, je suis passionné d’intelligence artificielle et je souhaite explorer les possibilités qu’offre ce domaine.
 
--   🔭 Atualmente estou trabalhando em projetos pessoais, acadêmicos e freelancer.
+-   🔭 Je travaille actuellement sur des projets personnels, académiques et indépendants.
 -   🌱 J'apprends actuellement le langage Kotlin.
--   👯 Procuro colaborar em projetos pessoais e de equipes que for contratado.
+-   👯 J'essaie de collaborer sur les projets personnels et d'équipe que je suis embauché.
 -   🤔 Je recherche de l'aide pour un dépannage logiciel.
 -   💬 Interrogez-moi sur le domaine de la technologie et de l'intelligence artificielle.
 -   📫 Comment me joindre : par email[development@humbanew.com.br](mailto:development@humbanew.com.br).
@@ -76,8 +76,5 @@ Je suis étudiant en informatique, passionné par la technologie et le développ
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://bsky.app/profile/humba01.bsky.social">
     <img src="./assets/Bluesky.svg" width="110" padding="1rem" />
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://cursos.alura.com.br/user/humba01">
-    <img src="./assets/Alura.svg" width="110" padding="1rem" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
