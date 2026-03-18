@@ -6,16 +6,9 @@
 
 ## 言語:
 
--   [ポルトガル語](README.md)
--   [英語](README.en.md)
--   [スペイン語](README.es.md)
--   [イタリア語](README.it.md)
--   [フランス語](README.fr.md)
--   [ドイツ語](README.de.md)
--   [日本語](README.ja.md)
--   [中国語（簡体字）](README.zh-CN.md)
--   [中国語（繁体字）](README.zh-TW.md)
-    </div><br>
+[ポルトガル語](README.md) [英語](README.en.md) [スペイン語](README.es.md) [イタリア語](README.it.md) [フランス語](README.fr.md) [ドイツ語](README.de.md) [日本語](README.ja.md) [中国語（簡体字）](README.zh-CN.md) [中国語（繁体字）](README.zh-TW.md)
+
+</div><br>
 
 ![Destaques-Title](./assets/Destaques-container.svg)[![Humba01's GitHub stats 1](https://github-readme-stats-fast.vercel.app/api/?username=Humba01&theme=dracula&locale=pt-br)](https://github.com/pranesh-2005/github-readme-stats-fast)<br><br><br>[![Humba01's GitHub stats 2](https://github-readme-stats-fast.vercel.app/api/streak/?username=Humba01&theme=dracula&locale=pt-br)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
