@@ -6,7 +6,7 @@
 
 ![Idiomas-Title](./assets/Idiomas-container.svg)
 
-   [portoghese](README.md) [Inglese](README.en.md) [spagnolo](README.es.md) [Italiano](README.it.md) [francese](README.fr.md) [tedesco](README.de.md) [giapponese](README.ja.md) [Cinese (semplificato)](README.zh-CN.md) [Cinese (tradizionale)](README.zh-TW.md) [Coreano](README.ko.md) [Russo](README.ru.md) [arabo](README.ar.md) [Olanda](README.nl.md) [No](README.hi.md) [ebraico](README.he.md)
+   [portoghese](README.md) [Inglese](README.en.md) [spagnolo](README.es.md) [Italiano](README.it.md) [francese](README.fr.md) [tedesco](README.de.md) [giapponese](README.ja.md) [Cinese (semplificato)](README.zh-CN.md) [Cinese (tradizionale)](README.zh-TW.md) [Coreano](README.ko.md) [Russo](README.ru.md) [arabo](README.ar.md) [Olanda](README.nl.md) [No](README.hi.md) [greco](README.el.md)
 
 </div><br>
 
@@ -24,7 +24,7 @@
 
 Sono uno studente di Informatica, appassionato di tecnologia e sviluppo software. Ho esperienza in diversi linguaggi di programmazione, come Java, PHP, ANSI C/C++ e JavaScript/Typescript. Cerco sempre di apprendere nuove tecnologie e migliorare le mie capacità per diventare uno sviluppatore più completo. Inoltre, sono un appassionato di intelligenza artificiale e sono interessato ad esplorare le possibilità offerte da quest'area.
 
--   🔭 Atualmente estou trabalhando em projetos pessoais, acadêmicos e freelancer.
+-   🔭 Attualmente sto lavorando a progetti personali, accademici e freelance.
 -   🌱 Attualmente sto imparando la lingua Kotlin.
 -   👯Cerco di collaborare ai progetti personali e di gruppo in cui vengo assunto.
 -   🤔 Cerco aiuto per la risoluzione dei problemi del software.
