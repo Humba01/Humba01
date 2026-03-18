@@ -6,16 +6,9 @@
 
 ## 语言：
 
--   [葡萄牙语](README.md)
--   [英语](README.en.md)
--   [西班牙语](README.es.md)
--   [意大利语](README.it.md)
--   [法语](README.fr.md)
--   [德语](README.de.md)
--   [日本人](README.ja.md)
--   [中文（简体）](README.zh-CN.md)
--   [中文（繁体）](README.zh-TW.md)
-    </div><br>
+[葡萄牙语](README.md) [英语](README.en.md) [西班牙语](README.es.md) [意大利语](README.it.md) [法语](README.fr.md) [德语](README.de.md) [日本人](README.ja.md) [中文（简体）](README.zh-CN.md) [中文（繁体）](README.zh-TW.md)
+
+</div><br>
 
 ![Destaques-Title](./assets/Destaques-container.svg)[![Humba01's GitHub stats 1](https://github-readme-stats-fast.vercel.app/api/?username=Humba01&theme=dracula&locale=pt-br)](https://github.com/pranesh-2005/github-readme-stats-fast)<br><br><br>[![Humba01's GitHub stats 2](https://github-readme-stats-fast.vercel.app/api/streak/?username=Humba01&theme=dracula&locale=pt-br)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
@@ -31,12 +24,12 @@
 
 我是一名计算机科学专业的学生，​​对技术和软件开发充满热情。我拥有多种编程语言的经验，例如 Java、PHP、ANSI C/C++ 和 JavaScript/Typescript。我一直在寻求学习新技术并提高我的技能，以成为一名更全面的开发人员。此外，我是一名人工智能爱好者，有兴趣探索该领域提供的可能性。
 
--   🔭 我目前正在从事个人、学术和自由项目。
+-   🔭 Atualmente estou trabalhando em projetos pessoais, acadêmicos e freelancer.
 -   🌱 我目前正在学习 Kotlin 语言。
 -   👯 我尝试在我受聘的个人和团队项目上进行合作。
 -   🤔 我正在寻求软件故障排除方面的帮助。
 -   💬 问我有关技术和人工智能领域的问题。
--   📫 如何联系我：通过电子邮件[development@humbanew.com.br](mailto:development@humbanew.com.br).
+-   📫 Como chegar até mim: pelo email [development@humbanew.com.br](mailto:development@humbanew.com.br).
 -   😄 代词：he/him - ele/dele
 -   ⚡ 有趣的事实：我非常专注于在空闲时间构建疯狂的项目。
 
