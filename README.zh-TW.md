@@ -4,7 +4,7 @@
 
 ![Idiomas-Title](./assets/Idiomas-container.svg)
 
-   [葡萄牙語](README.md) [英語](README.en.md) [西班牙語](README.es.md) [義大利語](README.it.md) [法語](README.fr.md) [Alemão](README.de.md) <br>[日本人](README.ja.md) [中文（簡體）](README.zh-CN.md) [中文（繁體）](README.zh-TW.md) [韓國人](README.ko.md) [魯索](README.ru.md) [阿拉伯](README.ar.md)<br> [荷蘭](README.nl.md) [沒有](README.hi.md) [希伯來文](README.iw.md) [希臘文](README.el.md)<br>
+   [葡萄牙語](README.md) [英語](README.en.md) [西班牙語](README.es.md) [義大利語](README.it.md) [法語](README.fr.md) [德文](README.de.md) <br>[日本人](README.ja.md) [中文（簡體）](README.zh-CN.md) [中文（繁體）](README.zh-TW.md) [韓國人](README.ko.md) [魯索](README.ru.md) [阿拉伯](README.ar.md)<br> [荷蘭](README.nl.md) [沒有](README.hi.md) [希伯來文](README.iw.md) [希臘文](README.el.md)<br>
 
 ![Destaques-Title](./assets/Destaques-container.svg)[![Humba01's GitHub stats 1](https://github-readme-stats-fast.vercel.app/api/?username=Humba01&theme=dracula&locale=pt-br)](https://github.com/pranesh-2005/github-readme-stats-fast)<br><br><br>[![Humba01's GitHub stats 2](https://github-readme-stats-fast.vercel.app/api/streak/?username=Humba01&theme=dracula&locale=pt-br)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
