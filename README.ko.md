@@ -6,7 +6,7 @@
 
 ![Idiomas-Title](./assets/Idiomas-container.svg)
 
-   [포르투갈 인](README.md) [영어](README.en.md) [스페인 사람](README.es.md) [이탈리아 사람](README.it.md) [프랑스 국민](README.fr.md) [독일 사람](README.de.md) [일본어](README.ja.md) [중국어(간체)](README.zh-CN.md) [중국어(번체)](README.zh-TW.md) [한국인](README.ko.md) [루소](README.ru.md) [아라비아 말](README.ar.md) [네덜란드](README.nl.md) [아니요](README.hi.md) [헤브라이 사람](README.he.md)
+   [포르투갈 인](README.md) [영어](README.en.md) [스페인 사람](README.es.md) [이탈리아 사람](README.it.md) [프랑스 국민](README.fr.md) [독일 사람](README.de.md) [일본어](README.ja.md) [중국어(간체)](README.zh-CN.md) [중국어(번체)](README.zh-TW.md) [한국인](README.ko.md) [루소](README.ru.md) [아라비아 말](README.ar.md) [네덜란드](README.nl.md) [아니요](README.hi.md) [그리스 사람](README.el.md)
 
 </div><br>
 
