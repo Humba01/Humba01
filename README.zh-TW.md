@@ -4,9 +4,9 @@
 
 <div align="left">
 
-## 語言：
+![Idiomas-Title](./assets/Idiomas-container.svg)
 
-[葡萄牙語](README.md) [英語](README.en.md) [西班牙語](README.es.md) [義大利語](README.it.md) [法語](README.fr.md) [德文](README.de.md) [日本人](README.ja.md) [中文（簡體）](README.zh-CN.md) [中文（繁體）](README.zh-TW.md)
+   [葡萄牙語](README.md) [英語](README.en.md) [西班牙語](README.es.md) [義大利語](README.it.md) [法語](README.fr.md) [德文](README.de.md) [日本人](README.ja.md) [中文（簡體）](README.zh-CN.md) [中文（繁體）](README.zh-TW.md) [韓國人](README.ko.md) [魯索](README.ru.md) [阿拉伯](README.ar.md) [荷蘭](README.nl.md) [沒有](README.hi.md) [希伯來文](README.he.md)
 
 </div><br>
 
@@ -76,8 +76,5 @@
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://bsky.app/profile/humba01.bsky.social">
     <img src="./assets/Bluesky.svg" width="110" padding="1rem" />
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://cursos.alura.com.br/user/humba01">
-    <img src="./assets/Alura.svg" width="110" padding="1rem" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
