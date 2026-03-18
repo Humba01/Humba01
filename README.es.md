@@ -4,9 +4,9 @@
 
 <div align="left">
 
-## Idiomas:
+![Idiomas-Title](./assets/Idiomas-container.svg)
 
-[portugués](README.md) [Inglés](README.en.md) [Espanhol](README.es.md) [Italiano](README.it.md) [Francés](README.fr.md) [Alemán](README.de.md) [japonés](README.ja.md) [Chino (simplificado)](README.zh-CN.md) [Chino (tradicional)](README.zh-TW.md)
+   [portugués](README.md) [Inglés](README.en.md) [Español](README.es.md) [Italiano](README.it.md) [Francés](README.fr.md) [Alemán](README.de.md) [japonés](README.ja.md) [Chino (simplificado)](README.zh-CN.md) [Chino (tradicional)](README.zh-TW.md) [Coreano](README.ko.md) [ruso](README.ru.md) [Árabe](README.ar.md) [Holanda](README.nl.md) [No](README.hi.md) [hebreo](README.he.md)
 
 </div><br>
 
@@ -76,8 +76,5 @@ Soy estudiante de Informática, apasionado por la tecnología y el desarrollo de
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://bsky.app/profile/humba01.bsky.social">
     <img src="./assets/Bluesky.svg" width="110" padding="1rem" />
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://cursos.alura.com.br/user/humba01">
-    <img src="./assets/Alura.svg" width="110" padding="1rem" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
