@@ -4,7 +4,7 @@
 
 ![Idiomas-Title](./assets/Idiomas-container.svg)
 
-   [Portugees](README.md) [Engels](README.en.md) [Spaans](README.es.md) [Italiaans](README.it.md) [Frans](README.fr.md) [Duits](README.de.md) <br>[Japanse](README.ja.md) [Chinees (vereenvoudigd)](README.zh-CN.md) [Chinees (traditioneel)](README.zh-TW.md) [Koreaans](README.ko.md) [Rus](README.ru.md) [Arabisch](README.ar.md)<br> [Holland](README.nl.md) [Nee](README.hi.md) [Grieks](README.el.md)<br>
+   [Portugees](README.md) [Engels](README.en.md) [Spaans](README.es.md) [Italiaans](README.it.md) [Frans](README.fr.md) [Duits](README.de.md) <br>[Japanse](README.ja.md) [Chinees (vereenvoudigd)](README.zh-CN.md) [Chinees (traditioneel)](README.zh-TW.md) [Koreaans](README.ko.md) [Rus](README.ru.md) [Arabisch](README.ar.md)<br> [Holland](README.nl.md) [Nee](README.hi.md) [Hebreeuws](README.iw.md) [Grieks](README.el.md)<br>
 
 ![Destaques-Title](./assets/Destaques-container.svg)[![Humba01's GitHub stats 1](https://github-readme-stats-fast.vercel.app/api/?username=Humba01&theme=dracula&locale=pt-br)](https://github.com/pranesh-2005/github-readme-stats-fast)<br><br><br>[![Humba01's GitHub stats 2](https://github-readme-stats-fast.vercel.app/api/streak/?username=Humba01&theme=dracula&locale=pt-br)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
@@ -20,7 +20,7 @@
 
 Ik ben een student Computerwetenschappen, gepassioneerd door technologie en softwareontwikkeling. Ik heb ervaring met verschillende programmeertalen, zoals Java, PHP, ANSI C/C++ en JavaScript/Typescript. Ik ben altijd op zoek naar nieuwe technologieën en het verbeteren van mijn vaardigheden om een ​​completere ontwikkelaar te worden. Bovendien ben ik een liefhebber van kunstmatige intelligentie en ben ik geïnteresseerd in het verkennen van de mogelijkheden die dit gebied biedt.
 
--   🔭 Momenteel werk ik aan persoonlijke, academische en freelance projecten.
+-   🔭 Atualmente estou trabalhando em projetos pessoais, acadêmicos e freelancer.
 -   🌱 Momenteel leer ik de Kotlin-taal.
 -   👯 Ik probeer mee te werken aan persoonlijke en teamprojecten waarvoor ik word ingehuurd.
 -   🤔 Ik zoek hulp bij het oplossen van softwareproblemen.
