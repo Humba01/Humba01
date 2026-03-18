@@ -6,7 +6,7 @@
 
 ![Idiomas-Title](./assets/Idiomas-container.svg)
 
-   [португальский](README.md) [Английский](README.en.md) [испанский](README.es.md) [итальянский](README.it.md) [Французский](README.fr.md) [немецкий](README.de.md) [японский](README.ja.md) [Китайский (упрощенный)](README.zh-CN.md) [Китайский (традиционный)](README.zh-TW.md) [корейский](README.ko.md) [Руссо](README.ru.md) [арабский](README.ar.md) [Голландия](README.nl.md) [Неа](README.hi.md) [иврит](README.he.md)
+   [португальский](README.md) [Английский](README.en.md) [испанский](README.es.md) [Italiano](README.it.md) [Французский](README.fr.md) [немецкий](README.de.md) [японский](README.ja.md) [Китайский (упрощенный)](README.zh-CN.md) [Китайский (традиционный)](README.zh-TW.md) [корейский](README.ko.md) [Руссо](README.ru.md) [арабский](README.ar.md) [Голландия](README.nl.md) [Неа](README.hi.md) [греческий](README.el.md)
 
 </div><br>
 
@@ -29,7 +29,7 @@
 -   👯 Я стараюсь сотрудничать в личных и командных проектах, которые меня нанимают.
 -   🤔 Мне нужна помощь в устранении неполадок программного обеспечения.
 -   💬 Спросите меня о сфере технологий и искусственного интеллекта.
--   📫 Как со мной связаться: по электронной почте.[development@humbanew.com.br](mailto:development@humbanew.com.br).
+-   📫 Как со мной связаться: по электронной почте[development@humbanew.com.br](mailto:development@humbanew.com.br).
 -   😄 Местоимения: он/его - ele/dele
 -   ⚡ Интересный факт: в свободное время я очень сосредоточен на создании сумасшедших проектов.
 
