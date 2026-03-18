@@ -2,13 +2,9 @@
 
 ![Humba01-Header-Profile](./assets/Humba01-Github.svg)<br>
 
-<div align="left">
-
 ![Idiomas-Title](./assets/Idiomas-container.svg)
 
-   [Portuguese](README.md) [English](README.en.md) [Spanish](README.es.md) [Italian](README.it.md) [French](README.fr.md) [German](README.de.md) [Japanese](README.ja.md) [Chinese (Simplified)](README.zh-CN.md) [Chinese (Traditional)](README.zh-TW.md) [Korean](README.ko.md) [Russo](README.ru.md) [Arabic](README.ar.md) [Holland](README.nl.md) [Hindi](README.hi.md) [Greek](README.el.md)
-
-</div><br>
+   [Portuguese](README.md) [English](README.en.md) [Spanish](README.es.md) [Italian](README.it.md) [French](README.fr.md) [German](README.de.md) <br>[Japanese](README.ja.md) [Chinese (Simplified)](README.zh-CN.md) [Chinese (Traditional)](README.zh-TW.md) [Korean](README.ko.md) [Russo](README.ru.md) [Arabic](README.ar.md)<br> [Holland](README.nl.md) [Hindi](README.hi.md) [Greek](README.el.md)<br>
 
 ![Destaques-Title](./assets/Destaques-container.svg)[![Humba01's GitHub stats 1](https://github-readme-stats-fast.vercel.app/api/?username=Humba01&theme=dracula&locale=pt-br)](https://github.com/pranesh-2005/github-readme-stats-fast)<br><br><br>[![Humba01's GitHub stats 2](https://github-readme-stats-fast.vercel.app/api/streak/?username=Humba01&theme=dracula&locale=pt-br)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
