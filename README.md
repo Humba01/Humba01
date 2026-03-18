@@ -4,9 +4,9 @@
 
 <div align="left">
 
-## Idiomas:
+![Idiomas-Title](./assets/Idiomas-container.svg)
 
-[Português](README.md)&emsp;[Inglês](README.en.md)&emsp;[Espanhol](README.es.md)&emsp;[Italiano](README.it.md)&emsp;[Francês](README.fr.md)&emsp;[Alemão](README.de.md)&emsp;[Japonês](README.ja.md)&emsp;[Chinês (Simplificado)](README.zh-CN.md)&emsp;[Chinês (Tradicional)](README.zh-TW.md)
+&emsp;&emsp;&emsp;[Português](README.md)&emsp;[Inglês](README.en.md)&emsp;[Espanhol](README.es.md)&emsp;[Italiano](README.it.md)&emsp;[Francês](README.fr.md)&emsp;[Alemão](README.de.md)&emsp;[Japonês](README.ja.md)&emsp;[Chinês (Simplificado)](README.zh-CN.md)&emsp;[Chinês (Tradicional)](README.zh-TW.md)&emsp;[Coreano](README.ko.md)&emsp;[Russo](README.ru.md)&emsp;[Árabe](README.ar.md)&emsp;[Holandes](README.nl.md)&emsp;[Hindi](README.hi.md)&emsp;[Hebraico](README.he.md)
 </div><br>
 
 ![Destaques-Title](./assets/Destaques-container.svg)
@@ -89,8 +89,5 @@ Sou um estudante de Ciência da Computação, apaixonado por tecnologia e desenv
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://bsky.app/profile/humba01.bsky.social">
     <img src="./assets/Bluesky.svg" width="110" padding="1rem" />
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://cursos.alura.com.br/user/humba01">
-    <img src="./assets/Alura.svg" width="110" padding="1rem" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
