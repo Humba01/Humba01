@@ -5,7 +5,7 @@
 
 ![Idiomas-Title](./assets/Idiomas-container.svg)
 
-&emsp;&emsp;&emsp;[Português](README.md)&emsp;[Inglês](README.en.md)&emsp;[Espanhol](README.es.md)&emsp;[Italiano](README.it.md)&emsp;[Francês](README.fr.md)&emsp;[Alemão](README.de.md)&emsp;<br>[Japonês](README.ja.md)&emsp;[Chinês (Simplificado)](README.zh-CN.md)&emsp;[Chinês (Tradicional)](README.zh-TW.md)&emsp;[Coreano](README.ko.md)&emsp;[Russo](README.ru.md)&emsp;[Árabe](README.ar.md)<br>&emsp;[Holandes](README.nl.md)&emsp;[Hindi](README.hi.md)&emsp;[Grego](README.el.md)
+&emsp;&emsp;&emsp;[Português](README.md)&emsp;[Inglês](README.en.md)&emsp;[Espanhol](README.es.md)&emsp;[Italiano](README.it.md)&emsp;[Francês](README.fr.md)&emsp;[Alemão](README.de.md)&emsp;<br>[Japonês](README.ja.md)&emsp;[Chinês (Simplificado)](README.zh-CN.md)&emsp;[Chinês (Tradicional)](README.zh-TW.md)&emsp;[Coreano](README.ko.md)&emsp;[Russo](README.ru.md)&emsp;[Árabe](README.ar.md)<br>&emsp;[Holandes](README.nl.md)&emsp;[Hindi](README.hi.md)&emsp;[Hebraico](README.iw.md)&emsp;[Grego](README.el.md)
 <br>
 
 ![Destaques-Title](./assets/Destaques-container.svg)
