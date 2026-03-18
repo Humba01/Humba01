@@ -4,7 +4,7 @@
 
 ![Idiomas-Title](./assets/Idiomas-container.svg)
 
-   [portugués](README.md) [Inglés](README.en.md) [Español](README.es.md) [Italiano](README.it.md) [Francés](README.fr.md) [Alemán](README.de.md) <br>[japonés](README.ja.md) [Chino (simplificado)](README.zh-CN.md) [Chino (tradicional)](README.zh-TW.md) [Coreano](README.ko.md) [ruso](README.ru.md) [Árabe](README.ar.md)<br> [Holanda](README.nl.md) [No](README.hi.md) [Griego](README.el.md)<br>
+   [portugués](README.md) [Inglés](README.en.md) [Español](README.es.md) [Italiano](README.it.md) [Francés](README.fr.md) [Alemán](README.de.md) <br>[japonés](README.ja.md) [Chino (simplificado)](README.zh-CN.md) [Chino (tradicional)](README.zh-TW.md) [Coreano](README.ko.md) [ruso](README.ru.md) [Árabe](README.ar.md)<br> [Holanda](README.nl.md) [No](README.hi.md) [hebreo](README.iw.md) [Griego](README.el.md)<br>
 
 ![Destaques-Title](./assets/Destaques-container.svg)[![Humba01's GitHub stats 1](https://github-readme-stats-fast.vercel.app/api/?username=Humba01&theme=dracula&locale=pt-br)](https://github.com/pranesh-2005/github-readme-stats-fast)<br><br><br>[![Humba01's GitHub stats 2](https://github-readme-stats-fast.vercel.app/api/streak/?username=Humba01&theme=dracula&locale=pt-br)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
@@ -26,7 +26,7 @@ Soy estudiante de Informática, apasionado por la tecnología y el desarrollo de
 -   🤔 Estoy buscando ayuda con la resolución de problemas de software.
 -   💬 Consultame sobre el área de tecnología e Inteligencia Artificial.
 -   📫 Cómo comunicarse conmigo: por correo electrónico[development@humbanew.com.br](mailto:development@humbanew.com.br).
--   😄 Pronouns: he/him - ele/dele
+-   😄 Pronombres: él/él - ele/dele
 -   ⚡ Dato curioso: estoy muy concentrado en crear proyectos locos en mi tiempo libre.
 
 </div><br><br>
