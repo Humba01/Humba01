@@ -4,7 +4,7 @@
 
 ![Idiomas-Title](./assets/Idiomas-container.svg)
 
-   [ポルトガル語](README.md) [英語](README.en.md) [スペイン語](README.es.md) [イタリア語](README.it.md) [フランス語](README.fr.md) [ドイツ語](README.de.md) <br>[日本語](README.ja.md) [中国語（簡体字）](README.zh-CN.md) [中国語（繁体字）](README.zh-TW.md) [韓国人](README.ko.md) [ルッソ](README.ru.md) [アラビア語](README.ar.md)<br> [オランダ](README.nl.md) [いいえ](README.hi.md) [ヘブライ語](README.iw.md) [ギリシャ語](README.el.md)<br>
+   [ポルトガル語](README.md) [英語](README.en.md) [スペイン語](README.es.md) [イタリア語](README.it.md) [フランス語](README.fr.md) [ドイツ語](README.de.md) <br>[Japonês](README.ja.md) [中国語（簡体字）](README.zh-CN.md) [中国語（繁体字）](README.zh-TW.md) [韓国人](README.ko.md) [ルッソ](README.ru.md) [アラビア語](README.ar.md)<br> [オランダ](README.nl.md) [Hindi](README.hi.md) [ヘブライ語](README.iw.md) [ギリシャ語](README.el.md)<br>
 
 ![Destaques-Title](./assets/Destaques-container.svg)[![Humba01's GitHub stats 1](https://github-readme-stats-fast.vercel.app/api/?username=Humba01&theme=dracula&locale=pt-br)](https://github.com/pranesh-2005/github-readme-stats-fast)<br><br><br>[![Humba01's GitHub stats 2](https://github-readme-stats-fast.vercel.app/api/streak/?username=Humba01&theme=dracula&locale=pt-br)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
@@ -22,12 +22,12 @@
 
 -   🔭 私は現在、個人、学術、フリーランスのプロジェクトに取り組んでいます。
 -   🌱 私は現在 Kotlin 言語を学習しています。
--   👯 私は、雇われている個人プロジェクトやチームプロジェクトに協力するよう努めています。
+-   👯 私は、雇用された個人プロジェクトおよびチームプロジェクトに協力するよう努めています。
 -   🤔 ソフトウェアのトラブルシューティングに関するヘルプを探しています。
 -   💬 テクノロジーと人工知能の分野について質問してください。
 -   📫 私への連絡方法: メールで[development@humbanew.com.br](mailto:development@humbanew.com.br).
 -   😄 代名詞: 彼/彼 - エレ/デレ
--   ⚡ 面白い事実: 私は自由時間にクレイジーなプロジェクトを構築することに集中しています。
+-   ⚡ Fun fact: Tenho hiperfoco em construir projetos loucos no meu tempo livre.
 
 </div><br><br>
 
