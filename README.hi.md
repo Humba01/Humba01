@@ -2,13 +2,9 @@
 
 ![Humba01-Header-Profile](./assets/Humba01-Github.svg)<br>
 
-<div align="left">
-
 ![Idiomas-Title](./assets/Idiomas-container.svg)
 
-   [पुर्तगाली](README.md) [अंग्रेज़ी](README.en.md) [स्पैनिश](README.es.md) [इतालवी](README.it.md) [फ़्रेंच](README.fr.md) [जर्मन](README.de.md) [जापानी](README.ja.md) [सरलीकृत चीनी)](README.zh-CN.md) [चीनी पारंपरिक)](README.zh-TW.md) [कोरियाई](README.ko.md) [रशो](README.ru.md) [अरबी](README.ar.md) [हॉलैंड](README.nl.md) [नहीं](README.hi.md) [यूनानी](README.el.md)
-
-</div><br>
+   [पुर्तगाली](README.md) [अंग्रेज़ी](README.en.md) [स्पैनिश](README.es.md) [इतालवी](README.it.md) [फ़्रेंच](README.fr.md) [जर्मन](README.de.md) <br>[जापानी](README.ja.md) [सरलीकृत चीनी)](README.zh-CN.md) [Chinês (Tradicional)](README.zh-TW.md) [Coreano](README.ko.md) [रशो](README.ru.md) [अरबी](README.ar.md)<br> [हॉलैंड](README.nl.md) [नहीं](README.hi.md) [यूनानी](README.el.md)<br>
 
 ![Destaques-Title](./assets/Destaques-container.svg)[![Humba01's GitHub stats 1](https://github-readme-stats-fast.vercel.app/api/?username=Humba01&theme=dracula&locale=pt-br)](https://github.com/pranesh-2005/github-readme-stats-fast)<br><br><br>[![Humba01's GitHub stats 2](https://github-readme-stats-fast.vercel.app/api/streak/?username=Humba01&theme=dracula&locale=pt-br)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
@@ -24,10 +20,10 @@
 
 मैं एक कंप्यूटर विज्ञान का छात्र हूं, प्रौद्योगिकी और सॉफ्टवेयर विकास का शौकीन हूं। मेरे पास जावा, पीएचपी, एएनएसआई सी/सी++ और जावास्क्रिप्ट/टाइपस्क्रिप्ट जैसी कई प्रोग्रामिंग भाषाओं का अनुभव है। मैं हमेशा नई तकनीकों को सीखने और अधिक संपूर्ण डेवलपर बनने के लिए अपने कौशल में सुधार करने के लिए उत्सुक रहता हूं। इसके अलावा, मैं कृत्रिम बुद्धिमत्ता का समर्थक हूं और इस क्षेत्र में उपलब्ध संभावनाओं को तलाशने में रुचि रखता हूं।
 
--   🔭मैं वर्तमान में व्यक्तिगत, शैक्षणिक और स्वतंत्र परियोजनाओं पर काम कर रहा हूं।
+-   🔭 Atualmente estou trabalhando em projetos pessoais, acadêmicos e freelancer.
 -   🌱मैं वर्तमान में कोटलिन भाषा सीख रहा हूं।
 -   👯मैं व्यक्तिगत और टीम परियोजनाओं पर सहयोग करने का प्रयास करता हूं जिन्हें मुझे काम पर रखा गया है।
--   🤔मैं सॉफ़्टवेयर समस्या निवारण के लिए सहायता ढूँढ़ रहा हूँ।
+-   🤔 Procuro ajuda com soluções de problemas em softwares.
 -   💬 मुझसे प्रौद्योगिकी और आर्टिफिशियल इंटेलिजेंस के क्षेत्र के बारे में पूछें।
 -   📫मुझ तक कैसे पहुंचें: ईमेल द्वारा[development@humbanew.com.br](mailto:development@humbanew.com.br).
 -   😄 सर्वनाम: वह/उसे - एली/डेले
