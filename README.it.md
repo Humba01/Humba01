@@ -4,9 +4,9 @@
 
 <div align="left">
 
-## Lingue:
+![Idiomas-Title](./assets/Idiomas-container.svg)
 
-[portoghese](README.md) [Inglese](README.en.md) [spagnolo](README.es.md) [Italiano](README.it.md) [Francês](README.fr.md) [tedesco](README.de.md) [giapponese](README.ja.md) [Cinese (semplificato)](README.zh-CN.md) [Cinese (tradizionale)](README.zh-TW.md)
+   [portoghese](README.md) [Inglese](README.en.md) [spagnolo](README.es.md) [Italiano](README.it.md) [francese](README.fr.md) [tedesco](README.de.md) [giapponese](README.ja.md) [Cinese (semplificato)](README.zh-CN.md) [Cinese (tradizionale)](README.zh-TW.md) [Coreano](README.ko.md) [Russo](README.ru.md) [arabo](README.ar.md) [Olanda](README.nl.md) [No](README.hi.md) [ebraico](README.he.md)
 
 </div><br>
 
@@ -24,13 +24,13 @@
 
 Sono uno studente di Informatica, appassionato di tecnologia e sviluppo software. Ho esperienza in diversi linguaggi di programmazione, come Java, PHP, ANSI C/C++ e JavaScript/Typescript. Cerco sempre di apprendere nuove tecnologie e migliorare le mie capacità per diventare uno sviluppatore più completo. Inoltre, sono un appassionato di intelligenza artificiale e sono interessato ad esplorare le possibilità offerte da quest'area.
 
--   🔭 Attualmente sto lavorando a progetti personali, accademici e freelance.
--   🌱 Atualmente estou aprendendo a linguagem Kotlin.
+-   🔭 Atualmente estou trabalhando em projetos pessoais, acadêmicos e freelancer.
+-   🌱 Attualmente sto imparando la lingua Kotlin.
 -   👯Cerco di collaborare ai progetti personali e di gruppo in cui vengo assunto.
 -   🤔 Cerco aiuto per la risoluzione dei problemi del software.
 -   💬 Chiedimi informazioni sull'area della tecnologia e dell'intelligenza artificiale.
 -   📫 Come raggiungermi: via email[development@humbanew.com.br](mailto:development@humbanew.com.br).
--   😄 Pronouns: he/him - ele/dele
+-   😄 Pronomi: lui/lui - ele/dele
 -   ⚡ Fatto curioso: nel mio tempo libero sono molto concentrato sulla realizzazione di progetti folli.
 
 </div><br><br>
@@ -76,8 +76,5 @@ Sono uno studente di Informatica, appassionato di tecnologia e sviluppo software
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://bsky.app/profile/humba01.bsky.social">
     <img src="./assets/Bluesky.svg" width="110" padding="1rem" />
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://cursos.alura.com.br/user/humba01">
-    <img src="./assets/Alura.svg" width="110" padding="1rem" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
