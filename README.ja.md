@@ -4,9 +4,9 @@
 
 <div align="left">
 
-## 言語:
+![Idiomas-Title](./assets/Idiomas-container.svg)
 
-[ポルトガル語](README.md) [英語](README.en.md) [スペイン語](README.es.md) [イタリア語](README.it.md) [フランス語](README.fr.md) [ドイツ語](README.de.md) [日本語](README.ja.md) [中国語（簡体字）](README.zh-CN.md) [中国語（繁体字）](README.zh-TW.md)
+   [ポルトガル語](README.md) [英語](README.en.md) [スペイン語](README.es.md) [イタリア語](README.it.md) [フランス語](README.fr.md) [ドイツ語](README.de.md) [日本語](README.ja.md) [Chinês (Simplificado)](README.zh-CN.md) [中国語（繁体字）](README.zh-TW.md) [韓国人](README.ko.md) [ルッソ](README.ru.md) [アラビア語](README.ar.md) [オランダ](README.nl.md) [いいえ](README.hi.md) [ヘブライ語](README.he.md)
 
 </div><br>
 
@@ -76,8 +76,5 @@
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://bsky.app/profile/humba01.bsky.social">
     <img src="./assets/Bluesky.svg" width="110" padding="1rem" />
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://cursos.alura.com.br/user/humba01">
-    <img src="./assets/Alura.svg" width="110" padding="1rem" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
