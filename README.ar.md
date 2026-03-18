@@ -2,13 +2,9 @@
 
 ![Humba01-Header-Profile](./assets/Humba01-Github.svg)<br>
 
-<div align="left">
-
 ![Idiomas-Title](./assets/Idiomas-container.svg)
 
-   [البرتغالية](README.md) [إنجليزي](README.en.md) [الأسبانية](README.es.md) [ايطالي](README.it.md) [فرنسي](README.fr.md) [الألمانية](README.de.md) [اليابانية](README.ja.md) [الصينية (المبسطة)](README.zh-CN.md) [الصينية (التقليدية)](README.zh-TW.md) [كوري](README.ko.md) [روسو](README.ru.md) [عربي](README.ar.md) [هولندا](README.nl.md) [لا](README.hi.md) [اليونانية](README.el.md)
-
-</div><br>
+   [البرتغالية](README.md) [إنجليزي](README.en.md) [الأسبانية](README.es.md) [ايطالي](README.it.md) [فرنسي](README.fr.md) [الألمانية](README.de.md) <br>[اليابانية](README.ja.md) [الصينية (المبسطة)](README.zh-CN.md) [الصينية (التقليدية)](README.zh-TW.md) [كوري](README.ko.md) [روسو](README.ru.md) [عربي](README.ar.md)<br> [هولندا](README.nl.md) [لا](README.hi.md) [اليونانية](README.el.md)<br>
 
 ![Destaques-Title](./assets/Destaques-container.svg)[![Humba01's GitHub stats 1](https://github-readme-stats-fast.vercel.app/api/?username=Humba01&theme=dracula&locale=pt-br)](https://github.com/pranesh-2005/github-readme-stats-fast)<br><br><br>[![Humba01's GitHub stats 2](https://github-readme-stats-fast.vercel.app/api/streak/?username=Humba01&theme=dracula&locale=pt-br)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
@@ -25,12 +21,12 @@
 أنا طالب علوم حاسوب، شغوف بالتكنولوجيا وتطوير البرمجيات. لدي خبرة في العديد من لغات البرمجة، مثل Java وPHP وANSI C/C++ وJavaScript/Typescript. أتطلع دائمًا إلى تعلم تقنيات جديدة وتحسين مهاراتي لأصبح مطورًا أكثر اكتمالاً. علاوة على ذلك، أنا متحمس للذكاء الاصطناعي ومهتم باستكشاف الإمكانيات التي يوفرها هذا المجال.
 
 -   🔭 أعمل حاليا على مشاريع شخصية وأكاديمية وأعمال حرة.
--   🌱 Atualmente estou aprendendo a linguagem Kotlin.
+-   🌱 أتعلم حاليًا لغة الكوتلن.
 -   👯 أحاول التعاون في المشاريع الشخصية والجماعية التي يتم توظيفي فيها.
 -   🤔 أبحث عن مساعدة في استكشاف أخطاء البرامج وإصلاحها.
 -   💬 اسألني عن مجال التكنولوجيا والذكاء الاصطناعي.
 -   📫كيفية الوصول إلي: عن طريق البريد الإلكتروني[development@humbanew.com.br](mailto:development@humbanew.com.br).
--   😄 الضمائر: هو/هي - ele/dele
+-   😄 الضمائر: هو/هي – ele/dele
 -   ⚡ حقيقة ممتعة: أنا أركز بشدة على بناء مشاريع مجنونة في وقت فراغي.
 
 </div><br><br>
