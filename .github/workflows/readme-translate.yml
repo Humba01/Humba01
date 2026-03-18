@@ -67,7 +67,7 @@ jobs:
         uses: dephraiim/translate-readme@main
         with:
           LANG: hi
-      - name: Adding README - Hebrew
+      - name: Adding README - Greece
         uses: dephraiim/translate-readme@main
         with:
-          LANG: he
+          LANG: el
