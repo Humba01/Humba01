@@ -4,7 +4,7 @@
 
 ![Idiomas-Title](./assets/Idiomas-container.svg)
 
-   [Português](README.md) [αγγλικός](README.en.md) [ισπανικά](README.es.md) [ιταλικά](README.it.md) [Γάλλος](README.fr.md) [Γερμανός](README.de.md) <br>[Japonês](README.ja.md) [Κινέζικα (Απλοποιημένα)](README.zh-CN.md) [Κινέζικα (Παραδοσιακά)](README.zh-TW.md) [Coreano](README.ko.md) [Ρούσο](README.ru.md) [αραβικός](README.ar.md)<br> [Ολλανδία](README.nl.md) [Οχι](README.hi.md) [ελληνικά](README.el.md)<br>
+   [Πορτογάλος](README.md) [αγγλικός](README.en.md) [ισπανικά](README.es.md) [ιταλικά](README.it.md) [Γάλλος](README.fr.md) [Γερμανός](README.de.md) <br>[Ιαπωνικά](README.ja.md) [Κινεζικά (Απλοποιημένα)](README.zh-CN.md) [Κινέζικα (Παραδοσιακά)](README.zh-TW.md) [κορεάτης](README.ko.md) [Ρούσο](README.ru.md) [αραβικός](README.ar.md)<br> [Ολλανδία](README.nl.md) [Οχι](README.hi.md) [Εβραϊκά](README.iw.md) [ελληνικά](README.el.md)<br>
 
 ![Destaques-Title](./assets/Destaques-container.svg)[![Humba01's GitHub stats 1](https://github-readme-stats-fast.vercel.app/api/?username=Humba01&theme=dracula&locale=pt-br)](https://github.com/pranesh-2005/github-readme-stats-fast)<br><br><br>[![Humba01's GitHub stats 2](https://github-readme-stats-fast.vercel.app/api/streak/?username=Humba01&theme=dracula&locale=pt-br)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
