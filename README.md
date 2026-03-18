@@ -5,15 +5,8 @@
 <div align="left">
 
 ## Idiomas:
-- [Português](README.md)
-- [Inglês](README.en.md)
-- [Espanhol](README.es.md)
-- [Italiano](README.it.md)
-- [Francês](README.fr.md)
-- [Alemão](README.de.md)
-- [Japonês](README.ja.md)
-- [Chinês (Simplificado)](README.zh-CN.md)
-- [Chinês (Tradicional)](README.zh-TW.md)
+
+[Português](README.md)&emsp;[Inglês](README.en.md)&emsp;[Espanhol](README.es.md)&emsp;[Italiano](README.it.md)&emsp;[Francês](README.fr.md)&emsp;[Alemão](README.de.md)&emsp;[Japonês](README.ja.md)&emsp;[Chinês (Simplificado)](README.zh-CN.md)&emsp;[Chinês (Tradicional)](README.zh-TW.md)
 </div><br>
 
 ![Destaques-Title](./assets/Destaques-container.svg)
