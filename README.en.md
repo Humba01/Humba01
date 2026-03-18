@@ -6,7 +6,7 @@
 
 ![Idiomas-Title](./assets/Idiomas-container.svg)
 
-   [Portuguese](README.md) [English](README.en.md) [Spanish](README.es.md) [Italian](README.it.md) [French](README.fr.md) [German](README.de.md) [Japanese](README.ja.md) [Chinese (Simplified)](README.zh-CN.md) [Chinese (Traditional)](README.zh-TW.md) [Korean](README.ko.md) [Russo](README.ru.md) [Arabic](README.ar.md) [Holland](README.nl.md) [Hindi](README.hi.md) [Hebrew](README.he.md)
+   [Portuguese](README.md) [English](README.en.md) [Spanish](README.es.md) [Italian](README.it.md) [French](README.fr.md) [German](README.de.md) [Japanese](README.ja.md) [Chinese (Simplified)](README.zh-CN.md) [Chinese (Traditional)](README.zh-TW.md) [Korean](README.ko.md) [Russo](README.ru.md) [Arabic](README.ar.md) [Holland](README.nl.md) [Hindi](README.hi.md) [Greek](README.el.md)
 
 </div><br>
 
@@ -25,7 +25,7 @@
 I am a Computer Science student, passionate about technology and software development. I have experience in several programming languages, such as Java, PHP, ANSI C/C++ and JavaScript/Typescript. I'm always looking to learn new technologies and improve my skills to become a more complete developer. Furthermore, I am an artificial intelligence enthusiast and am interested in exploring the possibilities this area offers.
 
 -   🔭 I am currently working on personal, academic and freelance projects.
--   🌱 Atualmente estou aprendendo a linguagem Kotlin.
+-   🌱 I am currently learning the Kotlin language.
 -   👯 I try to collaborate on personal and team projects that I am hired.
 -   🤔 I'm looking for help with software troubleshooting.
 -   💬 Ask me about the area of ​​technology and Artificial Intelligence.
