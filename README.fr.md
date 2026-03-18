@@ -6,16 +6,9 @@
 
 ## Langues :
 
--   [portugais](README.md)
--   [Anglais](README.en.md)
--   [Espagnol](README.es.md)
--   [italien](README.it.md)
--   [Français](README.fr.md)
--   [Allemand](README.de.md)
--   [japonais](README.ja.md)
--   [Chinois (simplifié)](README.zh-CN.md)
--   [Chinois (traditionnel)](README.zh-TW.md)
-    </div><br>
+[portugais](README.md) [Anglais](README.en.md) [Espagnol](README.es.md) [italien](README.it.md) [Français](README.fr.md) [Allemand](README.de.md) [japonais](README.ja.md) [Chinois (simplifié)](README.zh-CN.md) [Chinois (traditionnel)](README.zh-TW.md)
+
+</div><br>
 
 ![Destaques-Title](./assets/Destaques-container.svg)[![Humba01's GitHub stats 1](https://github-readme-stats-fast.vercel.app/api/?username=Humba01&theme=dracula&locale=pt-br)](https://github.com/pranesh-2005/github-readme-stats-fast)<br><br><br>[![Humba01's GitHub stats 2](https://github-readme-stats-fast.vercel.app/api/streak/?username=Humba01&theme=dracula&locale=pt-br)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
@@ -31,9 +24,9 @@
 
 Je suis étudiant en informatique, passionné par la technologie et le développement de logiciels. J'ai de l'expérience dans plusieurs langages de programmation, tels que Java, PHP, ANSI C/C++ et JavaScript/Typescript. Je cherche toujours à apprendre de nouvelles technologies et à améliorer mes compétences pour devenir un développeur plus complet. De plus, je suis passionné d’intelligence artificielle et je souhaite explorer les possibilités qu’offre ce domaine.
 
--   🔭 Je travaille actuellement sur des projets personnels, académiques et indépendants.
+-   🔭 Atualmente estou trabalhando em projetos pessoais, acadêmicos e freelancer.
 -   🌱 J'apprends actuellement le langage Kotlin.
--   👯 J'essaie de collaborer sur les projets personnels et d'équipe que je suis embauché.
+-   👯 Procuro colaborar em projetos pessoais e de equipes que for contratado.
 -   🤔 Je recherche de l'aide pour un dépannage logiciel.
 -   💬 Interrogez-moi sur le domaine de la technologie et de l'intelligence artificielle.
 -   📫 Comment me joindre : par email[development@humbanew.com.br](mailto:development@humbanew.com.br).
