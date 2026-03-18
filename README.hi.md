@@ -6,7 +6,7 @@
 
 ![Idiomas-Title](./assets/Idiomas-container.svg)
 
-   [पुर्तगाली](README.md) [अंग्रेज़ी](README.en.md) [स्पैनिश](README.es.md) [इतालवी](README.it.md) [फ़्रेंच](README.fr.md) [जर्मन](README.de.md) [जापानी](README.ja.md) [सरलीकृत चीनी)](README.zh-CN.md) [चीनी पारंपरिक)](README.zh-TW.md) [कोरियाई](README.ko.md) [रशो](README.ru.md) [अरबी](README.ar.md) [हॉलैंड](README.nl.md) [नहीं](README.hi.md) [यहूदी](README.he.md)
+   [पुर्तगाली](README.md) [अंग्रेज़ी](README.en.md) [स्पैनिश](README.es.md) [इतालवी](README.it.md) [फ़्रेंच](README.fr.md) [जर्मन](README.de.md) [जापानी](README.ja.md) [सरलीकृत चीनी)](README.zh-CN.md) [चीनी पारंपरिक)](README.zh-TW.md) [कोरियाई](README.ko.md) [रशो](README.ru.md) [अरबी](README.ar.md) [हॉलैंड](README.nl.md) [नहीं](README.hi.md) [यूनानी](README.el.md)
 
 </div><br>
 
@@ -29,7 +29,7 @@
 -   👯मैं व्यक्तिगत और टीम परियोजनाओं पर सहयोग करने का प्रयास करता हूं जिन्हें मुझे काम पर रखा गया है।
 -   🤔मैं सॉफ़्टवेयर समस्या निवारण के लिए सहायता ढूँढ़ रहा हूँ।
 -   💬 मुझसे प्रौद्योगिकी और आर्टिफिशियल इंटेलिजेंस के क्षेत्र के बारे में पूछें।
--   📫 Como chegar até mim: pelo email [development@humbanew.com.br](mailto:development@humbanew.com.br).
+-   📫मुझ तक कैसे पहुंचें: ईमेल द्वारा[development@humbanew.com.br](mailto:development@humbanew.com.br).
 -   😄 सर्वनाम: वह/उसे - एली/डेले
 -   ⚡ मजेदार तथ्य: मैं अपने खाली समय में पागलपन भरी परियोजनाओं के निर्माण पर अत्यधिक ध्यान केंद्रित करता हूं।
 
