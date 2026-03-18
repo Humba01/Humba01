@@ -6,7 +6,7 @@
 
 ![Idiomas-Title](./assets/Idiomas-container.svg)
 
-   [البرتغالية](README.md) [إنجليزي](README.en.md) [الأسبانية](README.es.md) [ايطالي](README.it.md) [فرنسي](README.fr.md) [الألمانية](README.de.md) [اليابانية](README.ja.md) [Chinês (Simplificado)](README.zh-CN.md) [الصينية (التقليدية)](README.zh-TW.md) [كوري](README.ko.md) [روسو](README.ru.md) [عربي](README.ar.md) [هولندا](README.nl.md) [لا](README.hi.md) [العبرية](README.he.md)
+   [البرتغالية](README.md) [إنجليزي](README.en.md) [الأسبانية](README.es.md) [ايطالي](README.it.md) [فرنسي](README.fr.md) [الألمانية](README.de.md) [اليابانية](README.ja.md) [الصينية (المبسطة)](README.zh-CN.md) [الصينية (التقليدية)](README.zh-TW.md) [كوري](README.ko.md) [روسو](README.ru.md) [عربي](README.ar.md) [هولندا](README.nl.md) [لا](README.hi.md) [اليونانية](README.el.md)
 
 </div><br>
 
@@ -25,12 +25,12 @@
 أنا طالب علوم حاسوب، شغوف بالتكنولوجيا وتطوير البرمجيات. لدي خبرة في العديد من لغات البرمجة، مثل Java وPHP وANSI C/C++ وJavaScript/Typescript. أتطلع دائمًا إلى تعلم تقنيات جديدة وتحسين مهاراتي لأصبح مطورًا أكثر اكتمالاً. علاوة على ذلك، أنا متحمس للذكاء الاصطناعي ومهتم باستكشاف الإمكانيات التي يوفرها هذا المجال.
 
 -   🔭 أعمل حاليا على مشاريع شخصية وأكاديمية وأعمال حرة.
--   🌱 أتعلم حاليًا لغة الكوتلن.
+-   🌱 Atualmente estou aprendendo a linguagem Kotlin.
 -   👯 أحاول التعاون في المشاريع الشخصية والجماعية التي يتم توظيفي فيها.
 -   🤔 أبحث عن مساعدة في استكشاف أخطاء البرامج وإصلاحها.
 -   💬 اسألني عن مجال التكنولوجيا والذكاء الاصطناعي.
 -   📫كيفية الوصول إلي: عن طريق البريد الإلكتروني[development@humbanew.com.br](mailto:development@humbanew.com.br).
--   😄 الضمائر: هو/هي – ele/dele
+-   😄 الضمائر: هو/هي - ele/dele
 -   ⚡ حقيقة ممتعة: أنا أركز بشدة على بناء مشاريع مجنونة في وقت فراغي.
 
 </div><br><br>
