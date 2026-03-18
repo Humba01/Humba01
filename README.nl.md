@@ -20,7 +20,7 @@
 
 Ik ben een student Computerwetenschappen, gepassioneerd door technologie en softwareontwikkeling. Ik heb ervaring met verschillende programmeertalen, zoals Java, PHP, ANSI C/C++ en JavaScript/Typescript. Ik ben altijd op zoek naar nieuwe technologieën en het verbeteren van mijn vaardigheden om een ​​completere ontwikkelaar te worden. Bovendien ben ik een liefhebber van kunstmatige intelligentie en ben ik geïnteresseerd in het verkennen van de mogelijkheden die dit gebied biedt.
 
--   🔭 Atualmente estou trabalhando em projetos pessoais, acadêmicos e freelancer.
+-   🔭 Momenteel werk ik aan persoonlijke, academische en freelance projecten.
 -   🌱 Momenteel leer ik de Kotlin-taal.
 -   👯 Ik probeer mee te werken aan persoonlijke en teamprojecten waarvoor ik word ingehuurd.
 -   🤔 Ik zoek hulp bij het oplossen van softwareproblemen.
