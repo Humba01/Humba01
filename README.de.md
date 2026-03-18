@@ -4,9 +4,9 @@
 
 <div align="left">
 
-## Sprachen:
+![Idiomas-Title](./assets/Idiomas-container.svg)
 
-[Portugiesisch](README.md) [Englisch](README.en.md) [Spanisch](README.es.md) [Italienisch](README.it.md) [Französisch](README.fr.md) [Deutsch](README.de.md) [japanisch](README.ja.md) [Chinesisch (vereinfacht)](README.zh-CN.md) [Chinesisch (traditionell)](README.zh-TW.md)
+   [Portugiesisch](README.md) [Englisch](README.en.md) [Spanisch](README.es.md) [Italienisch](README.it.md) [Französisch](README.fr.md) [Deutsch](README.de.md) [japanisch](README.ja.md) [Chinesisch (vereinfacht)](README.zh-CN.md) [Chinesisch (traditionell)](README.zh-TW.md) [Koreanisch](README.ko.md) [Russo](README.ru.md) [Arabisch](README.ar.md) [Holland](README.nl.md) [Nein](README.hi.md) [hebräisch](README.he.md)
 
 </div><br>
 
@@ -25,7 +25,7 @@
 Ich studiere Informatik und habe eine Leidenschaft für Technologie und Softwareentwicklung. Ich habe Erfahrung in mehreren Programmiersprachen, wie Java, PHP, ANSI C/C++ und JavaScript/Typescript. Ich bin immer auf der Suche nach neuen Technologien und verbessere meine Fähigkeiten, um ein umfassenderer Entwickler zu werden. Darüber hinaus bin ich ein Enthusiast der künstlichen Intelligenz und daran interessiert, die Möglichkeiten zu erkunden, die dieser Bereich bietet.
 
 -   🔭 Ich arbeite derzeit an persönlichen, akademischen und freiberuflichen Projekten.
--   🌱 Atualmente estou aprendendo a linguagem Kotlin.
+-   🌱 Ich lerne gerade die Kotlin-Sprache.
 -   👯 Ich versuche, an persönlichen und Teamprojekten mitzuarbeiten, mit denen ich beauftragt werde.
 -   🤔 Ich suche Hilfe bei der Fehlerbehebung in der Software.
 -   💬 Fragen Sie mich nach dem Bereich Technologie und Künstliche Intelligenz.
@@ -76,8 +76,5 @@ Ich studiere Informatik und habe eine Leidenschaft für Technologie und Software
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://bsky.app/profile/humba01.bsky.social">
     <img src="./assets/Bluesky.svg" width="110" padding="1rem" />
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://cursos.alura.com.br/user/humba01">
-    <img src="./assets/Alura.svg" width="110" padding="1rem" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
