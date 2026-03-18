@@ -71,3 +71,7 @@ jobs:
         uses: dephraiim/translate-readme@main
         with:
           LANG: el
+      - name: Adding README - Hebrew        
+        uses: dephraiim/translate-readme@main
+        with:
+          LANG: iw
