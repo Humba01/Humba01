@@ -4,7 +4,7 @@
 
 ![Idiomas-Title](./assets/Idiomas-container.svg)
 
-   [포르투갈 인](README.md) [영어](README.en.md) [스페인 사람](README.es.md) [이탈리아 사람](README.it.md) [Francês](README.fr.md) [독일 사람](README.de.md) <br>[일본어](README.ja.md) [중국어(간체)](README.zh-CN.md) [중국어(번체)](README.zh-TW.md) [한국인](README.ko.md) [루소](README.ru.md) [아라비아 말](README.ar.md)<br> [네덜란드](README.nl.md) [아니요](README.hi.md) [헤브라이 사람](README.iw.md) [그리스 사람](README.el.md)<br>
+   [포르투갈 인](README.md) [영어](README.en.md) [스페인 사람](README.es.md) [이탈리아 사람](README.it.md) [프랑스 국민](README.fr.md) [독일 사람](README.de.md) <br>[일본어](README.ja.md) [중국어(간체)](README.zh-CN.md) [중국어(번체)](README.zh-TW.md) [한국인](README.ko.md) [루소](README.ru.md) [아라비아 말](README.ar.md)<br> [네덜란드](README.nl.md) [아니요](README.hi.md) [헤브라이 사람](README.iw.md) [그리스 사람](README.el.md)<br>
 
 ![Destaques-Title](./assets/Destaques-container.svg)[![Humba01's GitHub stats 1](https://github-readme-stats-fast.vercel.app/api/?username=Humba01&theme=dracula&locale=pt-br)](https://github.com/pranesh-2005/github-readme-stats-fast)<br><br><br>[![Humba01's GitHub stats 2](https://github-readme-stats-fast.vercel.app/api/streak/?username=Humba01&theme=dracula&locale=pt-br)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
@@ -25,7 +25,7 @@
 -   👯 나는 내가 고용한 개인 프로젝트와 팀 프로젝트를 협업하려고 노력합니다.
 -   🤔 소프트웨어 문제 해결에 대한 도움을 찾고 있습니다.
 -   💬 기술과 인공지능 분야에 대해 물어보세요.
--   📫 연락 방법: 이메일[development@humbanew.com.br](mailto:development@humbanew.com.br).
+-   📫 Como chegar até mim: pelo email [development@humbanew.com.br](mailto:development@humbanew.com.br).
 -   😄 대명사: 그/그 - 엘레/델
 -   ⚡ 재미있는 사실: 저는 여가 시간에 미친 프로젝트를 만드는 데 지나치게 집중하고 있습니다.
 
