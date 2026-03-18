@@ -20,7 +20,7 @@
 
 Soy estudiante de Informática, apasionado por la tecnología y el desarrollo de software. Tengo experiencia en varios lenguajes de programación, como Java, PHP, ANSI C/C++ y JavaScript/Typescript. Siempre estoy buscando aprender nuevas tecnologías y mejorar mis habilidades para convertirme en un desarrollador más completo. Además, soy un entusiasta de la inteligencia artificial y estoy interesado en explorar las posibilidades que ofrece esta área.
 
--   🔭 Actualmente estoy trabajando en proyectos personales, académicos y freelance.
+-   🔭 Atualmente estou trabalhando em projetos pessoais, acadêmicos e freelancer.
 -   🌱 Actualmente estoy aprendiendo el lenguaje Kotlin.
 -   👯 Intento colaborar en proyectos personales y de equipo que me contratan.
 -   🤔 Estoy buscando ayuda con la resolución de problemas de software.
