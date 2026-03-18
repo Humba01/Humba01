@@ -4,7 +4,7 @@
 
 ![Idiomas-Title](./assets/Idiomas-container.svg)
 
-   [פורטוגזית](README.md) [אַנגְלִית](README.en.md) [סְפָרַדִית](README.es.md) [אִיטַלְקִית](README.it.md) [צָרְפָתִית](README.fr.md) [Alemão](README.de.md) <br>[יַפָּנִית](README.ja.md) [סינית (פשוטה)](README.zh-CN.md) [סינית (מסורתית)](README.zh-TW.md) [קוריאנית](README.ko.md) [רוסו](README.ru.md) [עֲרָבִית](README.ar.md)<br> [הוֹלַנד](README.nl.md) [לֹא](README.hi.md) [עִברִית](README.iw.md) [יוונית](README.el.md)<br>
+   [פורטוגזית](README.md) [אַנגְלִית](README.en.md) [סְפָרַדִית](README.es.md) [אִיטַלְקִית](README.it.md) [צָרְפָתִית](README.fr.md) [גֶרמָנִיָת](README.de.md) <br>[יַפָּנִית](README.ja.md) [סינית (פשוטה)](README.zh-CN.md) [סינית (מסורתית)](README.zh-TW.md) [קוריאנית](README.ko.md) [רוסו](README.ru.md) [עֲרָבִית](README.ar.md)<br> [הוֹלַנד](README.nl.md) [לֹא](README.hi.md) [עִברִית](README.iw.md) [יוונית](README.el.md)<br>
 
 ![Destaques-Title](./assets/Destaques-container.svg)[![Humba01's GitHub stats 1](https://github-readme-stats-fast.vercel.app/api/?username=Humba01&theme=dracula&locale=pt-br)](https://github.com/pranesh-2005/github-readme-stats-fast)<br><br><br>[![Humba01's GitHub stats 2](https://github-readme-stats-fast.vercel.app/api/streak/?username=Humba01&theme=dracula&locale=pt-br)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
@@ -20,7 +20,7 @@
 
 אני סטודנט למדעי המחשב, נלהב מטכנולוגיה ופיתוח תוכנה. יש לי ניסיון במספר שפות תכנות, כמו Java, PHP, ANSI C/C++ ו-JavaScript/Typescript. אני תמיד מחפש ללמוד טכנולוגיות חדשות ולשפר את הכישורים שלי כדי להפוך למפתח שלם יותר. יתר על כן, אני חובב בינה מלאכותית ומעוניין לבחון את האפשרויות שהתחום הזה מציע.
 
--   🔭 Atualmente estou trabalhando em projetos pessoais, acadêmicos e freelancer.
+-   🔭 כרגע אני עובד על פרויקטים אישיים, אקדמיים ופרילנסרים.
 -   🌱 כרגע אני לומד את שפת קוטלין.
 -   👯 אני משתדל לשתף פעולה בפרויקטים אישיים וצוותיים שאני נשכר.
 -   🤔 אני מחפש עזרה בפתרון תקלות תוכנה.
