@@ -2,13 +2,9 @@
 
 ![Humba01-Header-Profile](./assets/Humba01-Github.svg)<br>
 
-<div align="left">
-
 ![Idiomas-Title](./assets/Idiomas-container.svg)
 
-   [Πορτογάλος](README.md) [αγγλικός](README.en.md) [ισπανικά](README.es.md) [ιταλικά](README.it.md) [Γάλλος](README.fr.md) [Γερμανός](README.de.md) [Japonês](README.ja.md) [Κινεζικά (Απλοποιημένα)](README.zh-CN.md) [Κινέζικα (Παραδοσιακά)](README.zh-TW.md) [Coreano](README.ko.md) [Ρούσο](README.ru.md) [αραβικός](README.ar.md) [Ολλανδία](README.nl.md) [Οχι](README.hi.md) [ελληνικά](README.el.md)
-
-</div><br>
+   [Português](README.md) [αγγλικός](README.en.md) [ισπανικά](README.es.md) [ιταλικά](README.it.md) [Γάλλος](README.fr.md) [Γερμανός](README.de.md) <br>[Japonês](README.ja.md) [Κινέζικα (Απλοποιημένα)](README.zh-CN.md) [Κινέζικα (Παραδοσιακά)](README.zh-TW.md) [Coreano](README.ko.md) [Ρούσο](README.ru.md) [αραβικός](README.ar.md)<br> [Ολλανδία](README.nl.md) [Οχι](README.hi.md) [ελληνικά](README.el.md)<br>
 
 ![Destaques-Title](./assets/Destaques-container.svg)[![Humba01's GitHub stats 1](https://github-readme-stats-fast.vercel.app/api/?username=Humba01&theme=dracula&locale=pt-br)](https://github.com/pranesh-2005/github-readme-stats-fast)<br><br><br>[![Humba01's GitHub stats 2](https://github-readme-stats-fast.vercel.app/api/streak/?username=Humba01&theme=dracula&locale=pt-br)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
@@ -25,7 +21,7 @@
 Είμαι φοιτητής Πληροφορικής, παθιασμένος με την τεχνολογία και την ανάπτυξη λογισμικού. Έχω εμπειρία σε πολλές γλώσσες προγραμματισμού, όπως Java, PHP, ANSI C/C++ και JavaScript/Typescript. Πάντα ψάχνω να μάθω νέες τεχνολογίες και να βελτιώσω τις δεξιότητές μου για να γίνω πιο ολοκληρωμένος προγραμματιστής. Επιπλέον, είμαι λάτρης της τεχνητής νοημοσύνης και ενδιαφέρομαι να εξερευνήσω τις δυνατότητες που προσφέρει αυτή η περιοχή.
 
 -   🔭 Αυτήν τη στιγμή εργάζομαι σε προσωπικά, ακαδημαϊκά και ελεύθερους επαγγελματίες.
--   🌱 Atualmente estou aprendendo a linguagem Kotlin.
+-   🌱 Αυτή τη στιγμή μαθαίνω τη γλώσσα Kotlin.
 -   👯 Προσπαθώ να συνεργάζομαι σε προσωπικά και ομαδικά έργα που με προσλαμβάνουν.
 -   🤔 Αναζητώ βοήθεια για την αντιμετώπιση προβλημάτων λογισμικού.
 -   💬 Ρωτήστε με για τον τομέα της τεχνολογίας και της Τεχνητής Νοημοσύνης.
