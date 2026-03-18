@@ -6,16 +6,9 @@
 
 ## Lingue:
 
--   [portoghese](README.md)
--   [Inglese](README.en.md)
--   [spagnolo](README.es.md)
--   [Italiano](README.it.md)
--   [francese](README.fr.md)
--   [tedesco](README.de.md)
--   [giapponese](README.ja.md)
--   [Cinese (semplificato)](README.zh-CN.md)
--   [Cinese (tradizionale)](README.zh-TW.md)
-    </div><br>
+[portoghese](README.md) [Inglese](README.en.md) [spagnolo](README.es.md) [Italiano](README.it.md) [Francês](README.fr.md) [tedesco](README.de.md) [giapponese](README.ja.md) [Cinese (semplificato)](README.zh-CN.md) [Cinese (tradizionale)](README.zh-TW.md)
+
+</div><br>
 
 ![Destaques-Title](./assets/Destaques-container.svg)[![Humba01's GitHub stats 1](https://github-readme-stats-fast.vercel.app/api/?username=Humba01&theme=dracula&locale=pt-br)](https://github.com/pranesh-2005/github-readme-stats-fast)<br><br><br>[![Humba01's GitHub stats 2](https://github-readme-stats-fast.vercel.app/api/streak/?username=Humba01&theme=dracula&locale=pt-br)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
@@ -32,12 +25,12 @@
 Sono uno studente di Informatica, appassionato di tecnologia e sviluppo software. Ho esperienza in diversi linguaggi di programmazione, come Java, PHP, ANSI C/C++ e JavaScript/Typescript. Cerco sempre di apprendere nuove tecnologie e migliorare le mie capacità per diventare uno sviluppatore più completo. Inoltre, sono un appassionato di intelligenza artificiale e sono interessato ad esplorare le possibilità offerte da quest'area.
 
 -   🔭 Attualmente sto lavorando a progetti personali, accademici e freelance.
--   🌱 Attualmente sto imparando la lingua Kotlin.
+-   🌱 Atualmente estou aprendendo a linguagem Kotlin.
 -   👯Cerco di collaborare ai progetti personali e di gruppo in cui vengo assunto.
 -   🤔 Cerco aiuto per la risoluzione dei problemi del software.
 -   💬 Chiedimi informazioni sull'area della tecnologia e dell'intelligenza artificiale.
 -   📫 Come raggiungermi: via email[development@humbanew.com.br](mailto:development@humbanew.com.br).
--   😄 Pronomi: lui/lui - ele/dele
+-   😄 Pronouns: he/him - ele/dele
 -   ⚡ Fatto curioso: nel mio tempo libero sono molto concentrato sulla realizzazione di progetti folli.
 
 </div><br><br>
