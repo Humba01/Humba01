@@ -4,7 +4,7 @@
 
 ![Idiomas-Title](./assets/Idiomas-container.svg)
 
-   [portugais](README.md) [Anglais](README.en.md) [Espagnol](README.es.md) [italien](README.it.md) [Français](README.fr.md) [Allemand](README.de.md) <br>[japonais](README.ja.md) [Chinois (simplifié)](README.zh-CN.md) [Chinois (traditionnel)](README.zh-TW.md) [coréen](README.ko.md) [Russe](README.ru.md) [Árabe](README.ar.md)<br> [Hollande](README.nl.md) [Non](README.hi.md) [hébreu](README.iw.md) [grec](README.el.md)<br>
+   [portugais](README.md) [Anglais](README.en.md) [Espagnol](README.es.md) [italien](README.it.md) [Français](README.fr.md) [Allemand](README.de.md) <br>[japonais](README.ja.md) [Chinois (simplifié)](README.zh-CN.md) [Chinois (traditionnel)](README.zh-TW.md) [coréen](README.ko.md) [Russe](README.ru.md) [arabe](README.ar.md)<br> [Hollande](README.nl.md) [Non](README.hi.md) [hébreu](README.iw.md) [grec](README.el.md)<br>
 
 ![Destaques-Title](./assets/Destaques-container.svg)[![Humba01's GitHub stats 1](https://github-readme-stats-fast.vercel.app/api/?username=Humba01&theme=dracula&locale=pt-br)](https://github.com/pranesh-2005/github-readme-stats-fast)<br><br><br>[![Humba01's GitHub stats 2](https://github-readme-stats-fast.vercel.app/api/streak/?username=Humba01&theme=dracula&locale=pt-br)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
@@ -21,13 +21,13 @@
 Je suis étudiant en informatique, passionné par la technologie et le développement de logiciels. J'ai de l'expérience dans plusieurs langages de programmation, tels que Java, PHP, ANSI C/C++ et JavaScript/Typescript. Je cherche toujours à apprendre de nouvelles technologies et à améliorer mes compétences pour devenir un développeur plus complet. De plus, je suis passionné d’intelligence artificielle et je souhaite explorer les possibilités qu’offre ce domaine.
 
 -   🔭 Je travaille actuellement sur des projets personnels, académiques et indépendants.
--   🌱 Atualmente estou aprendendo a linguagem Kotlin.
+-   🌱 J'apprends actuellement le langage Kotlin.
 -   👯 J'essaie de collaborer sur les projets personnels et d'équipe que je suis embauché.
 -   🤔 Je recherche de l'aide pour un dépannage logiciel.
 -   💬 Interrogez-moi sur le domaine de la technologie et de l'intelligence artificielle.
 -   📫 Comment me joindre : par email[development@humbanew.com.br](mailto:development@humbanew.com.br).
 -   😄 Pronoms : il/lui - ele/dele
--   ⚡ Fait amusant : je suis hyper concentré sur la construction de projets fous pendant mon temps libre.
+-   ⚡ Fun fact: Tenho hiperfoco em construir projetos loucos no meu tempo livre.
 
 </div><br><br>
 
@@ -76,4 +76,28 @@ Je suis étudiant en informatique, passionné par la technologie et le développ
 <!-- <a href="">
     <img src="./assets/HAL-Science.svg" width="110" padding="1rem" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp; -->
+</div>
+
+![Repositórios-Title](./assets/Repositórios-container.svg)
+
+<div align="justify">
+
+Mes référentiels seront organisés par types d'origine, qui sont :
+
+-   **`psn`**(Personnel);
+-   **`pxp`**(Personnel - Expérimental);
+-   **`mnr`**(Monorepo);
+-   **`hnb`**(Sources préquelles de Humbanew) ;
+-   **`isb`**(IESB - Institut d'Enseignement Supérieur de Brasilia) ;
+-   **`alr`**(Séduire);
+-   **`udm`**(Udemy);
+-   **`bwd`**(Beecfoule);
+-   **`goo`**(Google – Certifications) ;
+-   **`msf`**(Microsoft - Certifications) ;
+-   **`ibm`**(IBM - Certifications) ;
+-   **`amz`**(Amazon – Certifications) ;
+    > _Prochainement, plus de nomenclatures pour organiser les référentiels de mon portfolio, susceptibles de changer selon les besoins._
+
+Certains référentiels sont exemptés de cette nomenclature, comme le référentiel spécial de profils Github`Humba01/Humba01`et le`Humba01/dotfiles`pour la configuration de démarrage de Github Codespaces.
+
 </div>
