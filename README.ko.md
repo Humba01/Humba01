@@ -20,14 +20,14 @@
 
 저는 기술과 소프트웨어 개발에 열정을 갖고 있는 컴퓨터 과학 학생입니다. 저는 Java, PHP, ANSI C/C++ 및 JavaScript/Typescript와 같은 여러 프로그래밍 언어에 대한 경험이 있습니다. 저는 항상 새로운 기술을 배우고 기술을 향상하여 더욱 완벽한 개발자가 되기 위해 노력하고 있습니다. 게다가 저는 인공 지능에 열광하며 이 분야가 제공하는 가능성을 탐구하는 데 관심이 있습니다.
 
--   🔭 저는 현재 개인, 학술, 프리랜서 프로젝트를 진행하고 있습니다.
+-   🔭 Atualmente estou trabalhando em projetos pessoais, acadêmicos e freelancer.
 -   🌱 저는 현재 Kotlin 언어를 배우고 있습니다.
 -   👯 나는 내가 고용한 개인 프로젝트와 팀 프로젝트를 협업하려고 노력합니다.
--   🤔 소프트웨어 문제 해결에 대한 도움을 찾고 있습니다.
+-   🤔 Procuro ajuda com soluções de problemas em softwares.
 -   💬 기술과 인공지능 분야에 대해 물어보세요.
 -   📫 연락 방법: 이메일[development@humbanew.com.br](mailto:development@humbanew.com.br).
 -   😄 대명사: 그/그 - 엘레/델
--   ⚡ Fun fact: Tenho hiperfoco em construir projetos loucos no meu tempo livre.
+-   ⚡ 재미있는 사실: 저는 여가 시간에 미친 프로젝트를 만드는 데 지나치게 집중하고 있습니다.
 
 </div><br><br>
 
@@ -76,4 +76,28 @@
 <!-- <a href="">
     <img src="./assets/HAL-Science.svg" width="110" padding="1rem" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp; -->
+</div>
+
+![Repositórios-Title](./assets/Repositórios-container.svg)
+
+<div align="justify">
+
+내 저장소는 다음과 같은 출처 유형별로 구성됩니다.
+
+-   **`psn`**(개인의);
+-   **`pxp`**(개인 - 실험용)
+-   **`mnr`**(모노레포);
+-   **`hnb`**(Humbanew 전편 소스);
+-   **`isb`**(IESB - 브라질리아 고등교육연구소);
+-   **`alr`**(매력);
+-   **`udm`**(유데미);
+-   **`bwd`**(비크라우드);
+-   **`goo`**(Google - 인증);
+-   **`msf`**(Microsoft - 인증);
+-   **`ibm`**(IBM - 인증);
+-   **`amz`**(아마존 - 인증);
+    > _곧 내 포트폴리오 저장소를 구성하기 위한 더 많은 명명법이 제공될 예정이며 필요에 따라 변경될 수 있습니다._
+
+특수 Github 프로필 저장소와 같은 일부 저장소는 이 명명법에서 제외됩니다.`Humba01/Humba01`그리고`Humba01/dotfiles`Github Codespaces 시작 구성용.
+
 </div>
