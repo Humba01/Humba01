@@ -93,3 +93,27 @@ Sou um estudante de Ciência da Computação, apaixonado por tecnologia e desenv
     <img src="./assets/HAL-Science.svg" width="110" padding="1rem" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp; -->
 </div>
+
+![Repositórios-Title](./assets/Repositórios-container.svg)
+
+
+<div align="justify">
+
+Os meus repositórios serão organizados por tipos de origem, sendo elas: 
+- **``psn``** (Personal); 
+- **``pxp``** (Personal - Experimental); 
+- **``mnr``** (Monorepo); 
+- **``hnb``** (Humbanew Prequel Sources); 
+- **``isb``** (IESB - Instituto de Ensino Superior de Brasília);
+- **``alr``** (Alura); 
+- **``udm``** (Udemy); 
+- **``bwd``** (Beecrowd); 
+- **``goo``** (Google - Certificações); 
+- **``msf``** (Microsoft - Certificações);
+- **``ibm``** (IBM - Certificações);
+- **``amz``** (Amazon - Certificações);
+> *em breve mais nomenclaturas para organizar os repositórios do meu portifólio, passível de mudanças conforme a necessidade.*
+
+Alguns repositórios são isentos dessa nomenclatura como o repositório especial de perfil do Github `Humba01/Humba01` e o `Humba01/dotfiles` para a configuração de inicialização do Github Codespaces.
+
+</div>
