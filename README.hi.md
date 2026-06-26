@@ -4,7 +4,7 @@
 
 ![Idiomas-Title](./assets/Idiomas-container.svg)
 
-   [पुर्तगाली](README.md) [Inglês](README.en.md) [स्पैनिश](README.es.md) [इतालवी](README.it.md) [फ़्रेंच](README.fr.md) [जर्मन](README.de.md) <br>[जापानी](README.ja.md) [सरलीकृत चीनी)](README.zh-CN.md) [चीनी पारंपरिक)](README.zh-TW.md) [कोरियाई](README.ko.md) [रशो](README.ru.md) [अरबी](README.ar.md)<br> [हॉलैंड](README.nl.md) [नहीं](README.hi.md) [यहूदी](README.iw.md) [यूनानी](README.el.md)<br>
+   [पुर्तगाली](README.md) [अंग्रेज़ी](README.en.md) [स्पैनिश](README.es.md) [इतालवी](README.it.md) [फ़्रेंच](README.fr.md) [जर्मन](README.de.md) <br>[जापानी](README.ja.md) [सरलीकृत चीनी)](README.zh-CN.md) [चीनी पारंपरिक)](README.zh-TW.md) [कोरियाई](README.ko.md) [रशो](README.ru.md) [अरबी](README.ar.md)<br> [हॉलैंड](README.nl.md) [नहीं](README.hi.md) [यहूदी](README.iw.md) [यूनानी](README.el.md)<br>
 
 ![Destaques-Title](./assets/Destaques-container.svg)[![Humba01's GitHub stats 1](https://github-readme-stats-fast.vercel.app/api/?username=Humba01&theme=dracula&locale=pt-br)](https://github.com/pranesh-2005/github-readme-stats-fast)<br><br><br>[![Humba01's GitHub stats 2](https://github-readme-stats-fast.vercel.app/api/streak/?username=Humba01&theme=dracula&locale=pt-br)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
@@ -21,7 +21,7 @@
 मैं एक कंप्यूटर विज्ञान का छात्र हूं, प्रौद्योगिकी और सॉफ्टवेयर विकास का शौकीन हूं। मेरे पास जावा, पीएचपी, एएनएसआई सी/सी++ और जावास्क्रिप्ट/टाइपस्क्रिप्ट जैसी कई प्रोग्रामिंग भाषाओं का अनुभव है। मैं हमेशा नई तकनीकों को सीखने और अधिक संपूर्ण डेवलपर बनने के लिए अपने कौशल में सुधार करने के लिए उत्सुक रहता हूं। इसके अलावा, मैं कृत्रिम बुद्धिमत्ता का समर्थक हूं और इस क्षेत्र में उपलब्ध संभावनाओं को तलाशने में रुचि रखता हूं।
 
 -   🔭मैं वर्तमान में व्यक्तिगत, शैक्षणिक और स्वतंत्र परियोजनाओं पर काम कर रहा हूं।
--   🌱मैं वर्तमान में कोटलिन भाषा सीख रहा हूं।
+-   🌱 Atualmente estou aprendendo a linguagem Kotlin.
 -   👯मैं व्यक्तिगत और टीम परियोजनाओं पर सहयोग करने का प्रयास करता हूं जिन्हें मुझे काम पर रखा गया है।
 -   🤔 Procuro ajuda com soluções de problemas em softwares.
 -   💬 मुझसे प्रौद्योगिकी और आर्टिफिशियल इंटेलिजेंस के क्षेत्र के बारे में पूछें।
@@ -76,4 +76,28 @@
 <!-- <a href="">
     <img src="./assets/HAL-Science.svg" width="110" padding="1rem" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp; -->
+</div>
+
+![Repositórios-Title](./assets/Repositórios-container.svg)
+
+<div align="justify">
+
+मेरे भंडारों को उत्पत्ति के प्रकारों के अनुसार व्यवस्थित किया जाएगा, जो हैं:
+
+-   **`psn`**(निजी);
+-   **`pxp`**(व्यक्तिगत - प्रायोगिक);
+-   **`mnr`**(मोनोरेपो);
+-   **`hnb`**(हंबान्यू प्रीक्वल स्रोत);
+-   **`isb`**(आईईएसबी - ब्रासीलिया का उच्च शिक्षा संस्थान);
+-   **`alr`**(लुभाना);
+-   **`udm`** (Udemy); 
+-   **`bwd`**(बीक्रोड);
+-   **`goo`**(Google - प्रमाणपत्र);
+-   **`msf`**(माइक्रोसॉफ्ट - प्रमाणपत्र);
+-   **`ibm`**(आईबीएम - प्रमाणपत्र);
+-   **`amz`**(अमेज़ॅन - प्रमाणपत्र);
+    > _जल्द ही, मेरे पोर्टफोलियो के रिपॉजिटरी को व्यवस्थित करने के लिए और अधिक नामकरण, आवश्यकतानुसार परिवर्तन के अधीन आ रहे हैं।_
+
+कुछ रिपॉजिटरी को इस नामकरण से छूट दी गई है, जैसे कि विशेष जीथब प्रोफ़ाइल रिपॉजिटरी`Humba01/Humba01`और यह`Humba01/dotfiles`जीथब कोडस्पेस स्टार्टअप कॉन्फ़िगरेशन के लिए।
+
 </div>
