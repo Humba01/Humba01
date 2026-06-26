@@ -77,3 +77,27 @@
     <img src="./assets/HAL-Science.svg" width="110" padding="1rem" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp; -->
 </div>
+
+![Repositórios-Title](./assets/Repositórios-container.svg)
+
+<div align="justify">
+
+המאגרים שלי יהיו מאורגנים לפי סוגי מקור, שהם:
+
+-   **`psn`**(אִישִׁי);
+-   **`pxp`** (Personal - Experimental); 
+-   **`mnr`**(מונורפו);
+-   **`hnb`**(מקורות Humbanew Prequel);
+-   **`isb`**(IESB - המכון להשכלה גבוהה של ברזיליה);
+-   **`alr`**(קֶסֶם);
+-   **`udm`**(אודמי);
+-   **`bwd`**(Beeccrowd);
+-   **`goo`**(גוגל - הסמכות);
+-   **`msf`**(מיקרוסופט - אישורים);
+-   **`ibm`**(IBM - אישורים);
+-   **`amz`** (Amazon - Certificações);
+    > _בקרוב, מינוחים נוספים לארגון המאגרים של תיק העבודות שלי, כפוף לשינויים לפי הצורך._
+
+מאגרים מסוימים פטורים ממינוח זה, כמו מאגר הפרופילים המיוחד של Github`Humba01/Humba01`ואת`Humba01/dotfiles`עבור תצורת ההפעלה של Github Codespaces.
+
+</div>
