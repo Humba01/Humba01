@@ -77,3 +77,27 @@
     <img src="./assets/HAL-Science.svg" width="110" padding="1rem" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp; -->
 </div>
+
+![Repositórios-Title](./assets/Repositórios-container.svg)
+
+<div align="justify">
+
+我的存儲庫將按來源類型進行組織，其中包括：
+
+-   **`psn`**（個人的）;
+-   **`pxp`**（個人-實驗）；
+-   **`mnr`**（莫諾雷波）；
+-   **`hnb`**（Humbanew 前傳來源）；
+-   **`isb`**（IESB - 巴西利亞高等教育學院）；
+-   **`alr`**（引誘）;
+-   **`udm`**（烏迪米）；
+-   **`bwd`**（蜂群）；
+-   **`goo`**（Google - 認證）；
+-   **`msf`**（微軟 - 認證）；
+-   **`ibm`**（IBM - 認證）；
+-   **`amz`**（亞馬遜 - 認證）；
+    > _即將推出更多術語來組織我的投資組合儲存庫，並可根據需要進行變更。_
+
+有些儲存庫不受此命名法的約束，例如特殊的 Github 設定檔儲存庫`Humba01/Humba01`和`Humba01/dotfiles`用於 Github Codespaces 啟動配置。
+
+</div>

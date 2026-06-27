@@ -4,7 +4,7 @@
 
 ![Idiomas-Title](./assets/Idiomas-container.svg)
 
-   [Πορτογάλος](README.md) [αγγλικός](README.en.md) [Espanhol](README.es.md) [ιταλικά](README.it.md) [Γάλλος](README.fr.md) [Γερμανός](README.de.md) <br>[Ιαπωνικά](README.ja.md) [Κινεζικά (Απλοποιημένα)](README.zh-CN.md) [Κινέζικα (Παραδοσιακά)](README.zh-TW.md) [κορεάτης](README.ko.md) [Ρούσο](README.ru.md) [αραβικός](README.ar.md)<br> [Ολλανδία](README.nl.md) [Οχι](README.hi.md) [Εβραϊκά](README.iw.md) [ελληνικά](README.el.md)<br>
+   [Πορτογάλος](README.md) [αγγλικός](README.en.md) [ισπανικά](README.es.md) [ιταλικά](README.it.md) [Γάλλος](README.fr.md) [Γερμανός](README.de.md) <br>[Ιαπωνικά](README.ja.md) [Κινεζικά (Απλοποιημένα)](README.zh-CN.md) [Κινέζικα (Παραδοσιακά)](README.zh-TW.md) [κορεάτης](README.ko.md) [Ρούσο](README.ru.md) [αραβικός](README.ar.md)<br> [Ολλανδία](README.nl.md) [Οχι](README.hi.md) [Εβραϊκά](README.iw.md) [ελληνικά](README.el.md)<br>
 
 ![Destaques-Title](./assets/Destaques-container.svg)[![Humba01's GitHub stats 1](https://github-readme-stats-fast.vercel.app/api/?username=Humba01&theme=dracula&locale=pt-br)](https://github.com/pranesh-2005/github-readme-stats-fast)<br><br><br>[![Humba01's GitHub stats 2](https://github-readme-stats-fast.vercel.app/api/streak/?username=Humba01&theme=dracula&locale=pt-br)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
@@ -21,7 +21,7 @@
 Είμαι φοιτητής Πληροφορικής, παθιασμένος με την τεχνολογία και την ανάπτυξη λογισμικού. Έχω εμπειρία σε πολλές γλώσσες προγραμματισμού, όπως Java, PHP, ANSI C/C++ και JavaScript/Typescript. Πάντα ψάχνω να μάθω νέες τεχνολογίες και να βελτιώσω τις δεξιότητές μου για να γίνω πιο ολοκληρωμένος προγραμματιστής. Επιπλέον, είμαι λάτρης της τεχνητής νοημοσύνης και ενδιαφέρομαι να εξερευνήσω τις δυνατότητες που προσφέρει αυτή η περιοχή.
 
 -   🔭 Αυτήν τη στιγμή εργάζομαι σε προσωπικά, ακαδημαϊκά και ελεύθερους επαγγελματίες.
--   🌱 Αυτή τη στιγμή μαθαίνω τη γλώσσα Kotlin.
+-   🌱 Atualmente estou aprendendo a linguagem Kotlin.
 -   👯 Προσπαθώ να συνεργάζομαι σε προσωπικά και ομαδικά έργα που με προσλαμβάνουν.
 -   🤔 Αναζητώ βοήθεια για την αντιμετώπιση προβλημάτων λογισμικού.
 -   💬 Ρωτήστε με για τον τομέα της τεχνολογίας και της Τεχνητής Νοημοσύνης.
@@ -76,4 +76,28 @@
 <!-- <a href="">
     <img src="./assets/HAL-Science.svg" width="110" padding="1rem" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp; -->
+</div>
+
+![Repositórios-Title](./assets/Repositórios-container.svg)
+
+<div align="justify">
+
+Τα αποθετήρια μου θα οργανωθούν ανά τύπο προέλευσης, οι οποίοι είναι:
+
+-   **`psn`**(Προσωπικός);
+-   **`pxp`**(Προσωπικό - Πειραματικό);
+-   **`mnr`**(Monorepo);
+-   **`hnb`**(Humbanew Prequel Sources);
+-   **`isb`**(IESB - Institute of Higher Education of Brasília);
+-   **`alr`**(Δελεάζω);
+-   **`udm`**(Udemy);
+-   **`bwd`**(Beecrowd);
+-   **`goo`**(Google - Πιστοποιήσεις);
+-   **`msf`**(Microsoft - Πιστοποιήσεις);
+-   **`ibm`**(IBM - Πιστοποιήσεις);
+-   **`amz`**(Amazon - Πιστοποιήσεις);
+    > _Σύντομα, περισσότερες ονοματολογίες για την οργάνωση των αποθετηρίων του χαρτοφυλακίου μου, που υπόκεινται σε αλλαγές ανάλογα με τις ανάγκες._
+
+Ορισμένα αποθετήρια εξαιρούνται από αυτήν την ονοματολογία, όπως το ειδικό αποθετήριο προφίλ Github`Humba01/Humba01`και το`Humba01/dotfiles`για τη διαμόρφωση εκκίνησης Github Codespaces.
+
 </div>

@@ -77,3 +77,27 @@ Ik ben een student Computerwetenschappen, gepassioneerd door technologie en soft
     <img src="./assets/HAL-Science.svg" width="110" padding="1rem" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp; -->
 </div>
+
+![Repositórios-Title](./assets/Repositórios-container.svg)
+
+<div align="justify">
+
+Mijn repositories zullen worden georganiseerd op basis van herkomst, namelijk:
+
+-   **`psn`**(Persoonlijk);
+-   **`pxp`**(Persoonlijk - Experimenteel);
+-   **`mnr`**(Monorepo);
+-   **`hnb`**(Humbanew Prequel-bronnen);
+-   **`isb`**(IESB - Instituut voor Hoger Onderwijs van Brasilia);
+-   **`alr`**(Verleiden);
+-   **`udm`**(Udemy);
+-   **`bwd`**(Beecrowd);
+-   **`goo`**(Google - Certificeringen);
+-   **`msf`**(Microsoft - Certificeringen);
+-   **`ibm`**(IBM - Certificeringen);
+-   **`amz`**(Amazon - Certificeringen);
+    > _Binnenkort volgen meer nomenclaturen om de opslagplaatsen van mijn portfolio te organiseren, onder voorbehoud van wijzigingen indien nodig._
+
+Sommige repository's zijn vrijgesteld van deze nomenclatuur, zoals de speciale Github-profielrepository`Humba01/Humba01`en de`Humba01/dotfiles`voor de opstartconfiguratie van Github Codespaces.
+
+</div>

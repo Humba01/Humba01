@@ -4,7 +4,7 @@
 
 ![Idiomas-Title](./assets/Idiomas-container.svg)
 
-   [portoghese](README.md) [Inglese](README.en.md) [spagnolo](README.es.md) [Italiano](README.it.md) [francese](README.fr.md) [tedesco](README.de.md) <br>[giapponese](README.ja.md) [Cinese (semplificato)](README.zh-CN.md) [Cinese (tradizionale)](README.zh-TW.md) [Coreano](README.ko.md) [Russo](README.ru.md) [arabo](README.ar.md)<br> [Holandes](README.nl.md) [No](README.hi.md) [ebraico](README.iw.md) [greco](README.el.md)<br>
+   [portoghese](README.md) [Inglese](README.en.md) [spagnolo](README.es.md) [Italiano](README.it.md) [francese](README.fr.md) [tedesco](README.de.md) <br>[giapponese](README.ja.md) [Cinese (semplificato)](README.zh-CN.md) [Cinese (tradizionale)](README.zh-TW.md) [Coreano](README.ko.md) [Russo](README.ru.md) [arabo](README.ar.md)<br> [Olanda](README.nl.md) [No](README.hi.md) [ebraico](README.iw.md) [greco](README.el.md)<br>
 
 ![Destaques-Title](./assets/Destaques-container.svg)[![Humba01's GitHub stats 1](https://github-readme-stats-fast.vercel.app/api/?username=Humba01&theme=dracula&locale=pt-br)](https://github.com/pranesh-2005/github-readme-stats-fast)<br><br><br>[![Humba01's GitHub stats 2](https://github-readme-stats-fast.vercel.app/api/streak/?username=Humba01&theme=dracula&locale=pt-br)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
@@ -76,4 +76,28 @@ Sono uno studente di Informatica, appassionato di tecnologia e sviluppo software
 <!-- <a href="">
     <img src="./assets/HAL-Science.svg" width="110" padding="1rem" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp; -->
+</div>
+
+![Repositórios-Title](./assets/Repositórios-container.svg)
+
+<div align="justify">
+
+I miei repository saranno organizzati per tipi di origine, che sono:
+
+-   **`psn`**(Personale);
+-   **`pxp`**(Personale - Sperimentale);
+-   **`mnr`**(Monorepo);
+-   **`hnb`**(Fonti prequel di Humbanew);
+-   **`isb`**(IESB - Istituto di Istruzione Superiore di Brasilia);
+-   **`alr`**(Fascino);
+-   **`udm`**(Udemy);
+-   **`bwd`**(Folla di api);
+-   **`goo`**(Google - Certificazioni);
+-   **`msf`**(Microsoft – Certificazioni);
+-   **`ibm`**(IBM - Certificazioni);
+-   **`amz`**(Amazon – Certificazioni);
+    > _Presto saranno disponibili altre nomenclature per organizzare i repository del mio portfolio, soggette a modifiche in base alle necessità._
+
+Alcuni repository sono esentati da questa nomenclatura, come lo speciale repository del profilo Github`Humba01/Humba01`e o`Humba01/dotfiles`per la configurazione di avvio di Github Codespaces.
+
 </div>

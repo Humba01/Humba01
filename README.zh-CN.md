@@ -4,7 +4,7 @@
 
 ![Idiomas-Title](./assets/Idiomas-container.svg)
 
-   [葡萄牙语](README.md) [英语](README.en.md) [Espanhol](README.es.md) [意大利语](README.it.md) [法语](README.fr.md) [德语](README.de.md) <br>[日本人](README.ja.md) [中文（简体）](README.zh-CN.md) [中文（繁体）](README.zh-TW.md) [韩国人](README.ko.md) [鲁索](README.ru.md) [阿拉伯](README.ar.md)<br> [荷兰](README.nl.md) [没有](README.hi.md) [希伯来语](README.iw.md) [希腊语](README.el.md)<br>
+   [葡萄牙语](README.md) [英语](README.en.md) [西班牙语](README.es.md) [意大利语](README.it.md) [法语](README.fr.md) [德语](README.de.md) <br>[日本人](README.ja.md) [中文（简体）](README.zh-CN.md) [中文（繁体）](README.zh-TW.md) [韩国人](README.ko.md) [鲁索](README.ru.md) [阿拉伯](README.ar.md)<br> [荷兰](README.nl.md) [没有](README.hi.md) [希伯来语](README.iw.md) [希腊语](README.el.md)<br>
 
 ![Destaques-Title](./assets/Destaques-container.svg)[![Humba01's GitHub stats 1](https://github-readme-stats-fast.vercel.app/api/?username=Humba01&theme=dracula&locale=pt-br)](https://github.com/pranesh-2005/github-readme-stats-fast)<br><br><br>[![Humba01's GitHub stats 2](https://github-readme-stats-fast.vercel.app/api/streak/?username=Humba01&theme=dracula&locale=pt-br)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
@@ -76,4 +76,28 @@
 <!-- <a href="">
     <img src="./assets/HAL-Science.svg" width="110" padding="1rem" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp; -->
+</div>
+
+![Repositórios-Title](./assets/Repositórios-container.svg)
+
+<div align="justify">
+
+我的存储库将按来源类型进行组织，其中包括：
+
+-   **`psn`**（个人的）;
+-   **`pxp`**（个人-实验）；
+-   **`mnr`**（莫诺雷波）；
+-   **`hnb`**（Humbanew 前传来源）；
+-   **`isb`**（IESB - 巴西利亚高等教育学院）；
+-   **`alr`**（引诱）;
+-   **`udm`**（乌迪米）；
+-   **`bwd`**（蜂群）；
+-   **`goo`**（谷歌 - 认证）；
+-   **`msf`**（微软 - 认证）；
+-   **`ibm`**（IBM - 认证）；
+-   **`amz`**（亚马逊 - 认证）；
+    > _即将推出更多术语来组织我的投资组合存储库，并可根据需要进行更改。_
+
+有些存储库不受此命名法的约束，例如特殊的 Github 配置文件存储库`Humba01/Humba01`和`Humba01/dotfiles`用于 Github Codespaces 启动配置。
+
 </div>

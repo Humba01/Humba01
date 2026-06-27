@@ -77,3 +77,27 @@ Ich studiere Informatik und habe eine Leidenschaft für Technologie und Software
     <img src="./assets/HAL-Science.svg" width="110" padding="1rem" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp; -->
 </div>
+
+![Repositórios-Title](./assets/Repositórios-container.svg)
+
+<div align="justify">
+
+Meine Repositories werden nach Herkunftstypen organisiert:
+
+-   **`psn`**(Persönlich);
+-   **`pxp`**(Persönlich – Experimentell);
+-   **`mnr`**(Monorepo);
+-   **`hnb`**(Humbanew Prequel-Quellen);
+-   **`isb`**(IESB – Institut für Hochschulbildung von Brasília);
+-   **`alr`**(Locken);
+-   **`udm`**(Udemy);
+-   **`bwd`** (Beecrowd); 
+-   **`goo`**(Google – Zertifizierungen);
+-   **`msf`**(Microsoft – Zertifizierungen);
+-   **`ibm`**(IBM – Zertifizierungen);
+-   **`amz`**(Amazon – Zertifizierungen);
+    > _Demnächst folgen weitere Nomenklaturen zur Organisation der Repositories meines Portfolios, Änderungen bei Bedarf vorbehalten._
+
+Einige Repositories sind von dieser Nomenklatur ausgenommen, beispielsweise das spezielle Github-Profil-Repository`Humba01/Humba01`und die`Humba01/dotfiles`für die Startkonfiguration von Github Codespaces.
+
+</div>
