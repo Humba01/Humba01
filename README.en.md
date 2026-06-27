@@ -4,7 +4,7 @@
 
 ![Idiomas-Title](./assets/Idiomas-container.svg)
 
-   [Portuguese](README.md) [English](README.en.md) [Spanish](README.es.md) [Italian](README.it.md) [French](README.fr.md) [German](README.de.md) <br>[Japanese](README.ja.md) [Chinese (Simplified)](README.zh-CN.md) [Chinese (Traditional)](README.zh-TW.md) [Korean](README.ko.md) [Russo](README.ru.md) [Arabic](README.ar.md)<br> [Holland](README.nl.md) [Hindi](README.hi.md) [Hebraico](README.iw.md) [Greek](README.el.md)<br>
+   [Portuguese](README.md) [English](README.en.md) [Spanish](README.es.md) [Italian](README.it.md) [French](README.fr.md) [German](README.de.md) <br>[Japanese](README.ja.md) [Chinese (Simplified)](README.zh-CN.md) [Chinese (Traditional)](README.zh-TW.md) [Korean](README.ko.md) [Russo](README.ru.md) [Arabic](README.ar.md)<br> [Holland](README.nl.md) [Hindi](README.hi.md) [Hebrew](README.iw.md) [Greek](README.el.md)<br>
 
 ![Destaques-Title](./assets/Destaques-container.svg)[![Humba01's GitHub stats 1](https://github-readme-stats-fast.vercel.app/api/?username=Humba01&theme=dracula&locale=pt-br)](https://github.com/pranesh-2005/github-readme-stats-fast)<br><br><br>[![Humba01's GitHub stats 2](https://github-readme-stats-fast.vercel.app/api/streak/?username=Humba01&theme=dracula&locale=pt-br)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
@@ -91,13 +91,14 @@ My repositories will be organized by types of origin, which are:
 -   **`isb`**(IESB - Institute of Higher Education of Brasília);
 -   **`alr`**(Allure);
 -   **`udm`**(Udemy);
+-   **`i2a2`**(disobedient);
 -   **`bwd`**(Beecrowd);
--   **`goo`** (Google - Certificações); 
--   **`msf`** (Microsoft - Certificações);
+-   **`goo`**(Google - Certifications);
+-   **`msf`**(Microsoft - Certifications);
 -   **`ibm`**(IBM - Certifications);
 -   **`amz`**(Amazon - Certifications);
-    > _em breve mais nomenclaturas para organizar os repositórios do meu portifólio, passível de mudanças conforme a necessidade._
+    > _Coming soon, more nomenclatures to organize the repositories of my portfolio, subject to change as needed._
 
-Some repositories are exempt from this nomenclature, such as the special Github profile repository`Humba01/Humba01`and the`Humba01/dotfiles`for Github Codespaces startup configuration.
+Some repositories are exempt from this nomenclature, such as the special Github profile repository`Humba01/Humba01`and the`Humba01/dotfiles` para a configuração de inicialização do Github Codespaces.
 
 </div>
