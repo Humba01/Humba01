@@ -27,7 +27,7 @@ Je suis étudiant en informatique, passionné par la technologie et le développ
 -   💬 Interrogez-moi sur le domaine de la technologie et de l'intelligence artificielle.
 -   📫 Comment me joindre : par email[development@humbanew.com.br](mailto:development@humbanew.com.br).
 -   😄 Pronoms : il/lui - ele/dele
--   ⚡ Fun fact: Tenho hiperfoco em construir projetos loucos no meu tempo livre.
+-   ⚡ Fait amusant : je suis hyper concentré sur la construction de projets fous pendant mon temps libre.
 
 </div><br><br>
 
@@ -91,6 +91,7 @@ Mes référentiels seront organisés par types d'origine, qui sont :
 -   **`isb`**(IESB - Institut d'Enseignement Supérieur de Brasilia) ;
 -   **`alr`**(Séduire);
 -   **`udm`**(Udemy);
+-   **`i2a2`**(désobéissant);
 -   **`bwd`**(Beecfoule);
 -   **`goo`**(Google – Certifications) ;
 -   **`msf`**(Microsoft - Certifications) ;
