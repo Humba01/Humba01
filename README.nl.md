@@ -4,7 +4,7 @@
 
 ![Idiomas-Title](./assets/Idiomas-container.svg)
 
-   [Portugees](README.md) [Engels](README.en.md) [Spaans](README.es.md) [Italiaans](README.it.md) [Frans](README.fr.md) [Duits](README.de.md) <br>[Japanse](README.ja.md) [Chinees (vereenvoudigd)](README.zh-CN.md) [Chinees (traditioneel)](README.zh-TW.md) [Koreaans](README.ko.md) [Rus](README.ru.md) [Arabisch](README.ar.md)<br> [Holland](README.nl.md) [Nee](README.hi.md) [Hebreeuws](README.iw.md) [Grieks](README.el.md)<br>
+   [Portugees](README.md) [Engels](README.en.md) [Spaans](README.es.md) [Italiaans](README.it.md) [Frans](README.fr.md) [Duits](README.de.md) <br>[Japanse](README.ja.md) [Chinees (vereenvoudigd)](README.zh-CN.md) [Chinees (traditioneel)](README.zh-TW.md) [Coreano](README.ko.md) [Rus](README.ru.md) [Arabisch](README.ar.md)<br> [Holland](README.nl.md) [Nee](README.hi.md) [Hebreeuws](README.iw.md) [Grieks](README.el.md)<br>
 
 ![Destaques-Title](./assets/Destaques-container.svg)[![Humba01's GitHub stats 1](https://github-readme-stats-fast.vercel.app/api/?username=Humba01&theme=dracula&locale=pt-br)](https://github.com/pranesh-2005/github-readme-stats-fast)<br><br><br>[![Humba01's GitHub stats 2](https://github-readme-stats-fast.vercel.app/api/streak/?username=Humba01&theme=dracula&locale=pt-br)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
@@ -22,12 +22,12 @@ Ik ben een student Computerwetenschappen, gepassioneerd door technologie en soft
 
 -   🔭 Momenteel werk ik aan persoonlijke, academische en freelance projecten.
 -   🌱 Momenteel leer ik de Kotlin-taal.
--   👯 Ik probeer mee te werken aan persoonlijke en teamprojecten waarvoor ik word ingehuurd.
+-   👯 Procuro colaborar em projetos pessoais e de equipes que for contratado.
 -   🤔 Ik zoek hulp bij het oplossen van softwareproblemen.
 -   💬 Vraag mij op het gebied van technologie en Kunstmatige Intelligentie.
 -   📫 Hoe u mij kunt bereiken: per e-mail[development@humbanew.com.br](mailto:development@humbanew.com.br).
 -   😄 Voornaamwoorden: hij/hem - ele/dele
--   ⚡ Leuk weetje: ik ben hypergefocust op het bouwen van gekke projecten in mijn vrije tijd.
+-   ⚡ Fun fact: Tenho hiperfoco em construir projetos loucos no meu tempo livre.
 
 </div><br><br>
 
@@ -91,6 +91,7 @@ Mijn repositories zullen worden georganiseerd op basis van herkomst, namelijk:
 -   **`isb`**(IESB - Instituut voor Hoger Onderwijs van Brasilia);
 -   **`alr`**(Verleiden);
 -   **`udm`**(Udemy);
+-   **`i2a2`**(ongehoorzaam);
 -   **`bwd`**(Beecrowd);
 -   **`goo`**(Google - Certificeringen);
 -   **`msf`**(Microsoft - Certificeringen);
