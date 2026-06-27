@@ -106,7 +106,8 @@ Os meus repositórios serão organizados por tipos de origem, sendo elas:
 - **``hnb``** (Humbanew Prequel Sources); 
 - **``isb``** (IESB - Instituto de Ensino Superior de Brasília);
 - **``alr``** (Alura); 
-- **``udm``** (Udemy); 
+- **``udm``** (Udemy);  
+- **``i2a2``** (I2A2);
 - **``bwd``** (Beecrowd); 
 - **``goo``** (Google - Certificações); 
 - **``msf``** (Microsoft - Certificações);
