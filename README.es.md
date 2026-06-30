@@ -91,6 +91,7 @@ Mis repositorios estarán organizados por tipos de origen, los cuales son:
 -   **`isb`**(IESB - Instituto de Educación Superior de Brasilia);
 -   **`alr`**(Seducir);
 -   **`udm`**(Udemy);
+-   **`dio`**(Dio.me);
 -   **`i2a2`**(desobediente);
 -   **`bwd`**(Multitud de abejas);
 -   **`goo`**(Google - Certificaciones);
