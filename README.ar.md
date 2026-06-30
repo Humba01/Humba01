@@ -4,7 +4,7 @@
 
 ![Idiomas-Title](./assets/Idiomas-container.svg)
 
-   [البرتغالية](README.md) [إنجليزي](README.en.md) [الأسبانية](README.es.md) [ايطالي](README.it.md) [فرنسي](README.fr.md) [الألمانية](README.de.md) <br>[اليابانية](README.ja.md) [الصينية (المبسطة)](README.zh-CN.md) [الصينية (التقليدية)](README.zh-TW.md) [كوري](README.ko.md) [روسو](README.ru.md) [Árabe](README.ar.md)<br> [هولندا](README.nl.md) [لا](README.hi.md) [العبرية](README.iw.md) [اليونانية](README.el.md)<br>
+   [البرتغالية](README.md) [إنجليزي](README.en.md) [الأسبانية](README.es.md) [ايطالي](README.it.md) [فرنسي](README.fr.md) [الألمانية](README.de.md) <br>[اليابانية](README.ja.md) [الصينية (المبسطة)](README.zh-CN.md) [الصينية (التقليدية)](README.zh-TW.md) [كوري](README.ko.md) [روسو](README.ru.md) [عربي](README.ar.md)<br> [هولندا](README.nl.md) [لا](README.hi.md) [العبرية](README.iw.md) [اليونانية](README.el.md)<br>
 
 ![Destaques-Title](./assets/Destaques-container.svg)[![Humba01's GitHub stats 1](https://github-readme-stats-fast.vercel.app/api/?username=Humba01&theme=dracula&locale=pt-br)](https://github.com/pranesh-2005/github-readme-stats-fast)<br><br><br>[![Humba01's GitHub stats 2](https://github-readme-stats-fast.vercel.app/api/streak/?username=Humba01&theme=dracula&locale=pt-br)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
@@ -91,13 +91,14 @@
 -   **`isb`**(IESB - معهد التعليم العالي في برازيليا)؛
 -   **`alr`**(ألور)؛
 -   **`udm`**(يوديمي)؛
+-   **`i2a2`**(I2A2);
 -   **`bwd`**(الحشد)؛
 -   **`goo`**(جوجل - الشهادات)؛
 -   **`msf`**(مايكروسوفت - الشهادات)؛
--   **`ibm`**(آي بي إم - الشهادات)؛
+-   **`ibm`** (IBM - Certificações);
 -   **`amz`**(أمازون - الشهادات)؛
     > _قريبًا، المزيد من التسميات لتنظيم مستودعات محفظتي، قابلة للتغيير حسب الحاجة._
 
-Alguns repositórios são isentos dessa nomenclatura como o repositório especial de perfil do Github `Humba01/Humba01`و`Humba01/dotfiles`لتكوين بدء تشغيل Github Codespaces.
+بعض المستودعات معفاة من هذه التسميات، مثل مستودع ملفات تعريف Github الخاص`Humba01/Humba01`و`Humba01/dotfiles`لتكوين بدء تشغيل Github Codespaces.
 
 </div>

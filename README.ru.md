@@ -4,7 +4,7 @@
 
 ![Idiomas-Title](./assets/Idiomas-container.svg)
 
-   [португальский](README.md) [Английский](README.en.md) [испанский](README.es.md) [итальянский](README.it.md) [Французский](README.fr.md) [немецкий](README.de.md) <br>[японский](README.ja.md) [Китайский (упрощенный)](README.zh-CN.md) [Китайский (традиционный)](README.zh-TW.md) [корейский](README.ko.md) [Руссо](README.ru.md) [арабский](README.ar.md)<br> [Голландия](README.nl.md) [Неа](README.hi.md) [иврит](README.iw.md) [Греческий](README.el.md)<br>
+   [португальский](README.md) [Английский](README.en.md) [испанский](README.es.md) [итальянский](README.it.md) [Французский](README.fr.md) [немецкий](README.de.md) <br>[японский](README.ja.md) [Китайский (упрощенный)](README.zh-CN.md) [Китайский (традиционный)](README.zh-TW.md) [корейский](README.ko.md) [Руссо](README.ru.md) [арабский](README.ar.md)<br> [Голландия](README.nl.md) [Hindi](README.hi.md) [иврит](README.iw.md) [Греческий](README.el.md)<br>
 
 ![Destaques-Title](./assets/Destaques-container.svg)[![Humba01's GitHub stats 1](https://github-readme-stats-fast.vercel.app/api/?username=Humba01&theme=dracula&locale=pt-br)](https://github.com/pranesh-2005/github-readme-stats-fast)<br><br><br>[![Humba01's GitHub stats 2](https://github-readme-stats-fast.vercel.app/api/streak/?username=Humba01&theme=dracula&locale=pt-br)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
@@ -21,7 +21,7 @@
 Я студент факультета информатики, увлекаюсь технологиями и разработкой программного обеспечения. У меня есть опыт работы с несколькими языками программирования, такими как Java, PHP, ANSI C/C++ и JavaScript/Typescript. Я всегда стремлюсь изучать новые технологии и совершенствовать свои навыки, чтобы стать более совершенным разработчиком. Кроме того, я энтузиаст искусственного интеллекта и заинтересован в изучении возможностей, которые предлагает эта область.
 
 -   🔭 Сейчас я работаю над личными, академическими и внештатными проектами.
--   🌱 Atualmente estou aprendendo a linguagem Kotlin.
+-   🌱 Сейчас я изучаю язык Kotlin.
 -   👯 Я стараюсь сотрудничать в личных и командных проектах, которые меня нанимают.
 -   🤔 Мне нужна помощь в устранении неполадок программного обеспечения.
 -   💬 Спросите меня о сфере технологий и искусственного интеллекта.
@@ -91,6 +91,7 @@
 -   **`isb`**(IESB – Институт высшего образования Бразилиа);
 -   **`alr`**(Аллюр);
 -   **`udm`**(Удеми);
+-   **`i2a2`**(непослушный);
 -   **`bwd`**(Бикрауд);
 -   **`goo`**(Google – Сертификаты);
 -   **`msf`**(Майкрософт — Сертификаты);
