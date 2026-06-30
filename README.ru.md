@@ -4,7 +4,7 @@
 
 ![Idiomas-Title](./assets/Idiomas-container.svg)
 
-   [португальский](README.md) [Английский](README.en.md) [испанский](README.es.md) [итальянский](README.it.md) [Французский](README.fr.md) [немецкий](README.de.md) <br>[японский](README.ja.md) [Китайский (упрощенный)](README.zh-CN.md) [Китайский (традиционный)](README.zh-TW.md) [корейский](README.ko.md) [Руссо](README.ru.md) [арабский](README.ar.md)<br> [Голландия](README.nl.md) [Hindi](README.hi.md) [иврит](README.iw.md) [Греческий](README.el.md)<br>
+   [португальский](README.md) [Английский](README.en.md) [испанский](README.es.md) [итальянский](README.it.md) [Французский](README.fr.md) [немецкий](README.de.md) <br>[японский](README.ja.md) [Китайский (упрощенный)](README.zh-CN.md) [Китайский (традиционный)](README.zh-TW.md) [корейский](README.ko.md) [Руссо](README.ru.md) [арабский](README.ar.md)<br> [Голландия](README.nl.md) [Неа](README.hi.md) [иврит](README.iw.md) [Греческий](README.el.md)<br>
 
 ![Destaques-Title](./assets/Destaques-container.svg)[![Humba01's GitHub stats 1](https://github-readme-stats-fast.vercel.app/api/?username=Humba01&theme=dracula&locale=pt-br)](https://github.com/pranesh-2005/github-readme-stats-fast)<br><br><br>[![Humba01's GitHub stats 2](https://github-readme-stats-fast.vercel.app/api/streak/?username=Humba01&theme=dracula&locale=pt-br)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
@@ -87,17 +87,18 @@
 -   **`psn`**(Личный);
 -   **`pxp`**(Личный - Экспериментальный);
 -   **`mnr`**(Монорепо);
--   **`hnb`**(Источники приквела Humbanew);
+-   **`hnb`** (Humbanew Prequel Sources); 
 -   **`isb`**(IESB – Институт высшего образования Бразилиа);
 -   **`alr`**(Аллюр);
 -   **`udm`**(Удеми);
+-   **`dio`**(Dio.me);
 -   **`i2a2`**(непослушный);
 -   **`bwd`**(Бикрауд);
 -   **`goo`**(Google – Сертификаты);
 -   **`msf`**(Майкрософт — Сертификаты);
 -   **`ibm`**(IBM – Сертификаты);
 -   **`amz`**(Amazon – Сертификаты);
-    > _Скоро появятся дополнительные номенклатуры для организации репозиториев моего портфолио, которые могут быть изменены по мере необходимости._
+    > _em breve mais nomenclaturas para organizar os repositórios do meu portifólio, passível de mudanças conforme a necessidade._
 
 Некоторые репозитории исключены из этой номенклатуры, например специальный репозиторий профилей Github.`Humba01/Humba01`и`Humba01/dotfiles`для конфигурации запуска Github Codespaces.
 
