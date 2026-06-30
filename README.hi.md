@@ -4,7 +4,7 @@
 
 ![Idiomas-Title](./assets/Idiomas-container.svg)
 
-   [पुर्तगाली](README.md) [अंग्रेज़ी](README.en.md) [स्पैनिश](README.es.md) [इतालवी](README.it.md) [फ़्रेंच](README.fr.md) [जर्मन](README.de.md) <br>[जापानी](README.ja.md) [सरलीकृत चीनी)](README.zh-CN.md) [चीनी पारंपरिक)](README.zh-TW.md) [Coreano](README.ko.md) [रशो](README.ru.md) [अरबी](README.ar.md)<br> [हॉलैंड](README.nl.md) [नहीं](README.hi.md) [यहूदी](README.iw.md) [यूनानी](README.el.md)<br>
+   [पुर्तगाली](README.md) [अंग्रेज़ी](README.en.md) [स्पैनिश](README.es.md) [इतालवी](README.it.md) [फ़्रेंच](README.fr.md) [जर्मन](README.de.md) <br>[जापानी](README.ja.md) [सरलीकृत चीनी)](README.zh-CN.md) [चीनी पारंपरिक)](README.zh-TW.md) [कोरियाई](README.ko.md) [रशो](README.ru.md) [अरबी](README.ar.md)<br> [हॉलैंड](README.nl.md) [नहीं](README.hi.md) [यहूदी](README.iw.md) [यूनानी](README.el.md)<br>
 
 ![Destaques-Title](./assets/Destaques-container.svg)[![Humba01's GitHub stats 1](https://github-readme-stats-fast.vercel.app/api/?username=Humba01&theme=dracula&locale=pt-br)](https://github.com/pranesh-2005/github-readme-stats-fast)<br><br><br>[![Humba01's GitHub stats 2](https://github-readme-stats-fast.vercel.app/api/streak/?username=Humba01&theme=dracula&locale=pt-br)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
@@ -82,7 +82,7 @@
 
 <div align="justify">
 
-मेरे भंडारों को उत्पत्ति के प्रकारों के अनुसार व्यवस्थित किया जाएगा, जो हैं:
+Os meus repositórios serão organizados por tipos de origem, sendo elas: 
 
 -   **`psn`**(निजी);
 -   **`pxp`**(व्यक्तिगत - प्रायोगिक);
@@ -91,6 +91,7 @@
 -   **`isb`**(आईईएसबी - ब्रासीलिया का उच्च शिक्षा संस्थान);
 -   **`alr`**(लुभाना);
 -   **`udm`**(उडेमी);
+-   **`dio`**(Dio.me);
 -   **`i2a2`**(अवज्ञाकारी);
 -   **`bwd`**(बीक्रोड);
 -   **`goo`**(Google - प्रमाणपत्र);
