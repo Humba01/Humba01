@@ -107,6 +107,7 @@ Os meus repositórios serão organizados por tipos de origem, sendo elas:
 - **``isb``** (IESB - Instituto de Ensino Superior de Brasília);
 - **``alr``** (Alura); 
 - **``udm``** (Udemy);  
+- **``dio``** (Dio.me);  
 - **``i2a2``** (I2A2);
 - **``bwd``** (Beecrowd); 
 - **``goo``** (Google - Certificações); 
