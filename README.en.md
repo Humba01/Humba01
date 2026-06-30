@@ -91,6 +91,7 @@ My repositories will be organized by types of origin, which are:
 -   **`isb`**(IESB - Institute of Higher Education of Brasília);
 -   **`alr`**(Allure);
 -   **`udm`**(Udemy);
+-   **`dio`**(Dio.me);
 -   **`i2a2`**(disobedient);
 -   **`bwd`**(Beecrowd);
 -   **`goo`**(Google - Certifications);
@@ -99,6 +100,6 @@ My repositories will be organized by types of origin, which are:
 -   **`amz`**(Amazon - Certifications);
     > _Coming soon, more nomenclatures to organize the repositories of my portfolio, subject to change as needed._
 
-Some repositories are exempt from this nomenclature, such as the special Github profile repository`Humba01/Humba01`and the`Humba01/dotfiles` para a configuração de inicialização do Github Codespaces.
+Some repositories are exempt from this nomenclature, such as the special Github profile repository`Humba01/Humba01`and the`Humba01/dotfiles`for Github Codespaces startup configuration.
 
 </div>
