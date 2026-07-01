@@ -86,6 +86,7 @@
 
 -   **`psn`**(Προσωπικός);
 -   **`pxp`**(Προσωπικά - Πειραματικά);
+-   **`mdl`**(Μοντέλο);
 -   **`mnr`**(Monorepo);
 -   **`hnb`**(Humbanew Prequel Sources);
 -   **`isb`**(IESB - Institute of Higher Education of Brasília);
