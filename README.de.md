@@ -21,11 +21,11 @@
 Ich studiere Informatik und habe eine Leidenschaft für Technologie und Softwareentwicklung. Ich habe Erfahrung in mehreren Programmiersprachen, wie Java, PHP, ANSI C/C++ und JavaScript/Typescript. Ich bin immer auf der Suche nach neuen Technologien und verbessere meine Fähigkeiten, um ein umfassenderer Entwickler zu werden. Darüber hinaus bin ich ein Enthusiast der künstlichen Intelligenz und daran interessiert, die Möglichkeiten zu erkunden, die dieser Bereich bietet.
 
 -   🔭 Ich arbeite derzeit an persönlichen, akademischen und freiberuflichen Projekten.
--   🌱 Ich lerne gerade die Kotlin-Sprache.
+-   🌱 Atualmente estou aprendendo a linguagem Kotlin.
 -   👯 Ich versuche, an persönlichen und Teamprojekten mitzuarbeiten, mit denen ich beauftragt werde.
 -   🤔 Ich suche Hilfe bei der Fehlerbehebung in der Software.
 -   💬 Fragen Sie mich nach dem Bereich Technologie und Künstliche Intelligenz.
--   📫 So erreichen Sie mich: per E-Mail[development@humbanew.com.br](mailto:development@humbanew.com.br).
+-   📫 Como chegar até mim: pelo email [development@humbanew.com.br](mailto:development@humbanew.com.br).
 -   😄 Pronomen: he/him – ele/dele
 -   ⚡ Unterhaltsame Tatsache: Ich konzentriere mich in meiner Freizeit sehr darauf, verrückte Projekte zu entwickeln.
 
@@ -86,6 +86,7 @@ Meine Repositories werden nach Herkunftstypen organisiert:
 
 -   **`psn`**(Persönlich);
 -   **`pxp`**(Persönlich – Experimentell);
+-   **`mdl`**(Modell);
 -   **`mnr`**(Monorepo);
 -   **`hnb`**(Humbanew Prequel-Quellen);
 -   **`isb`**(IESB – Institut für Hochschulbildung von Brasília);
@@ -93,13 +94,13 @@ Meine Repositories werden nach Herkunftstypen organisiert:
 -   **`udm`**(Udemy);
 -   **`dio`**(Dio.me);
 -   **`i2a2`**(ungehorsam);
--   **`bwd`**(Bienenmenge);
--   **`goo`**(Google – Zertifizierungen);
+-   **`bwd`** (Beecrowd); 
+-   **`goo`** (Google - Certificações); 
 -   **`msf`**(Microsoft – Zertifizierungen);
 -   **`ibm`**(IBM – Zertifizierungen);
 -   **`amz`**(Amazon – Zertifizierungen);
     > _Demnächst folgen weitere Nomenklaturen zur Organisation der Repositories meines Portfolios, Änderungen bei Bedarf vorbehalten._
 
-Einige Repositories sind von dieser Nomenklatur ausgenommen, beispielsweise das spezielle Github-Profil-Repository`Humba01/Humba01`und die`Humba01/dotfiles` para a configuração de inicialização do Github Codespaces.
+Einige Repositories sind von dieser Nomenklatur ausgenommen, beispielsweise das spezielle Github-Profil-Repository`Humba01/Humba01`und die`Humba01/dotfiles`für die Startkonfiguration von Github Codespaces.
 
 </div>
