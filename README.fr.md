@@ -26,7 +26,7 @@ Je suis étudiant en informatique, passionné par la technologie et le développ
 -   🤔 Je recherche de l'aide pour un dépannage logiciel.
 -   💬 Interrogez-moi sur le domaine de la technologie et de l'intelligence artificielle.
 -   📫 Comment me joindre : par email[development@humbanew.com.br](mailto:development@humbanew.com.br).
--   😄 Pronoms : il/lui - ele/dele
+-   😄 Pronouns: he/him - ele/dele
 -   ⚡ Fait amusant : je suis hyper concentré sur la construction de projets fous pendant mon temps libre.
 
 </div><br><br>
@@ -86,6 +86,7 @@ Mes référentiels seront organisés par types d'origine, qui sont :
 
 -   **`psn`**(Personnel);
 -   **`pxp`**(Personnel - Expérimental);
+-   **`mdl`**(Modèle);
 -   **`mnr`**(Monorepo);
 -   **`hnb`**(Sources préquelles de Humbanew) ;
 -   **`isb`**(IESB - Institut d'Enseignement Supérieur de Brasilia) ;
