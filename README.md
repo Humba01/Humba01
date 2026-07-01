@@ -102,6 +102,7 @@ Sou um estudante de Ciência da Computação, apaixonado por tecnologia e desenv
 Os meus repositórios serão organizados por tipos de origem, sendo elas: 
 - **``psn``** (Personal); 
 - **``pxp``** (Personal - Experimental); 
+- **``mdl``** (Modelo); 
 - **``mnr``** (Monorepo); 
 - **``hnb``** (Humbanew Prequel Sources); 
 - **``isb``** (IESB - Instituto de Ensino Superior de Brasília);
