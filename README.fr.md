@@ -91,6 +91,7 @@ Mes référentiels seront organisés par types d'origine, qui sont :
 -   **`isb`**(IESB - Institut d'Enseignement Supérieur de Brasilia) ;
 -   **`alr`**(Séduire);
 -   **`udm`**(Udemy);
+-   **`dio`**(Dio.me);
 -   **`i2a2`**(désobéissant);
 -   **`bwd`**(Beecfoule);
 -   **`goo`**(Google – Certifications) ;

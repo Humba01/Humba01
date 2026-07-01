@@ -4,7 +4,7 @@
 
 ![Idiomas-Title](./assets/Idiomas-container.svg)
 
-   [ポルトガル語](README.md) [英語](README.en.md) [スペイン語](README.es.md) [Italiano](README.it.md) [フランス語](README.fr.md) [ドイツ語](README.de.md) <br>[日本語](README.ja.md) [中国語（簡体字）](README.zh-CN.md) [中国語（繁体字）](README.zh-TW.md) [韓国人](README.ko.md) [ルッソ](README.ru.md) [アラビア語](README.ar.md)<br> [オランダ](README.nl.md) [いいえ](README.hi.md) [ヘブライ語](README.iw.md) [ギリシャ語](README.el.md)<br>
+   [ポルトガル語](README.md) [英語](README.en.md) [スペイン語](README.es.md) [イタリア語](README.it.md) [フランス語](README.fr.md) [ドイツ語](README.de.md) <br>[日本語](README.ja.md) [中国語（簡体字）](README.zh-CN.md) [中国語（繁体字）](README.zh-TW.md) [韓国人](README.ko.md) [ルッソ](README.ru.md) [アラビア語](README.ar.md)<br> [オランダ](README.nl.md) [いいえ](README.hi.md) [ヘブライ語](README.iw.md) [ギリシャ語](README.el.md)<br>
 
 ![Destaques-Title](./assets/Destaques-container.svg)[![Humba01's GitHub stats 1](https://github-readme-stats-fast.vercel.app/api/?username=Humba01&theme=dracula&locale=pt-br)](https://github.com/pranesh-2005/github-readme-stats-fast)<br><br><br>[![Humba01's GitHub stats 2](https://github-readme-stats-fast.vercel.app/api/streak/?username=Humba01&theme=dracula&locale=pt-br)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
@@ -20,9 +20,9 @@
 
 私はコンピューターサイエンスの学生で、テクノロジーとソフトウェア開発に情熱を持っています。 Java、PHP、ANSI C/C++、JavaScript/Typescript など、いくつかのプログラミング言語の経験があります。私は常に新しいテクノロジーを学び、より完全な開発者になるためにスキルを向上させたいと考えています。さらに、私は人工知能の愛好家であり、この分野が提供する可能性を探ることに興味があります。
 
--   🔭 私は現在、個人、学術、フリーランスのプロジェクトに取り組んでいます。
+-   🔭 Atualmente estou trabalhando em projetos pessoais, acadêmicos e freelancer.
 -   🌱 私は現在 Kotlin 言語を学習しています。
--   👯 私は、雇用された個人プロジェクトおよびチームプロジェクトに協力するよう努めています。
+-   👯 私は、雇われている個人プロジェクトやチームプロジェクトに協力するよう努めています。
 -   🤔 ソフトウェアのトラブルシューティングに関するヘルプを探しています。
 -   💬 テクノロジーと人工知能の分野について質問してください。
 -   📫 私への連絡方法: メールで[development@humbanew.com.br](mailto:development@humbanew.com.br).
@@ -86,19 +86,20 @@
 
 -   **`psn`**（個人的）;
 -   **`pxp`**(個人 - 実験的);
--   **`mnr`**(モノレポ);
+-   **`mnr`**（モノレポ）;
 -   **`hnb`**(フンバニュー前編ソース);
 -   **`isb`**(IESB - ブラジリア高等教育研究所);
 -   **`alr`**(魅力);
 -   **`udm`**(Udemy);
--   **`i2a2`** (I2A2);
+-   **`dio`**(Dio.me);
+-   **`i2a2`**（不従順）;
 -   **`bwd`**（ミツバチ）
 -   **`goo`**(Google - 認定);
 -   **`msf`**(マイクロソフト - 認定);
 -   **`ibm`**(IBM - 認定);
 -   **`amz`**(Amazon - 認定);
-    > _em breve mais nomenclaturas para organizar os repositórios do meu portifólio, passível de mudanças conforme a necessidade._
+    > _近々、ポートフォリオのリポジトリを整理するためのさらに多くの命名法が追加される予定ですが、必要に応じて変更される可能性があります。_
 
-Alguns repositórios são isentos dessa nomenclatura como o repositório especial de perfil do Github `Humba01/Humba01`そして`Humba01/dotfiles`Github Codespaces の起動設定用。
+特別な Github プロファイル リポジトリなど、一部のリポジトリはこの命名規則から免除されます。`Humba01/Humba01`そして`Humba01/dotfiles`Github Codespaces の起動設定用。
 
 </div>

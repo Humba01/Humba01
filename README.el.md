@@ -85,12 +85,13 @@
 Τα αποθετήρια μου θα οργανωθούν ανά τύπο προέλευσης, οι οποίοι είναι:
 
 -   **`psn`**(Προσωπικός);
--   **`pxp`**(Προσωπικό - Πειραματικό);
+-   **`pxp`**(Προσωπικά - Πειραματικά);
 -   **`mnr`**(Monorepo);
 -   **`hnb`**(Humbanew Prequel Sources);
 -   **`isb`**(IESB - Institute of Higher Education of Brasília);
 -   **`alr`**(Δελεάζω);
 -   **`udm`**(Udemy);
+-   **`dio`**(Dio.me);
 -   **`i2a2`**(ανυπάκουος);
 -   **`bwd`**(Beecrowd);
 -   **`goo`**(Google - Πιστοποιήσεις);
