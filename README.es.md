@@ -86,6 +86,7 @@ Mis repositorios estarán organizados por tipos de origen, los cuales son:
 
 -   **`psn`**(Personal);
 -   **`pxp`**(Personal - Experimental);
+-   **`mdl`**(Modelo);
 -   **`mnr`**(Monorepo);
 -   **`hnb`**(Fuentes de la precuela de Humbanew);
 -   **`isb`**(IESB - Instituto de Educación Superior de Brasilia);
