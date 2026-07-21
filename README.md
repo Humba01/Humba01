@@ -29,8 +29,7 @@ Sou um estudante de Ciência da Computação, apaixonado por tecnologia e desenv
 - 👯 Procuro colaborar em projetos pessoais e de equipes que for contratado.
 - 🤔 Procuro ajuda com soluções de problemas em softwares.
 - 💬 Pergunte-me sobre a área de tecnologia e Inteligência Artificial.
-- 📫 Como chegar até mim: pelo email development@humbanew.com.br.
-- 😄 Pronouns: he/him - ele/dele
+- 😄 Pronouns: he/him - ele/dele.
 - ⚡ Fun fact: Tenho hiperfoco em construir projetos loucos no meu tempo livre.
 
 </div><br><br>
