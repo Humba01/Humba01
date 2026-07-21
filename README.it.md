@@ -25,8 +25,7 @@ Sono uno studente di Informatica, appassionato di tecnologia e sviluppo software
 -   👯Cerco di collaborare ai progetti personali e di gruppo in cui vengo assunto.
 -   🤔 Cerco aiuto per la risoluzione dei problemi del software.
 -   💬 Chiedimi informazioni sull'area della tecnologia e dell'intelligenza artificiale.
--   📫 Come raggiungermi: via email[development@humbanew.com.br](mailto:development@humbanew.com.br).
--   😄 Pronomi: lui/lui - ele/dele
+-   😄 Pronomi: lui/lui - ele/dele.
 -   ⚡ Fatto curioso: nel mio tempo libero sono molto concentrato sulla realizzazione di progetti folli.
 
 </div><br><br>
