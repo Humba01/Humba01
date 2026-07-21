@@ -25,8 +25,7 @@ Ik ben een student Computerwetenschappen, gepassioneerd door technologie en soft
 -   👯 Ik probeer mee te werken aan persoonlijke en teamprojecten waarvoor ik word ingehuurd.
 -   🤔 Ik zoek hulp bij het oplossen van softwareproblemen.
 -   💬 Vraag mij op het gebied van technologie en Kunstmatige Intelligentie.
--   📫 Hoe u mij kunt bereiken: per e-mail[development@humbanew.com.br](mailto:development@humbanew.com.br).
--   😄 Voornaamwoorden: hij/hem - ele/dele
+-   😄 Pronouns: he/him - ele/dele.
 -   ⚡ Leuk weetje: ik ben hypergefocust op het bouwen van gekke projecten in mijn vrije tijd.
 
 </div><br><br>
