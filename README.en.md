@@ -25,8 +25,7 @@ I am a Computer Science student, passionate about technology and software develo
 -   👯 I try to collaborate on personal and team projects that I am hired.
 -   🤔 I'm looking for help with software troubleshooting.
 -   💬 Ask me about the area of ​​technology and Artificial Intelligence.
--   📫 How to reach me: by email[development@humbanew.com.br](mailto:development@humbanew.com.br).
--   😄 Pronouns: he/him - ele/dele
+-   😄 Pronouns: he/him - ele/dele.
 -   ⚡ Fun fact: I'm hyperfocused on building crazy projects in my free time.
 
 </div><br><br>
