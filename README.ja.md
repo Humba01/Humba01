@@ -21,12 +21,11 @@
 私はコンピューターサイエンスの学生で、テクノロジーとソフトウェア開発に情熱を持っています。 Java、PHP、ANSI C/C++、JavaScript/Typescript など、いくつかのプログラミング言語の経験があります。私は常に新しいテクノロジーを学び、より完全な開発者になるためにスキルを向上させたいと考えています。さらに、私は人工知能の愛好家であり、この分野が提供する可能性を探ることに興味があります。
 
 -   🔭 私は現在、個人、学術、フリーランスのプロジェクトに取り組んでいます。
--   🌱 私は現在 Kotlin 言語を学習しています。
--   👯 私は、雇われている個人プロジェクトやチームプロジェクトに協力するよう努めています。
+-   🌱 Atualmente estou aprendendo a linguagem Kotlin.
+-   👯 Procuro colaborar em projetos pessoais e de equipes que for contratado.
 -   🤔 ソフトウェアのトラブルシューティングに関するヘルプを探しています。
 -   💬 テクノロジーと人工知能の分野について質問してください。
--   📫 私への連絡方法: メールで[development@humbanew.com.br](mailto:development@humbanew.com.br).
--   😄 代名詞: 彼/彼 - エレ/デレ
+-   😄 代名詞: 彼/彼 - エレ/デレ。
 -   ⚡ 面白い事実: 私は自由時間にクレイジーなプロジェクトを構築することに集中しています。
 
 </div><br><br>
@@ -84,10 +83,10 @@
 
 私のリポジトリは、次のようなオリジンのタイプごとに編成されます。
 
--   **`psn`** (Personal); 
+-   **`psn`**（個人的）;
 -   **`pxp`**(個人 - 実験的);
 -   **`mdl`**（モデル）;
--   **`mnr`**（モノレポ）;
+-   **`mnr`**(モノレポ);
 -   **`hnb`**(フンバニュー前編ソース);
 -   **`isb`**(IESB - ブラジリア高等教育研究所);
 -   **`alr`**(魅力);
@@ -101,6 +100,6 @@
 -   **`amz`**(Amazon - 認定);
     > _近々、ポートフォリオのリポジトリを整理するためのさらに多くの命名法が追加される予定ですが、必要に応じて変更される可能性があります。_
 
-特別な Github プロファイル リポジトリなど、一部のリポジトリはこの命名規則から免除されます。`Humba01/Humba01`そして`Humba01/dotfiles`Github Codespaces の起動設定用。
+Alguns repositórios são isentos dessa nomenclatura como o repositório especial de perfil do Github `Humba01/Humba01`そして`Humba01/dotfiles`Github Codespaces の起動設定用。
 
 </div>
