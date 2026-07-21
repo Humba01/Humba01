@@ -25,8 +25,7 @@ Soy estudiante de Informática, apasionado por la tecnología y el desarrollo de
 -   👯 Intento colaborar en proyectos personales y de equipo que me contratan.
 -   🤔 Estoy buscando ayuda con la resolución de problemas de software.
 -   💬 Consultame sobre el área de tecnología e Inteligencia Artificial.
--   📫 Cómo comunicarse conmigo: por correo electrónico[development@humbanew.com.br](mailto:development@humbanew.com.br).
--   😄 Pronombres: él/él - ele/dele
+-   😄 Pronombres: él/él - ele/dele.
 -   ⚡ Dato curioso: estoy muy concentrado en crear proyectos locos en mi tiempo libre.
 
 </div><br><br>
