@@ -86,6 +86,7 @@ Mijn repositories worden georganiseerd op basis van herkomst, namelijk:
 
 -   **`psn`**(Persoonlijk);
 -   **`pxp`**(Persoonlijk - Experimenteel);
+-   **`mdl`**(Model);
 -   **`mnr`**(Monorepo);
 -   **`hnb`**(Humbanew Prequel-bronnen);
 -   **`isb`**(IESB - Instituut voor Hoger Onderwijs van Brasilia);

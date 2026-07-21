@@ -86,6 +86,7 @@ My repositories will be organized by types of origin, which are:
 
 -   **`psn`**(Personal);
 -   **`pxp`**(Personal - Experimental);
+-   **`mdl`**(Model);
 -   **`mnr`**(Monorepo);
 -   **`hnb`**(Humbanew Prequel Sources);
 -   **`isb`**(IESB - Institute of Higher Education of Brasília);
