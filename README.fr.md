@@ -21,12 +21,11 @@
 Je suis étudiant en informatique, passionné par la technologie et le développement de logiciels. J'ai de l'expérience dans plusieurs langages de programmation, tels que Java, PHP, ANSI C/C++ et JavaScript/Typescript. Je cherche toujours à apprendre de nouvelles technologies et à améliorer mes compétences pour devenir un développeur plus complet. De plus, je suis passionné d’intelligence artificielle et je souhaite explorer les possibilités qu’offre ce domaine.
 
 -   🔭 Je travaille actuellement sur des projets personnels, académiques et indépendants.
--   🌱 J'apprends actuellement le langage Kotlin.
+-   🌱 Atualmente estou aprendendo a linguagem Kotlin.
 -   👯 J'essaie de collaborer sur les projets personnels et d'équipe que je suis embauché.
 -   🤔 Je recherche de l'aide pour un dépannage logiciel.
 -   💬 Interrogez-moi sur le domaine de la technologie et de l'intelligence artificielle.
--   📫 Comment me joindre : par email[development@humbanew.com.br](mailto:development@humbanew.com.br).
--   😄 Pronouns: he/him - ele/dele
+-   😄 Pronoms : il/lui - ele/dele.
 -   ⚡ Fait amusant : je suis hyper concentré sur la construction de projets fous pendant mon temps libre.
 
 </div><br><br>
@@ -87,7 +86,7 @@ Mes référentiels seront organisés par types d'origine, qui sont :
 -   **`psn`**(Personnel);
 -   **`pxp`**(Personnel - Expérimental);
 -   **`mdl`**(Modèle);
--   **`mnr`**(Monorepo);
+-   **`mnr`** (Monorepo); 
 -   **`hnb`**(Sources préquelles de Humbanew) ;
 -   **`isb`**(IESB - Institut d'Enseignement Supérieur de Brasilia) ;
 -   **`alr`**(Séduire);
@@ -99,7 +98,7 @@ Mes référentiels seront organisés par types d'origine, qui sont :
 -   **`msf`**(Microsoft - Certifications) ;
 -   **`ibm`**(IBM - Certifications) ;
 -   **`amz`**(Amazon – Certifications) ;
-    > _Prochainement, plus de nomenclatures pour organiser les référentiels de mon portfolio, susceptibles de changer selon les besoins._
+    > _em breve mais nomenclaturas para organizar os repositórios do meu portifólio, passível de mudanças conforme a necessidade._
 
 Certains référentiels sont exemptés de cette nomenclature, comme le référentiel spécial de profils Github`Humba01/Humba01`et le`Humba01/dotfiles`pour la configuration de démarrage de Github Codespaces.
 
