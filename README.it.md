@@ -2,6 +2,12 @@
 
 ![Humba01-Header-Profile](./assets/Humba01-Github.svg)<br>
 
+</div>
+
+> [!AVVERTIMENTO]Le informazioni sul mio profilo/account fornite in questo file e nella barra laterale devono essere utilizzate/raccolte solo previa autorizzazione via e-mail.
+
+<div align="center">
+  
 ![Idiomas-Title](./assets/Idiomas-container.svg)
 
    [portoghese](README.md) [Inglese](README.en.md) [spagnolo](README.es.md) [Italiano](README.it.md) [francese](README.fr.md) [tedesco](README.de.md) <br>[giapponese](README.ja.md) [Cinese (semplificato)](README.zh-CN.md) [Cinese (tradizionale)](README.zh-TW.md) [Coreano](README.ko.md) [Russo](README.ru.md) [arabo](README.ar.md)<br> [Olanda](README.nl.md) [No](README.hi.md) [ebraico](README.iw.md) [greco](README.el.md)<br>
@@ -100,6 +106,6 @@ I miei repository saranno organizzati per tipi di origine, che sono:
 -   **`amz`**(Amazon – Certificazioni);
     > _Presto saranno disponibili altre nomenclature per organizzare i repository del mio portfolio, soggette a modifiche in base alle necessità._
 
-Alcuni repository sono esentati da questa nomenclatura, come lo speciale repository del profilo Github`Humba01/Humba01`e o`Humba01/dotfiles`per la configurazione di avvio di Github Codespaces.
+Alcuni repository sono esentati da questa nomenclatura, come lo speciale repository del profilo Github`Humba01/Humba01`e o`Humba01/dotfiles`per la configurazione di lancio di Github Codespaces.
 
 </div>
