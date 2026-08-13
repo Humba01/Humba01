@@ -2,9 +2,15 @@
 
 ![Humba01-Header-Profile](./assets/Humba01-Github.svg)<br>
 
+</div>
+
+> [！警告!]本文件和側欄中提供的我的個人資料/帳戶資訊只能在透過電子郵件事先授權的情況下使用/收集。
+
+<div align="center">
+  
 ![Idiomas-Title](./assets/Idiomas-container.svg)
 
-   [葡萄牙語](README.md) [英語](README.en.md) [西班牙語](README.es.md) [義大利語](README.it.md) [法語](README.fr.md) [德文](README.de.md) <br>[日本人](README.ja.md) [中文（簡體）](README.zh-CN.md) [中文（繁體）](README.zh-TW.md) [韓國人](README.ko.md) [魯索](README.ru.md) [Árabe](README.ar.md)<br> [荷蘭](README.nl.md) [沒有](README.hi.md) [希伯來文](README.iw.md) [希臘文](README.el.md)<br>
+   [葡萄牙語](README.md) [英語](README.en.md) [西班牙語](README.es.md) [義大利語](README.it.md) [法語](README.fr.md) [德文](README.de.md) <br>[日本人](README.ja.md) [中文（簡體）](README.zh-CN.md) [中文（繁體）](README.zh-TW.md) [韓國人](README.ko.md) [魯索](README.ru.md) [阿拉伯](README.ar.md)<br> [荷蘭](README.nl.md) [沒有](README.hi.md) [Hebraico](README.iw.md) [希臘文](README.el.md)<br>
 
 ![Destaques-Title](./assets/Destaques-container.svg)[![Humba01's GitHub stats 1](https://github-readme-stats-fast.vercel.app/api/?username=Humba01&theme=dracula&locale=pt-br)](https://github.com/pranesh-2005/github-readme-stats-fast)<br><br><br>[![Humba01's GitHub stats 2](https://github-readme-stats-fast.vercel.app/api/streak/?username=Humba01&theme=dracula&locale=pt-br)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
@@ -100,6 +106,6 @@
 -   **`amz`**（亞馬遜 - 認證）；
     > _即將推出更多術語來組織我的投資組合儲存庫，並可根據需要進行變更。_
 
-Alguns repositórios são isentos dessa nomenclatura como o repositório especial de perfil do Github `Humba01/Humba01`和`Humba01/dotfiles`用於 Github Codespaces 啟動配置。
+有些儲存庫不受此命名法的約束，例如特殊的 Github 設定檔儲存庫`Humba01/Humba01`和`Humba01/dotfiles`用於 Github Codespaces 啟動配置。
 
 </div>
