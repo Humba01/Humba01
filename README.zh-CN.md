@@ -2,9 +2,15 @@
 
 ![Humba01-Header-Profile](./assets/Humba01-Github.svg)<br>
 
+</div>
+
+> [！警告!]本文件和侧栏中提供的我的个人资料/帐户信息只能在通过电子邮件事先授权的情况下使用/收集。
+
+<div align="center">
+  
 ![Idiomas-Title](./assets/Idiomas-container.svg)
 
-   [葡萄牙语](README.md) [英语](README.en.md) [西班牙语](README.es.md) [意大利语](README.it.md) [法语](README.fr.md) [德语](README.de.md) <br>[日本人](README.ja.md) [中文（简体）](README.zh-CN.md) [中文（繁体）](README.zh-TW.md) [韩国人](README.ko.md) [鲁索](README.ru.md) [Árabe](README.ar.md)<br> [荷兰](README.nl.md) [没有](README.hi.md) [希伯来语](README.iw.md) [希腊语](README.el.md)<br>
+   [葡萄牙语](README.md) [英语](README.en.md) [西班牙语](README.es.md) [意大利语](README.it.md) [法语](README.fr.md) [德语](README.de.md) <br>[日本人](README.ja.md) [中文（简体）](README.zh-CN.md) [中文（繁体）](README.zh-TW.md) [韩国人](README.ko.md) [鲁索](README.ru.md) [阿拉伯](README.ar.md)<br> [荷兰](README.nl.md) [没有](README.hi.md) [希伯来语](README.iw.md) [希腊语](README.el.md)<br>
 
 ![Destaques-Title](./assets/Destaques-container.svg)[![Humba01's GitHub stats 1](https://github-readme-stats-fast.vercel.app/api/?username=Humba01&theme=dracula&locale=pt-br)](https://github.com/pranesh-2005/github-readme-stats-fast)<br><br><br>[![Humba01's GitHub stats 2](https://github-readme-stats-fast.vercel.app/api/streak/?username=Humba01&theme=dracula&locale=pt-br)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
@@ -86,7 +92,7 @@
 -   **`psn`**（个人的）;
 -   **`pxp`**（个人-实验）；
 -   **`mdl`**（模型）;
--   **`mnr`** (Monorepo); 
+-   **`mnr`**（莫诺雷波）；
 -   **`hnb`**（Humbanew 前传来源）；
 -   **`isb`**（IESB - 巴西利亚高等教育学院）；
 -   **`alr`**（引诱）;
