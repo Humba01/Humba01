@@ -2,6 +2,12 @@
 
 ![Humba01-Header-Profile](./assets/Humba01-Github.svg)<br>
 
+</div>
+
+> [!WARNING]My profile/account information provided in this file and in the sidebar must only be used/collected with prior authorization via email.
+
+<div align="center">
+  
 ![Idiomas-Title](./assets/Idiomas-container.svg)
 
    [Portuguese](README.md) [English](README.en.md) [Spanish](README.es.md) [Italian](README.it.md) [French](README.fr.md) [German](README.de.md) <br>[Japanese](README.ja.md) [Chinese (Simplified)](README.zh-CN.md) [Chinese (Traditional)](README.zh-TW.md) [Korean](README.ko.md) [Russo](README.ru.md) [Arabic](README.ar.md)<br> [Holland](README.nl.md) [Hindi](README.hi.md) [Hebrew](README.iw.md) [Greek](README.el.md)<br>
@@ -100,6 +106,6 @@ My repositories will be organized by types of origin, which are:
 -   **`amz`**(Amazon - Certifications);
     > _Coming soon, more nomenclatures to organize the repositories of my portfolio, subject to change as needed._
 
-Some repositories are exempt from this nomenclature, such as the special Github profile repository`Humba01/Humba01`and the`Humba01/dotfiles`for Github Codespaces startup configuration.
+Some repositories are exempt from this nomenclature, such as the special Github profile repository`Humba01/Humba01`and the`Humba01/dotfiles`for the Github Codespaces launch configuration.
 
 </div>
