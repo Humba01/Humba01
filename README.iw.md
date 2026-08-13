@@ -2,6 +2,12 @@
 
 ![Humba01-Header-Profile](./assets/Humba01-Github.svg)<br>
 
+</div>
+
+> [!אַזהָרָה]יש להשתמש/לאסוף את פרטי הפרופיל/חשבון שלי שסופקו בקובץ זה ובסרגל הצד רק באישור מראש באמצעות דואר אלקטרוני.
+
+<div align="center">
+  
 ![Idiomas-Title](./assets/Idiomas-container.svg)
 
    [פורטוגזית](README.md) [אַנגְלִית](README.en.md) [סְפָרַדִית](README.es.md) [אִיטַלְקִית](README.it.md) [צָרְפָתִית](README.fr.md) [גֶרמָנִיָת](README.de.md) <br>[יַפָּנִית](README.ja.md) [סינית (פשוטה)](README.zh-CN.md) [סינית (מסורתית)](README.zh-TW.md) [קוריאנית](README.ko.md) [רוסו](README.ru.md) [עֲרָבִית](README.ar.md)<br> [הוֹלַנד](README.nl.md) [לֹא](README.hi.md) [עִברִית](README.iw.md) [יוונית](README.el.md)<br>
@@ -90,7 +96,7 @@
 -   **`hnb`**(מקורות Humbanew Prequel);
 -   **`isb`**(IESB - המכון להשכלה גבוהה של ברזיליה);
 -   **`alr`**(קֶסֶם);
--   **`udm`**(אודמי);
+-   **`udm`**(אודימי);
 -   **`dio`**(Dio.me);
 -   **`i2a2`**(סָרְבָנִי);
 -   **`bwd`**(Beeccrowd);
@@ -100,6 +106,6 @@
 -   **`amz`**(אמזון - הסמכות);
     > _בקרוב, מינוחים נוספים לארגון המאגרים של תיק העבודות שלי, כפוף לשינויים לפי הצורך._
 
-מאגרים מסוימים פטורים ממינוח זה, כמו מאגר הפרופילים המיוחד של Github`Humba01/Humba01`ואת`Humba01/dotfiles`עבור תצורת ההפעלה של Github Codespaces.
+מאגרים מסוימים פטורים ממינוח זה, כמו מאגר הפרופילים המיוחד של Github`Humba01/Humba01`ואת`Humba01/dotfiles`עבור תצורת ההשקה של Github Codespaces.
 
 </div>
