@@ -2,6 +2,12 @@
 
 ![Humba01-Header-Profile](./assets/Humba01-Github.svg)<br>
 
+</div>
+
+> [！警告!]このファイルおよびサイドバーで提供される私のプロフィール/アカウント情報は、電子メールによる事前の承認がある場合にのみ使用/収集する必要があります。
+
+<div align="center">
+  
 ![Idiomas-Title](./assets/Idiomas-container.svg)
 
    [ポルトガル語](README.md) [英語](README.en.md) [スペイン語](README.es.md) [イタリア語](README.it.md) [フランス語](README.fr.md) [ドイツ語](README.de.md) <br>[日本語](README.ja.md) [中国語（簡体字）](README.zh-CN.md) [中国語（繁体字）](README.zh-TW.md) [韓国人](README.ko.md) [ルッソ](README.ru.md) [アラビア語](README.ar.md)<br> [オランダ](README.nl.md) [いいえ](README.hi.md) [ヘブライ語](README.iw.md) [ギリシャ語](README.el.md)<br>
@@ -21,8 +27,8 @@
 私はコンピューターサイエンスの学生で、テクノロジーとソフトウェア開発に情熱を持っています。 Java、PHP、ANSI C/C++、JavaScript/Typescript など、いくつかのプログラミング言語の経験があります。私は常に新しいテクノロジーを学び、より完全な開発者になるためにスキルを向上させたいと考えています。さらに、私は人工知能の愛好家であり、この分野が提供する可能性を探ることに興味があります。
 
 -   🔭 私は現在、個人、学術、フリーランスのプロジェクトに取り組んでいます。
--   🌱 Atualmente estou aprendendo a linguagem Kotlin.
--   👯 Procuro colaborar em projetos pessoais e de equipes que for contratado.
+-   🌱 私は現在 Kotlin 言語を学習しています。
+-   👯 私は、雇われている個人プロジェクトやチームプロジェクトに協力するよう努めています。
 -   🤔 ソフトウェアのトラブルシューティングに関するヘルプを探しています。
 -   💬 テクノロジーと人工知能の分野について質問してください。
 -   😄 代名詞: 彼/彼 - エレ/デレ。
@@ -86,7 +92,7 @@
 -   **`psn`**（個人的）;
 -   **`pxp`**(個人 - 実験的);
 -   **`mdl`**（モデル）;
--   **`mnr`**(モノレポ);
+-   **`mnr`**（モノレポ）;
 -   **`hnb`**(フンバニュー前編ソース);
 -   **`isb`**(IESB - ブラジリア高等教育研究所);
 -   **`alr`**(魅力);
@@ -100,6 +106,6 @@
 -   **`amz`**(Amazon - 認定);
     > _近々、ポートフォリオのリポジトリを整理するためのさらに多くの命名法が追加される予定ですが、必要に応じて変更される可能性があります。_
 
-Alguns repositórios são isentos dessa nomenclatura como o repositório especial de perfil do Github `Humba01/Humba01`そして`Humba01/dotfiles`Github Codespaces の起動設定用。
+特別な Github プロファイル リポジトリなど、一部のリポジトリはこの命名規則から免除されます。`Humba01/Humba01`そして`Humba01/dotfiles`Github Codespaces の起動設定用。
 
 </div>
