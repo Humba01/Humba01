@@ -2,6 +2,12 @@
 
 ![Humba01-Header-Profile](./assets/Humba01-Github.svg)<br>
 
+</div>
+
+> [!WAARSCHUWING]Mijn profiel-/accountgegevens in dit bestand en in de zijbalk mogen alleen worden gebruikt/verzameld met voorafgaande toestemming via e-mail.
+
+<div align="center">
+  
 ![Idiomas-Title](./assets/Idiomas-container.svg)
 
    [Portugees](README.md) [Engels](README.en.md) [Spaans](README.es.md) [Italiaans](README.it.md) [Frans](README.fr.md) [Duits](README.de.md) <br>[Japanse](README.ja.md) [Chinees (vereenvoudigd)](README.zh-CN.md) [Chinees (traditioneel)](README.zh-TW.md) [Koreaans](README.ko.md) [Rus](README.ru.md) [Arabisch](README.ar.md)<br> [Holland](README.nl.md) [Nee](README.hi.md) [Hebreeuws](README.iw.md) [Grieks](README.el.md)<br>
@@ -25,7 +31,7 @@ Ik ben een student Computerwetenschappen, gepassioneerd door technologie en soft
 -   👯 Ik probeer mee te werken aan persoonlijke en teamprojecten waarvoor ik word ingehuurd.
 -   🤔 Ik zoek hulp bij het oplossen van softwareproblemen.
 -   💬 Vraag mij op het gebied van technologie en Kunstmatige Intelligentie.
--   😄 Pronouns: he/him - ele/dele.
+-   😄 Voornaamwoorden: hij/hem - ele/dele.
 -   ⚡ Leuk weetje: ik ben hypergefocust op het bouwen van gekke projecten in mijn vrije tijd.
 
 </div><br><br>
@@ -97,9 +103,9 @@ Mijn repositories worden georganiseerd op basis van herkomst, namelijk:
 -   **`goo`**(Google - Certificeringen);
 -   **`msf`**(Microsoft - Certificeringen);
 -   **`ibm`**(IBM - Certificeringen);
--   **`amz`**(Amazon - Certificeringen);
+-   **`amz`** (Amazon - Certificações);
     > _Binnenkort volgen meer nomenclaturen om de opslagplaatsen van mijn portfolio te organiseren, onder voorbehoud van wijzigingen indien nodig._
 
-Sommige repository's zijn vrijgesteld van deze nomenclatuur, zoals de speciale Github-profielrepository`Humba01/Humba01`en de`Humba01/dotfiles`voor de opstartconfiguratie van Github Codespaces.
+Sommige repository's zijn vrijgesteld van deze nomenclatuur, zoals de speciale Github-profielrepository`Humba01/Humba01`en de`Humba01/dotfiles`voor de startconfiguratie van Github Codespaces.
 
 </div>
