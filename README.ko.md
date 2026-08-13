@@ -2,6 +2,12 @@
 
 ![Humba01-Header-Profile](./assets/Humba01-Github.svg)<br>
 
+</div>
+
+> [!경고]이 파일과 사이드바에 제공된 내 프로필/계정 정보는 이메일을 통한 사전 승인을 받은 경우에만 사용/수집되어야 합니다.
+
+<div align="center">
+  
 ![Idiomas-Title](./assets/Idiomas-container.svg)
 
    [포르투갈 인](README.md) [영어](README.en.md) [스페인 사람](README.es.md) [이탈리아 사람](README.it.md) [프랑스 국민](README.fr.md) [독일 사람](README.de.md) <br>[일본어](README.ja.md) [중국어(간체)](README.zh-CN.md) [중국어(번체)](README.zh-TW.md) [한국인](README.ko.md) [루소](README.ru.md) [아라비아 말](README.ar.md)<br> [네덜란드](README.nl.md) [아니요](README.hi.md) [헤브라이 사람](README.iw.md) [그리스 사람](README.el.md)<br>
@@ -23,7 +29,7 @@
 -   🔭 저는 현재 개인, 학술, 프리랜서 프로젝트를 진행하고 있습니다.
 -   🌱 저는 현재 Kotlin 언어를 배우고 있습니다.
 -   👯 나는 내가 고용한 개인 프로젝트와 팀 프로젝트를 협업하려고 노력합니다.
--   🤔 소프트웨어 문제 해결에 대한 도움을 찾고 있습니다.
+-   🤔 Procuro ajuda com soluções de problemas em softwares.
 -   💬 기술과 인공지능 분야에 대해 물어보세요.
 -   😄 대명사: 그/그 - 엘레/델.
 -   ⚡ 재미있는 사실: 저는 여가 시간에 미친 프로젝트를 만드는 데 지나치게 집중하고 있습니다.
@@ -100,6 +106,6 @@
 -   **`amz`**(아마존 - 인증);
     > _곧 내 포트폴리오 저장소를 구성하기 위한 더 많은 명명법이 제공될 예정이며 필요에 따라 변경될 수 있습니다._
 
-특수 Github 프로필 저장소와 같은 일부 저장소는 이 명명법에서 제외됩니다.`Humba01/Humba01`그리고`Humba01/dotfiles`Github Codespaces 시작 구성용.
+특수 Github 프로필 저장소와 같은 일부 저장소는 이 명명법에서 제외됩니다.`Humba01/Humba01`그리고`Humba01/dotfiles`Github Codespaces 실행 구성을 위한 것입니다.
 
 </div>
